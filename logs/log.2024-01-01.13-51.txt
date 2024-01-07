@@ -1,0 +1,151 @@
+13:51:00.714 <INFO> Starting game with target score '51'
+13:51:00.748 <INFO> AI Player 0 adding card: 'J ♦' to hand
+13:51:00.749 <INFO> AI Player 1 adding card: '10 ♦' to hand
+13:51:00.749 <INFO> AI Player 2 adding card: '7 ♥' to hand
+13:51:00.749 <INFO> Human Player You adding card: '9 ♠' to hand
+13:51:00.756 <INFO> AI Player 0 adding card: '7 ♣' to hand
+13:51:00.756 <INFO> AI Player 1 adding card: '10 ♥' to hand
+13:51:00.756 <INFO> AI Player 2 adding card: 'Q ♦' to hand
+13:51:00.756 <INFO> Human Player You adding card: '2 ♦' to hand
+13:51:00.756 <INFO> AI Player 0 adding card: '4 ♥' to hand
+13:51:00.756 <INFO> AI Player 1 adding card: '5 ♣' to hand
+13:51:00.756 <INFO> AI Player 2 adding card: '6 ♣' to hand
+13:51:00.756 <INFO> Human Player You adding card: '7 ♠' to hand
+13:51:00.756 <INFO> AI Player 0 adding card: '3 ♣' to hand
+13:51:00.756 <INFO> AI Player 1 adding card: 'Q ♥' to hand
+13:51:00.756 <INFO> AI Player 2 adding card: '6 ♠' to hand
+13:51:00.756 <INFO> Human Player You adding card: '9 ♦' to hand
+13:51:00.756 <INFO> AI Player 0 adding card: '9 ♣' to hand
+13:51:00.756 <INFO> AI Player 1 adding card: '5 ♥' to hand
+13:51:00.756 <INFO> AI Player 2 adding card: '10 ♠' to hand
+13:51:00.756 <INFO> Human Player You adding card: '4 ♦' to hand
+13:51:00.756 <INFO> AI Player 0 adding card: '2 ♠' to hand
+13:51:00.756 <INFO> AI Player 1 adding card: 'A ♥' to hand
+13:51:00.756 <INFO> AI Player 2 adding card: '4 ♠' to hand
+13:51:00.756 <INFO> Human Player You adding card: '5 ♦' to hand
+13:51:00.756 <INFO> AI Player 0 adding card: 'Q ♠' to hand
+13:51:00.756 <INFO> AI Player 1 adding card: 'A ♠' to hand
+13:51:00.756 <INFO> AI Player 2 adding card: '2 ♣' to hand
+13:51:00.756 <INFO> Human Player You adding card: 'A ♦' to hand
+13:51:00.756 <INFO> AI Player 0 adding card: '3 ♠' to hand
+13:51:00.756 <INFO> AI Player 1 adding card: 'J ♠' to hand
+13:51:00.756 <INFO> AI Player 2 adding card: 'J ♣' to hand
+13:51:00.756 <INFO> Human Player You adding card: 'A ♣' to hand
+13:51:00.756 <INFO> AI Player 0 adding card: 'K ♣' to hand
+13:51:00.756 <INFO> AI Player 1 adding card: 'K ♠' to hand
+13:51:00.756 <INFO> AI Player 2 adding card: '5 ♠' to hand
+13:51:00.756 <INFO> Human Player You adding card: '8 ♣' to hand
+13:51:00.756 <INFO> AI Player 0 adding card: 'Q ♣' to hand
+13:51:00.756 <INFO> AI Player 1 adding card: '7 ♦' to hand
+13:51:00.756 <INFO> AI Player 2 adding card: '6 ♦' to hand
+13:51:00.756 <INFO> Human Player You adding card: '8 ♥' to hand
+13:51:00.756 <INFO> AI Player 0 adding card: '3 ♦' to hand
+13:51:00.756 <INFO> AI Player 1 adding card: '4 ♣' to hand
+13:51:00.756 <INFO> AI Player 2 adding card: '8 ♦' to hand
+13:51:00.756 <INFO> Human Player You adding card: '10 ♣' to hand
+13:51:00.756 <INFO> AI Player 0 adding card: '8 ♠' to hand
+13:51:00.756 <INFO> AI Player 1 adding card: '6 ♥' to hand
+13:51:00.756 <INFO> AI Player 2 adding card: '2 ♥' to hand
+13:51:00.756 <INFO> Human Player You adding card: 'K ♦' to hand
+13:51:00.756 <INFO> AI Player 0 adding card: 'J ♥' to hand
+13:51:00.756 <INFO> AI Player 1 adding card: 'K ♥' to hand
+13:51:00.756 <INFO> AI Player 2 adding card: '9 ♥' to hand
+13:51:00.756 <INFO> Human Player You adding card: '3 ♥' to hand
+13:51:00.757 <INFO> AI Player 0 making decision for initial throw...
+13:51:00.760 <INFO> [initial throw] Ordered hand: 4 ♥, J ♥, 3 ♦, J ♦, 3 ♣, 7 ♣, 9 ♣, Q ♣, K ♣, 2 ♠, 3 ♠, 8 ♠, Q ♠; Memory: 
+13:51:00.766 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'J ♦' with 
+                individual card weight '12' and memory benefit '-1'
+                
+13:51:00.766 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '7 ♣' with 
+                individual card weight '7' and memory benefit '-1'
+                
+13:51:00.766 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '4 ♥' with 
+                individual card weight '11' and memory benefit '1'
+                
+13:51:00.766 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '3 ♣' with 
+                individual card weight '3' and memory benefit '-1'
+                
+13:51:00.766 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '9 ♣' with 
+                individual card weight '9' and memory benefit '-1'
+                
+13:51:00.766 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '2 ♠' with 
+                individual card weight '2' and memory benefit '-1'
+                
+13:51:00.766 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'Q ♠' with 
+                individual card weight '13' and memory benefit '-1'
+                
+13:51:00.766 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '3 ♠' with 
+                individual card weight '3' and memory benefit '-1'
+                
+13:51:00.766 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'K ♣' with 
+                individual card weight '14' and memory benefit '-1'
+                
+13:51:00.766 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'Q ♣' with 
+                individual card weight '13' and memory benefit '-1'
+                
+13:51:00.766 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '3 ♦' with 
+                individual card weight '3' and memory benefit '-1'
+                
+13:51:00.766 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '8 ♠' with 
+                individual card weight '8' and memory benefit '-1'
+                
+13:51:00.766 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on 'J ♥' with 
+                individual card weight '3' and memory benefit '1'
+                
+13:51:00.775 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '3 ♦' with 
+                utility '12'
+                
+13:51:00.775 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '2 ♠' with 
+                utility '11'
+                
+13:51:00.775 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '3 ♣' with 
+                utility '9'
+                
+13:51:00.776 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'TryTake' on Card 'K ♣'
+13:51:00.776 <INFO> [initial throw] Try-take available, throwing: 'K ♣'
+13:51:00.776 <INFO> AI Player 0 throwing initial card: 'K ♣'
+13:51:02.287 <INFO> AI Player 1 making decision...
+13:51:02.289 <INFO> 
+            [later throw, same suit] Hand: 10 ♦, 10 ♥, 5 ♣, Q ♥, 5 ♥, A ♥, A ♠, J ♠, K ♠, 7 ♦, 4 ♣, 6 ♥, K ♥; 
+            throwable: 4 ♣, 5 ♣; 
+            take weight: 14
+            
+13:51:02.289 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '5 ♣'
+13:51:02.289 <INFO> AI Player 1 throwing card: '5 ♣'
+13:51:03.794 <INFO> AI Player 2 making decision...
+13:51:03.795 <INFO> 
+            [later throw, same suit] Hand: 7 ♥, Q ♦, 6 ♣, 6 ♠, 10 ♠, 4 ♠, 2 ♣, J ♣, 5 ♠, 6 ♦, 8 ♦, 2 ♥, 9 ♥; 
+            throwable: 2 ♣, 6 ♣, J ♣; 
+            take weight: 14
+            
+13:51:03.795 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'J ♣'
+13:51:03.795 <INFO> AI Player 2 throwing card: 'J ♣'
+13:51:6.245 <ERROR> Unknown exception of type [System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GameOfHearts.HumanPlayer.Services.InputOutputService.ReadInputAndClearViable() in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.HumanPlayer\Services\InputOutputService.cs:line 101
+   at GameOfHearts.HumanPlayer.ConsolePlayer.ThrowCard(Card initial, ReadOnlySpan`1 trick) in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.HumanPlayer\ConsolePlayer.cs:line 98
+   at GameOfHearts.Game.Services.GameService.RemaningPlayersThrow(Card initial) in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.Game\Services\GameService.cs:line 39
+   at GameOfHearts.Game.Services.GameService.PlayGame() in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.Game\Services\GameService.cs:line 141
+   at GameOfHearts.ConsoleApp.Program.Main(String[] args) in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.ConsoleApp\Program.cs:line 36]: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+Trace:    at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GameOfHearts.HumanPlayer.Services.InputOutputService.ReadInputAndClearViable() in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.HumanPlayer\Services\InputOutputService.cs:line 101
+   at GameOfHearts.HumanPlayer.ConsolePlayer.ThrowCard(Card initial, ReadOnlySpan`1 trick) in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.HumanPlayer\ConsolePlayer.cs:line 98
+   at GameOfHearts.Game.Services.GameService.RemaningPlayersThrow(Card initial) in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.Game\Services\GameService.cs:line 39
+   at GameOfHearts.Game.Services.GameService.PlayGame() in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.Game\Services\GameService.cs:line 141
+   at GameOfHearts.ConsoleApp.Program.Main(String[] args) in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.ConsoleApp\Program.cs:line 36

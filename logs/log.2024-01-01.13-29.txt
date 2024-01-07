@@ -1,0 +1,1474 @@
+13:21:16.107 <INFO> AI Player 0 adding card: '10 ♦' to hand
+13:21:16.123 <INFO> AI Player 1 adding card: '7 ♠' to hand
+13:21:16.123 <INFO> AI Player 2 adding card: '2 ♥' to hand
+13:21:16.124 <INFO> Human Player You adding card: '7 ♦' to hand
+13:21:16.163 <INFO> AI Player 0 adding card: '7 ♥' to hand
+13:21:16.163 <INFO> AI Player 1 adding card: 'A ♠' to hand
+13:21:16.163 <INFO> AI Player 2 adding card: '8 ♣' to hand
+13:21:16.163 <INFO> Human Player You adding card: '9 ♥' to hand
+13:21:16.163 <INFO> AI Player 0 adding card: '5 ♦' to hand
+13:21:16.163 <INFO> AI Player 1 adding card: '5 ♠' to hand
+13:21:16.163 <INFO> AI Player 2 adding card: 'Q ♠' to hand
+13:21:16.163 <INFO> Human Player You adding card: 'A ♥' to hand
+13:21:16.164 <INFO> AI Player 0 adding card: '6 ♠' to hand
+13:21:16.164 <INFO> AI Player 1 adding card: 'J ♥' to hand
+13:21:16.164 <INFO> AI Player 2 adding card: '3 ♠' to hand
+13:21:16.164 <INFO> Human Player You adding card: 'K ♥' to hand
+13:21:16.164 <INFO> AI Player 0 adding card: '3 ♣' to hand
+13:21:16.164 <INFO> AI Player 1 adding card: '4 ♥' to hand
+13:21:16.164 <INFO> AI Player 2 adding card: '8 ♥' to hand
+13:21:16.164 <INFO> Human Player You adding card: 'Q ♣' to hand
+13:21:16.164 <INFO> AI Player 0 adding card: '9 ♣' to hand
+13:21:16.164 <INFO> AI Player 1 adding card: '6 ♥' to hand
+13:21:16.164 <INFO> AI Player 2 adding card: '10 ♣' to hand
+13:21:16.164 <INFO> Human Player You adding card: '9 ♦' to hand
+13:21:16.164 <INFO> AI Player 0 adding card: '4 ♦' to hand
+13:21:16.164 <INFO> AI Player 1 adding card: 'K ♦' to hand
+13:21:16.164 <INFO> AI Player 2 adding card: 'Q ♥' to hand
+13:21:16.164 <INFO> Human Player You adding card: 'K ♠' to hand
+13:21:16.164 <INFO> AI Player 0 adding card: 'A ♦' to hand
+13:21:16.164 <INFO> AI Player 1 adding card: '2 ♣' to hand
+13:21:16.164 <INFO> AI Player 2 adding card: '7 ♣' to hand
+13:21:16.164 <INFO> Human Player You adding card: '8 ♠' to hand
+13:21:16.164 <INFO> AI Player 0 adding card: '4 ♣' to hand
+13:21:16.164 <INFO> AI Player 1 adding card: '2 ♠' to hand
+13:21:16.164 <INFO> AI Player 2 adding card: 'A ♣' to hand
+13:21:16.164 <INFO> Human Player You adding card: 'Q ♦' to hand
+13:21:16.164 <INFO> AI Player 0 adding card: '5 ♥' to hand
+13:21:16.164 <INFO> AI Player 1 adding card: '6 ♣' to hand
+13:21:16.164 <INFO> AI Player 2 adding card: '3 ♥' to hand
+13:21:16.164 <INFO> Human Player You adding card: 'J ♣' to hand
+13:21:16.164 <INFO> AI Player 0 adding card: '5 ♣' to hand
+13:21:16.164 <INFO> AI Player 1 adding card: 'J ♦' to hand
+13:21:16.164 <INFO> AI Player 2 adding card: '8 ♦' to hand
+13:21:16.164 <INFO> Human Player You adding card: '9 ♠' to hand
+13:21:16.164 <INFO> AI Player 0 adding card: '3 ♦' to hand
+13:21:16.164 <INFO> AI Player 1 adding card: 'J ♠' to hand
+13:21:16.164 <INFO> AI Player 2 adding card: '6 ♦' to hand
+13:21:16.164 <INFO> Human Player You adding card: '10 ♠' to hand
+13:21:16.164 <INFO> AI Player 0 adding card: 'K ♣' to hand
+13:21:16.164 <INFO> AI Player 1 adding card: '4 ♠' to hand
+13:21:16.164 <INFO> AI Player 2 adding card: '10 ♥' to hand
+13:21:16.164 <INFO> Human Player You adding card: '2 ♦' to hand
+13:21:16.164 <INFO> AI Player 0 making decision for initial throw...
+13:21:16.168 <INFO> [initial throw] Ordered hand: 5 ♥, 7 ♥, 3 ♦, 4 ♦, 5 ♦, 10 ♦, A ♦, 3 ♣, 4 ♣, 5 ♣, 9 ♣, K ♣, 6 ♠; Memory: 
+13:21:16.174 <INFO> [initial throw] Registered possible decision 'TryTake' on '10 ♦' with \
+individual card weight '10' and memory benefit '-1'\
+13:21:16.174 <INFO> [initial throw] Registered possible decision 'LowHeart' on '7 ♥' with \
+individual card weight '8' and memory benefit '1'\
+13:21:16.174 <INFO> [initial throw] Registered possible decision 'TryTake' on '5 ♦' with \
+individual card weight '5' and memory benefit '-1'\
+13:21:16.174 <INFO> [initial throw] Registered possible decision 'TryTake' on '6 ♠' with \
+individual card weight '6' and memory benefit '-1'\
+13:21:16.174 <INFO> [initial throw] Registered possible decision 'TryTake' on '3 ♣' with \
+individual card weight '3' and memory benefit '-1'\
+13:21:16.174 <INFO> [initial throw] Registered possible decision 'TryTake' on '9 ♣' with \
+individual card weight '9' and memory benefit '-1'\
+13:21:16.174 <INFO> [initial throw] Registered possible decision 'TryTake' on '4 ♦' with \
+individual card weight '4' and memory benefit '-1'\
+13:21:16.174 <INFO> [initial throw] Registered possible decision 'TryTake' on 'A ♦' with \
+individual card weight '15' and memory benefit '-1'\
+13:21:16.174 <INFO> [initial throw] Registered possible decision 'TryTake' on '4 ♣' with \
+individual card weight '4' and memory benefit '-1'\
+13:21:16.174 <INFO> [initial throw] Registered possible decision 'LowHeart' on '5 ♥' with \
+individual card weight '10' and memory benefit '1'\
+13:21:16.174 <INFO> [initial throw] Registered possible decision 'TryTake' on '5 ♣' with \
+individual card weight '5' and memory benefit '-1'\
+13:21:16.175 <INFO> [initial throw] Registered possible decision 'TryTake' on '3 ♦' with \
+individual card weight '3' and memory benefit '-1'\
+13:21:16.175 <INFO> [initial throw] Registered possible decision 'TryTake' on 'K ♣' with \
+individual card weight '14' and memory benefit '-1'\
+13:21:16.184 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '3 ♦' with \
+utility '9'\
+13:21:16.184 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '3 ♣' with \
+utility '9'\
+13:21:16.185 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:21:16.185 <INFO> [initial throw] Try-take available, throwing: 'A ♦'
+13:21:16.185 <INFO> AI Player 0 throwing initial card: 'A ♦'
+13:21:17.690 <INFO> AI Player 1 making decision...
+13:21:17.692 <INFO> [later throw, same suit] Hand: 7 ♠, A ♠, 5 ♠, J ♥, 4 ♥, 6 ♥, K ♦, 2 ♣, 2 ♠, 6 ♣, J ♦, J ♠, 4 ♠; \
+throwable: J ♦, K ♦; \
+take weight: 15\
+13:21:17.692 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'K ♦'
+13:21:17.692 <INFO> AI Player 1 throwing card: 'K ♦'
+13:21:19.195 <INFO> AI Player 2 making decision...
+13:21:19.195 <INFO> [later throw, same suit] Hand: 2 ♥, 8 ♣, Q ♠, 3 ♠, 8 ♥, 10 ♣, Q ♥, 7 ♣, A ♣, 3 ♥, 8 ♦, 6 ♦, 10 ♥; \
+throwable: 6 ♦, 8 ♦; \
+take weight: 15\
+13:21:19.195 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '8 ♦'
+13:21:19.195 <INFO> AI Player 2 throwing card: '8 ♦'
+13:21:30.902 <INFO> Human Player You throwing card: 'Q ♦'
+13:21:30.904 <INFO> AI Player 0 taking trick: 'A ♦, K ♦, 8 ♦, Q ♦'
+13:21:30.904 <INFO> AI Player 0 remembering card: 'K ♦'
+13:21:30.904 <INFO> AI Player 0 remembering card: '8 ♦'
+13:21:30.904 <INFO> AI Player 0 remembering card: 'Q ♦'
+13:21:34.417 <INFO> AI Player 0 making decision for initial throw...
+13:21:34.417 <INFO> [initial throw] Ordered hand: 5 ♥, 7 ♥, 3 ♦, 4 ♦, 5 ♦, 10 ♦, 3 ♣, 4 ♣, 5 ♣, 9 ♣, K ♣, 6 ♠; Memory: K ♦, 8 ♦, Q ♦
+13:21:34.418 <INFO> [initial throw] Registered possible decision 'TryTake' on '10 ♦' with \
+individual card weight '10' and memory benefit '-1'\
+13:21:34.418 <INFO> [initial throw] Registered possible decision 'LowHeart' on '7 ♥' with \
+individual card weight '8' and memory benefit '1'\
+13:21:34.418 <INFO> [initial throw] Registered possible decision 'TryTake' on '5 ♦' with \
+individual card weight '5' and memory benefit '-1'\
+13:21:34.418 <INFO> [initial throw] Registered possible decision 'TryTake' on '6 ♠' with \
+individual card weight '6' and memory benefit '-1'\
+13:21:34.418 <INFO> [initial throw] Registered possible decision 'TryTake' on '3 ♣' with \
+individual card weight '3' and memory benefit '-1'\
+13:21:34.418 <INFO> [initial throw] Registered possible decision 'TryTake' on '9 ♣' with \
+individual card weight '9' and memory benefit '-1'\
+13:21:34.418 <INFO> [initial throw] Registered possible decision 'TryTake' on '4 ♦' with \
+individual card weight '4' and memory benefit '-1'\
+13:21:34.418 <INFO> [initial throw] Registered possible decision 'TryTake' on '4 ♣' with \
+individual card weight '4' and memory benefit '-1'\
+13:21:34.418 <INFO> [initial throw] Registered possible decision 'LowHeart' on '5 ♥' with \
+individual card weight '10' and memory benefit '1'\
+13:21:34.418 <INFO> [initial throw] Registered possible decision 'TryTake' on '5 ♣' with \
+individual card weight '5' and memory benefit '-1'\
+13:21:34.418 <INFO> [initial throw] Registered possible decision 'TryTake' on '3 ♦' with \
+individual card weight '3' and memory benefit '-1'\
+13:21:34.418 <INFO> [initial throw] Registered possible decision 'TryTake' on 'K ♣' with \
+individual card weight '14' and memory benefit '-1'\
+13:21:34.418 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '3 ♦' with \
+utility '10'\
+13:21:34.418 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '3 ♣' with \
+utility '9'\
+13:21:34.418 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:21:34.418 <INFO> [initial throw] Try-take available, throwing: 'K ♣'
+13:21:34.418 <INFO> AI Player 0 throwing initial card: 'K ♣'
+13:21:35.923 <INFO> AI Player 1 making decision...
+13:21:35.924 <INFO> [later throw, same suit] Hand: 7 ♠, A ♠, 5 ♠, J ♥, 4 ♥, 6 ♥, 2 ♣, 2 ♠, 6 ♣, J ♦, J ♠, 4 ♠; \
+throwable: 2 ♣, 6 ♣; \
+take weight: 14\
+13:21:35.924 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '6 ♣'
+13:21:35.924 <INFO> AI Player 1 throwing card: '6 ♣'
+13:21:37.426 <INFO> AI Player 2 making decision...
+13:21:37.426 <INFO> [later throw, same suit] Hand: 2 ♥, 8 ♣, Q ♠, 3 ♠, 8 ♥, 10 ♣, Q ♥, 7 ♣, A ♣, 3 ♥, 6 ♦, 10 ♥; \
+throwable: 7 ♣, 8 ♣, 10 ♣, A ♣; \
+take weight: 14\
+13:21:37.426 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'A ♣'
+13:21:37.426 <INFO> AI Player 2 throwing card: 'A ♣'
+13:21:40.545 <INFO> Human Player You throwing card: 'Q ♣'
+13:21:40.545 <INFO> AI Player 2 taking trick: 'K ♣, 6 ♣, A ♣, Q ♣'
+13:21:40.545 <INFO> AI Player 2 remembering card: 'K ♣'
+13:21:40.545 <INFO> AI Player 2 remembering card: '6 ♣'
+13:21:40.545 <INFO> AI Player 2 remembering card: 'A ♣'
+13:21:40.545 <INFO> AI Player 2 remembering card: 'Q ♣'
+13:21:44.053 <INFO> AI Player 2 making decision for initial throw...
+13:21:44.054 <INFO> [initial throw] Ordered hand: 2 ♥, 3 ♥, 8 ♥, 10 ♥, Q ♥, 6 ♦, 7 ♣, 8 ♣, 10 ♣, 3 ♠, Q ♠; Memory: K ♣, 6 ♣, A ♣, Q ♣
+13:21:44.054 <INFO> [initial throw] Registered possible decision 'LowHeart' on '2 ♥' with \
+individual card weight '13' and memory benefit '1'\
+13:21:44.054 <INFO> [initial throw] Registered possible decision 'TryTake' on '8 ♣' with \
+individual card weight '8' and memory benefit '-1'\
+13:21:44.054 <INFO> [initial throw] Registered possible decision 'TryTake' on 'Q ♠' with \
+individual card weight '13' and memory benefit '-1'\
+13:21:44.054 <INFO> [initial throw] Registered possible decision 'TryTake' on '3 ♠' with \
+individual card weight '3' and memory benefit '-1'\
+13:21:44.054 <INFO> [initial throw] Registered possible decision 'LowHeart' on '8 ♥' with \
+individual card weight '7' and memory benefit '1'\
+13:21:44.054 <INFO> [initial throw] Registered possible decision 'TryTake' on '10 ♣' with \
+individual card weight '10' and memory benefit '-1'\
+13:21:44.054 <INFO> [initial throw] Registered possible decision 'LowHeart' on 'Q ♥' with \
+individual card weight '2' and memory benefit '1'\
+13:21:44.054 <INFO> [initial throw] Registered possible decision 'TryTake' on '7 ♣' with \
+individual card weight '7' and memory benefit '-1'\
+13:21:44.054 <INFO> [initial throw] Registered possible decision 'LowHeart' on '3 ♥' with \
+individual card weight '12' and memory benefit '1'\
+13:21:44.054 <INFO> [initial throw] Registered possible decision 'TryTake' on '6 ♦' with \
+individual card weight '6' and memory benefit '-1'\
+13:21:44.054 <INFO> [initial throw] Registered possible decision 'LowHeart' on '10 ♥' with \
+individual card weight '5' and memory benefit '1'\
+13:21:44.054 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '6 ♦' with \
+utility '13'\
+13:21:44.054 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '3 ♠' with \
+utility '13'\
+13:21:44.054 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '7 ♣' with \
+utility '11'\
+13:21:44.054 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:21:44.054 <INFO> [initial throw] No Try-take exists; Low Heart available, throwing: '2 ♥'
+13:21:44.054 <INFO> AI Player 2 throwing initial card: '2 ♥'
+13:21:50.501 <INFO> Human Player You throwing card: '9 ♥'
+13:21:52.002 <INFO> AI Player 0 making decision...
+13:21:52.002 <INFO> [later throw, same suit] Hand: 10 ♦, 7 ♥, 5 ♦, 6 ♠, 3 ♣, 9 ♣, 4 ♦, 4 ♣, 5 ♥, 5 ♣, 3 ♦; \
+throwable: 5 ♥, 7 ♥; \
+take weight: 9\
+13:21:52.002 <INFO> [later throw, same suit] Suit is Hearts, throwing highest possible, but lower: '7 ♥'
+13:21:52.002 <INFO> AI Player 0 throwing card: '7 ♥'
+13:21:53.506 <INFO> AI Player 1 making decision...
+13:21:53.506 <INFO> [later throw, same suit] Hand: 7 ♠, A ♠, 5 ♠, J ♥, 4 ♥, 6 ♥, 2 ♣, 2 ♠, J ♦, J ♠, 4 ♠; \
+throwable: 4 ♥, 6 ♥, J ♥; \
+take weight: 9\
+13:21:53.506 <INFO> [later throw, same suit] Suit is Hearts, throwing highest possible, but lower: '6 ♥'
+13:21:53.506 <INFO> AI Player 1 throwing card: '6 ♥'
+13:21:53.506 <INFO> Human Player You taking trick: '2 ♥, 9 ♥, 7 ♥, 6 ♥'
+13:22:14.867 <INFO> Human Player You throwing initial card: 'K ♠'
+13:22:16.381 <INFO> AI Player 0 making decision...
+13:22:16.382 <INFO> AI Player 0 throwing card: '6 ♠'
+13:22:17.883 <INFO> AI Player 1 making decision...
+13:22:17.883 <INFO> [later throw, same suit] Hand: 7 ♠, A ♠, 5 ♠, J ♥, 4 ♥, 2 ♣, 2 ♠, J ♦, J ♠, 4 ♠; \
+throwable: 2 ♠, 4 ♠, 5 ♠, 7 ♠, J ♠; \
+take weight: 14\
+13:22:17.883 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'J ♠'
+13:22:17.883 <INFO> AI Player 1 throwing card: 'J ♠'
+13:22:19.396 <INFO> AI Player 2 making decision...
+13:22:19.396 <INFO> [later throw, same suit] Hand: 8 ♣, Q ♠, 3 ♠, 8 ♥, 10 ♣, Q ♥, 7 ♣, 3 ♥, 6 ♦, 10 ♥; \
+throwable: 3 ♠; \
+take weight: 14\
+13:22:19.396 <INFO> [later throw, same suit] Can only throw one: '3 ♠'
+13:22:19.396 <INFO> AI Player 2 throwing card: '3 ♠'
+13:22:19.396 <INFO> Human Player You taking trick: 'K ♠, 6 ♠, J ♠, 3 ♠'
+13:22:29.067 <INFO> Human Player You throwing initial card: 'J ♣'
+13:22:30.572 <INFO> AI Player 0 making decision...
+13:22:30.572 <INFO> [later throw, same suit] Hand: 10 ♦, 5 ♦, 3 ♣, 9 ♣, 4 ♦, 4 ♣, 5 ♥, 5 ♣, 3 ♦; \
+throwable: 3 ♣, 4 ♣, 5 ♣; \
+take weight: 12\
+13:22:30.572 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '5 ♣'
+13:22:30.572 <INFO> AI Player 0 throwing card: '5 ♣'
+13:22:32.086 <INFO> AI Player 1 making decision...
+13:22:32.086 <INFO> AI Player 1 throwing card: '2 ♣'
+13:22:33.600 <INFO> AI Player 2 making decision...
+13:22:33.600 <INFO> [later throw, same suit] Hand: 8 ♣, Q ♠, 8 ♥, 10 ♣, Q ♥, 7 ♣, 3 ♥, 6 ♦, 10 ♥; \
+throwable: 7 ♣, 8 ♣, 10 ♣; \
+take weight: 12\
+13:22:33.600 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '10 ♣'
+13:22:33.600 <INFO> AI Player 2 throwing card: '10 ♣'
+13:22:33.600 <INFO> Human Player You taking trick: 'J ♣, 5 ♣, 2 ♣, 10 ♣'
+13:22:41.556 <INFO> Human Player You throwing initial card: '9 ♦'
+13:22:43.071 <INFO> AI Player 0 making decision...
+13:22:43.071 <INFO> [later throw, same suit] Hand: 10 ♦, 5 ♦, 3 ♣, 9 ♣, 4 ♦, 4 ♣, 5 ♥, 3 ♦; \
+throwable: 3 ♦, 4 ♦, 5 ♦, 10 ♦; \
+take weight: 9\
+13:22:43.071 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '10 ♦'
+13:22:43.071 <INFO> AI Player 0 throwing card: '10 ♦'
+13:22:44.578 <INFO> AI Player 1 making decision...
+13:22:44.578 <INFO> AI Player 1 throwing card: 'J ♦'
+13:22:46.085 <INFO> AI Player 2 making decision...
+13:22:46.085 <INFO> AI Player 2 throwing card: '6 ♦'
+13:22:46.085 <INFO> AI Player 1 taking trick: '9 ♦, 10 ♦, J ♦, 6 ♦'
+13:22:46.085 <INFO> AI Player 1 remembering card: '9 ♦'
+13:22:46.085 <INFO> AI Player 1 remembering card: '6 ♦'
+13:22:49.597 <INFO> AI Player 1 making decision for initial throw...
+13:22:49.597 <INFO> [initial throw] Ordered hand: 4 ♥, J ♥, 2 ♠, 4 ♠, 5 ♠, 7 ♠, A ♠; Memory: 9 ♦, 6 ♦
+13:22:49.597 <INFO> [initial throw] Registered possible decision 'TryTake' on '7 ♠' with \
+individual card weight '7' and memory benefit '-1'\
+13:22:49.597 <INFO> [initial throw] Registered possible decision 'TryTake' on 'A ♠' with \
+individual card weight '15' and memory benefit '-1'\
+13:22:49.597 <INFO> [initial throw] Registered possible decision 'TryTake' on '5 ♠' with \
+individual card weight '5' and memory benefit '-1'\
+13:22:49.597 <INFO> [initial throw] Registered possible decision 'LowHeart' on 'J ♥' with \
+individual card weight '3' and memory benefit '1'\
+13:22:49.597 <INFO> [initial throw] Registered possible decision 'LowHeart' on '4 ♥' with \
+individual card weight '11' and memory benefit '1'\
+13:22:49.597 <INFO> [initial throw] Registered possible decision 'TryTake' on '2 ♠' with \
+individual card weight '2' and memory benefit '-1'\
+13:22:49.597 <INFO> [initial throw] Registered possible decision 'TryTake' on '4 ♠' with \
+individual card weight '4' and memory benefit '-1'\
+13:22:49.597 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '2 ♠' with \
+utility '10'\
+13:22:49.597 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:22:49.597 <INFO> [initial throw] Try-take available, throwing: 'A ♠'
+13:22:49.597 <INFO> AI Player 1 throwing initial card: 'A ♠'
+13:22:51.101 <INFO> AI Player 2 making decision...
+13:22:51.101 <INFO> AI Player 2 throwing card: 'Q ♠'
+13:22:54.633 <INFO> Human Player You throwing card: '10 ♠'
+13:22:56.138 <INFO> AI Player 0 making decision...
+13:22:56.139 <INFO> [later throw, other suit] Ordered hand: 5 ♥, 3 ♦, 4 ♦, 5 ♦, 3 ♣, 4 ♣, 9 ♣
+13:22:56.139 <INFO> [later throw, other suit] Have hearts, throwing: 5 ♥
+13:22:56.139 <INFO> AI Player 0 throwing card: '5 ♥'
+13:22:56.139 <INFO> AI Player 1 taking trick: 'A ♠, Q ♠, 10 ♠, 5 ♥'
+13:22:56.139 <INFO> AI Player 1 remembering card: 'A ♠'
+13:22:56.139 <INFO> AI Player 1 remembering card: '10 ♠'
+13:22:56.139 <INFO> AI Player 1 remembering card: '5 ♥'
+13:22:59.645 <INFO> AI Player 1 making decision for initial throw...
+13:22:59.645 <INFO> [initial throw] Ordered hand: 4 ♥, J ♥, 2 ♠, 4 ♠, 5 ♠, 7 ♠; Memory: 9 ♦, 6 ♦, A ♠, 10 ♠, 5 ♥
+13:22:59.646 <INFO> [initial throw] Registered possible decision 'TryTake' on '7 ♠' with \
+individual card weight '7' and memory benefit '-1'\
+13:22:59.646 <INFO> [initial throw] Registered possible decision 'TryTake' on '5 ♠' with \
+individual card weight '5' and memory benefit '-1'\
+13:22:59.646 <INFO> [initial throw] Registered possible decision 'LowHeart' on 'J ♥' with \
+individual card weight '3' and memory benefit '1'\
+13:22:59.646 <INFO> [initial throw] Registered possible decision 'LowHeart' on '4 ♥' with \
+individual card weight '11' and memory benefit '1'\
+13:22:59.646 <INFO> [initial throw] Registered possible decision 'TryTake' on '2 ♠' with \
+individual card weight '2' and memory benefit '-1'\
+13:22:59.646 <INFO> [initial throw] Registered possible decision 'TryTake' on '4 ♠' with \
+individual card weight '4' and memory benefit '-1'\
+13:22:59.646 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '2 ♠' with \
+utility '11'\
+13:22:59.646 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:22:59.646 <INFO> [initial throw] No Try-take exists; Low Heart available, throwing: '4 ♥'
+13:22:59.646 <INFO> AI Player 1 throwing initial card: '4 ♥'
+13:23:01.148 <INFO> AI Player 2 making decision...
+13:23:01.148 <INFO> [later throw, same suit] Hand: 8 ♣, 8 ♥, Q ♥, 7 ♣, 3 ♥, 10 ♥; \
+throwable: 3 ♥, 8 ♥, 10 ♥, Q ♥; \
+take weight: 4\
+13:23:01.148 <INFO> [later throw, same suit] Suit is Hearts, throwing highest possible, but lower: '3 ♥'
+13:23:01.148 <INFO> AI Player 2 throwing card: '3 ♥'
+13:23:09.960 <INFO> Human Player You throwing card: 'K ♥'
+13:23:11.463 <INFO> AI Player 0 making decision...
+13:23:11.463 <INFO> [later throw, other suit] Ordered hand: 3 ♦, 4 ♦, 5 ♦, 3 ♣, 4 ♣, 9 ♣
+13:23:11.466 <INFO> [later throw, other suit] Have multiple suits, threshold is: 0.35
+13:23:11.466 <INFO> [later throw, other suit] Represantion (0.6) is greater than threshold or zero, skipping...
+13:23:11.467 <INFO> [later throw, other suit] Represantion (0) is greater than threshold or zero, skipping...
+13:23:11.467 <INFO> [later throw, other suit] Represantion (0.4) is greater than threshold or zero, skipping...
+13:23:11.468 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '5 ♦' with \
+utility 5'\
+13:23:11.468 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '3 ♣' with \
+utility 3'\
+13:23:11.468 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '9 ♣' with \
+utility 9'\
+13:23:11.468 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '4 ♦' with \
+utility 4'\
+13:23:11.468 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '4 ♣' with \
+utility 4'\
+13:23:11.468 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '3 ♦' with \
+utility 3'\
+13:23:11.468 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:23:11.468 <INFO> AI Player 0 throwing card: '9 ♣'
+13:23:11.468 <INFO> Human Player You taking trick: '4 ♥, 3 ♥, K ♥, 9 ♣'
+13:23:16.945 <INFO> Human Player You throwing initial card: '2 ♦'
+13:23:18.455 <INFO> AI Player 0 making decision...
+13:23:18.455 <INFO> [later throw, same suit] Hand: 5 ♦, 3 ♣, 4 ♦, 4 ♣, 3 ♦; \
+throwable: 3 ♦, 4 ♦, 5 ♦; \
+take weight: 2\
+13:23:18.455 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '5 ♦'
+13:23:18.455 <INFO> AI Player 0 throwing card: '5 ♦'
+13:23:19.965 <INFO> AI Player 1 making decision...
+13:23:19.965 <INFO> [later throw, other suit] Ordered hand: J ♥, 2 ♠, 4 ♠, 5 ♠, 7 ♠
+13:23:19.965 <INFO> [later throw, other suit] Have hearts, throwing: J ♥
+13:23:19.965 <INFO> AI Player 1 throwing card: 'J ♥'
+13:23:21.470 <INFO> AI Player 2 making decision...
+13:23:21.470 <INFO> [later throw, other suit] Ordered hand: 8 ♥, 10 ♥, Q ♥, 7 ♣, 8 ♣
+13:23:21.470 <INFO> [later throw, other suit] Have hearts, throwing: Q ♥
+13:23:21.470 <INFO> AI Player 2 throwing card: 'Q ♥'
+13:23:21.470 <INFO> AI Player 0 taking trick: '2 ♦, 5 ♦, J ♥, Q ♥'
+13:23:21.471 <INFO> AI Player 0 remembering card: '2 ♦'
+13:23:21.471 <INFO> AI Player 0 remembering card: '5 ♦'
+13:23:21.471 <INFO> AI Player 0 remembering card: 'J ♥'
+13:23:21.471 <INFO> AI Player 0 remembering card: 'Q ♥'
+13:23:24.979 <INFO> AI Player 0 making decision for initial throw...
+13:23:24.979 <INFO> [initial throw] Ordered hand: 3 ♦, 4 ♦, 3 ♣, 4 ♣; Memory: K ♦, 8 ♦, Q ♦, 2 ♦, 5 ♦, J ♥, Q ♥
+13:23:24.979 <INFO> [initial throw] Registered possible decision 'TryTake' on '3 ♣' with \
+individual card weight '3' and memory benefit '-1'\
+13:23:24.980 <INFO> [initial throw] Registered possible decision 'TryTake' on '4 ♦' with \
+individual card weight '4' and memory benefit '-1'\
+13:23:24.980 <INFO> [initial throw] Registered possible decision 'TryTake' on '4 ♣' with \
+individual card weight '4' and memory benefit '-1'\
+13:23:24.980 <INFO> [initial throw] Registered possible decision 'TryTake' on '3 ♦' with \
+individual card weight '3' and memory benefit '-1'\
+13:23:24.980 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '3 ♦' with \
+utility '12'\
+13:23:24.980 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '3 ♣' with \
+utility '13'\
+13:23:24.980 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:23:24.980 <INFO> [initial throw] Only Try-Others-Take available, throwing: '3 ♣'
+13:23:24.980 <INFO> AI Player 0 throwing initial card: '3 ♣'
+13:23:26.483 <INFO> AI Player 1 making decision...
+13:23:26.483 <INFO> [later throw, other suit] Ordered hand: 2 ♠, 4 ♠, 5 ♠, 7 ♠
+13:23:26.483 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '7 ♠' with \
+utility 7'\
+13:23:26.483 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '5 ♠' with \
+utility 5'\
+13:23:26.483 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '2 ♠' with \
+utility 2'\
+13:23:26.483 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '4 ♠' with \
+utility 4'\
+13:23:26.483 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:23:26.483 <INFO> AI Player 1 throwing card: '7 ♠'
+13:23:27.984 <INFO> AI Player 2 making decision...
+13:23:27.984 <INFO> [later throw, same suit] Hand: 8 ♣, 8 ♥, 7 ♣, 10 ♥; \
+throwable: 7 ♣; \
+take weight: 3\
+13:23:27.984 <INFO> [later throw, same suit] Can only throw one: '7 ♣'
+13:23:27.984 <INFO> AI Player 2 throwing card: '7 ♣'
+13:23:31.265 <INFO> Human Player You throwing card: 'A ♥'
+13:23:31.266 <INFO> AI Player 2 taking trick: '3 ♣, 7 ♠, 7 ♣, A ♥'
+13:23:31.266 <INFO> AI Player 2 remembering card: '7 ♣'
+13:23:31.266 <INFO> AI Player 2 remembering card: 'A ♥'
+13:23:34.783 <INFO> AI Player 2 making decision for initial throw...
+13:23:34.783 <INFO> [initial throw] Ordered hand: 8 ♥, 10 ♥, 8 ♣; Memory: K ♣, 6 ♣, A ♣, Q ♣, 7 ♣, A ♥
+13:23:34.783 <INFO> [initial throw] Registered possible decision 'TryTake' on '8 ♣' with \
+individual card weight '8' and memory benefit '-1'\
+13:23:34.783 <INFO> [initial throw] Registered possible decision 'LowHeart' on '8 ♥' with \
+individual card weight '7' and memory benefit '1'\
+13:23:34.783 <INFO> [initial throw] Registered possible decision 'LowHeart' on '10 ♥' with \
+individual card weight '5' and memory benefit '1'\
+13:23:34.783 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:23:34.783 <INFO> [initial throw] No Try-take exists; Low Heart available, throwing: '8 ♥'
+13:23:34.783 <INFO> AI Player 2 throwing initial card: '8 ♥'
+13:23:39.831 <INFO> Human Player You throwing card: '9 ♠'
+13:23:41.341 <INFO> AI Player 0 making decision...
+13:23:41.341 <INFO> [later throw, other suit] Ordered hand: 3 ♦, 4 ♦, 4 ♣
+13:23:41.341 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '4 ♦' with \
+utility 4'\
+13:23:41.341 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '4 ♣' with \
+utility 4'\
+13:23:41.341 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '3 ♦' with \
+utility 3'\
+13:23:41.341 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:23:41.341 <INFO> AI Player 0 throwing card: '4 ♦'
+13:23:42.848 <INFO> AI Player 1 making decision...
+13:23:42.848 <INFO> [later throw, other suit] Ordered hand: 2 ♠, 4 ♠, 5 ♠
+13:23:42.848 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '5 ♠' with \
+utility 5'\
+13:23:42.848 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '2 ♠' with \
+utility 2'\
+13:23:42.848 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '4 ♠' with \
+utility 4'\
+13:23:42.848 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:23:42.848 <INFO> AI Player 1 throwing card: '5 ♠'
+13:23:42.848 <INFO> AI Player 2 taking trick: '8 ♥, 9 ♠, 4 ♦, 5 ♠'
+13:23:42.848 <INFO> AI Player 2 remembering card: '8 ♥'
+13:23:42.848 <INFO> AI Player 2 remembering card: '9 ♠'
+13:23:42.848 <INFO> AI Player 2 remembering card: '5 ♠'
+13:23:46.359 <INFO> AI Player 2 making decision for initial throw...
+13:23:46.359 <INFO> [initial throw] Ordered hand: 10 ♥, 8 ♣; Memory: K ♣, 6 ♣, A ♣, Q ♣, 7 ♣, A ♥, 8 ♥, 9 ♠, 5 ♠
+13:23:46.359 <INFO> [initial throw] Registered possible decision 'TryTake' on '8 ♣' with \
+individual card weight '8' and memory benefit '-1'\
+13:23:46.359 <INFO> [initial throw] Registered possible decision 'LowHeart' on '10 ♥' with \
+individual card weight '5' and memory benefit '1'\
+13:23:46.359 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:23:46.359 <INFO> [initial throw] Try-take available, throwing: '8 ♣'
+13:23:46.359 <INFO> AI Player 2 throwing initial card: '8 ♣'
+13:23:49.028 <INFO> Human Player You throwing card: '7 ♦'
+13:23:50.535 <INFO> AI Player 0 making decision...
+13:23:50.535 <INFO> AI Player 0 throwing card: '4 ♣'
+13:23:52.046 <INFO> AI Player 1 making decision...
+13:23:52.046 <INFO> [later throw, other suit] Ordered hand: 2 ♠, 4 ♠
+13:23:52.046 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '2 ♠' with \
+utility 2'\
+13:23:52.046 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '4 ♠' with \
+utility 4'\
+13:23:52.046 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:23:52.046 <INFO> AI Player 1 throwing card: '4 ♠'
+13:23:52.046 <INFO> AI Player 2 taking trick: '8 ♣, 7 ♦, 4 ♣, 4 ♠'
+13:23:52.046 <INFO> AI Player 2 remembering card: '8 ♣'
+13:23:55.559 <INFO> AI Player 2 making decision for initial throw...
+13:23:55.559 <INFO> [initial throw] Ordered hand: 10 ♥; Memory: K ♣, 6 ♣, A ♣, Q ♣, 7 ♣, A ♥, 8 ♥, 9 ♠, 5 ♠, 8 ♣
+13:23:55.559 <INFO> [initial throw] Registered possible decision 'LowHeart' on '10 ♥' with \
+individual card weight '5' and memory benefit '1'\
+13:23:55.559 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:23:55.559 <INFO> [initial throw] No Try-take exists; Low Heart available, throwing: '10 ♥'
+13:23:55.559 <INFO> AI Player 2 throwing initial card: '10 ♥'
+13:23:57.859 <INFO> Human Player You throwing card: '8 ♠'
+13:23:59.366 <INFO> AI Player 0 making decision...
+13:23:59.366 <INFO> [later throw, other suit] Ordered hand: 3 ♦
+13:23:59.366 <INFO> [later throw, other suit] Have multiple suits, threshold is: 0.22
+13:23:59.366 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '3 ♦' with \
+utility 3'\
+13:23:59.366 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:23:59.367 <INFO> AI Player 0 throwing card: '3 ♦'
+13:24:00.871 <INFO> AI Player 1 making decision...
+13:24:00.871 <INFO> [later throw, other suit] Ordered hand: 2 ♠
+13:24:00.871 <INFO> [later throw, other suit] Have multiple suits, threshold is: 0.22
+13:24:00.871 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '2 ♠' with \
+utility 2'\
+13:24:00.871 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:24:00.871 <INFO> AI Player 1 throwing card: '2 ♠'
+13:24:00.871 <INFO> AI Player 2 taking trick: '10 ♥, 8 ♠, 3 ♦, 2 ♠'
+13:24:00.871 <INFO> AI Player 2 remembering card: '10 ♥'
+13:24:00.871 <INFO> AI Player 2 remembering card: '8 ♠'
+13:24:00.871 <INFO> AI Player 2 remembering card: '3 ♦'
+13:24:04.388 <INFO> AI Player 2 returning taken cards: 'K ♣, 6 ♣, A ♣, Q ♣, 3 ♣, 7 ♠, 7 ♣, A ♥, 8 ♥, 9 ♠, 4 ♦, 5 ♠, 8 ♣, 7 ♦, 4 ♣, 4 ♠, 10 ♥, 8 ♠, 3 ♦, 2 ♠'
+13:24:04.389 <INFO> Human Player You returning taken cards: '2 ♥, 9 ♥, 7 ♥, 6 ♥, K ♠, 6 ♠, J ♠, 3 ♠, J ♣, 5 ♣, 2 ♣, 10 ♣, 4 ♥, 3 ♥, K ♥, 9 ♣'
+13:24:04.389 <INFO> AI Player 0 returning taken cards: 'A ♦, K ♦, 8 ♦, Q ♦, 2 ♦, 5 ♦, J ♥, Q ♥'
+13:24:04.389 <INFO> AI Player 1 returning taken cards: '9 ♦, 10 ♦, J ♦, 6 ♦, A ♠, Q ♠, 10 ♠, 5 ♥'
+13:24:07.437 <INFO> AI Player 2 adding card: '8 ♥' to hand
+13:24:07.437 <INFO> Human Player You adding card: 'A ♥' to hand
+13:24:07.437 <INFO> AI Player 0 adding card: '6 ♥' to hand
+13:24:07.437 <INFO> AI Player 1 adding card: 'J ♦' to hand
+13:24:07.437 <INFO> AI Player 2 adding card: '8 ♣' to hand
+13:24:07.437 <INFO> Human Player You adding card: '10 ♦' to hand
+13:24:07.437 <INFO> AI Player 0 adding card: 'K ♥' to hand
+13:24:07.437 <INFO> AI Player 1 adding card: '4 ♦' to hand
+13:24:07.437 <INFO> AI Player 2 adding card: 'J ♥' to hand
+13:24:07.437 <INFO> Human Player You adding card: '4 ♣' to hand
+13:24:07.437 <INFO> AI Player 0 adding card: 'A ♠' to hand
+13:24:07.437 <INFO> AI Player 1 adding card: 'Q ♥' to hand
+13:24:07.437 <INFO> AI Player 2 adding card: '4 ♥' to hand
+13:24:07.437 <INFO> Human Player You adding card: '5 ♣' to hand
+13:24:07.437 <INFO> AI Player 0 adding card: '2 ♦' to hand
+13:24:07.437 <INFO> AI Player 1 adding card: '6 ♦' to hand
+13:24:07.437 <INFO> AI Player 2 adding card: 'Q ♣' to hand
+13:24:07.437 <INFO> Human Player You adding card: '7 ♥' to hand
+13:24:07.437 <INFO> AI Player 0 adding card: '9 ♥' to hand
+13:24:07.437 <INFO> AI Player 1 adding card: '10 ♣' to hand
+13:24:07.437 <INFO> AI Player 2 adding card: 'Q ♠' to hand
+13:24:07.437 <INFO> Human Player You adding card: 'K ♣' to hand
+13:24:07.437 <INFO> AI Player 0 adding card: '3 ♣' to hand
+13:24:07.437 <INFO> AI Player 1 adding card: '5 ♦' to hand
+13:24:07.437 <INFO> AI Player 2 adding card: '8 ♠' to hand
+13:24:07.437 <INFO> Human Player You adding card: '7 ♣' to hand
+13:24:07.437 <INFO> AI Player 0 adding card: 'A ♣' to hand
+13:24:07.437 <INFO> AI Player 1 adding card: '7 ♦' to hand
+13:24:07.437 <INFO> AI Player 2 adding card: '10 ♥' to hand
+13:24:07.437 <INFO> Human Player You adding card: '3 ♥' to hand
+13:24:07.437 <INFO> AI Player 0 adding card: '10 ♠' to hand
+13:24:07.437 <INFO> AI Player 1 adding card: '4 ♠' to hand
+13:24:07.437 <INFO> AI Player 2 adding card: '5 ♠' to hand
+13:24:07.437 <INFO> Human Player You adding card: '2 ♠' to hand
+13:24:07.437 <INFO> AI Player 0 adding card: 'Q ♦' to hand
+13:24:07.437 <INFO> AI Player 1 adding card: '9 ♣' to hand
+13:24:07.437 <INFO> AI Player 2 adding card: 'J ♣' to hand
+13:24:07.437 <INFO> Human Player You adding card: '3 ♠' to hand
+13:24:07.437 <INFO> AI Player 0 adding card: '6 ♣' to hand
+13:24:07.437 <INFO> AI Player 1 adding card: '2 ♥' to hand
+13:24:07.437 <INFO> AI Player 2 adding card: '7 ♠' to hand
+13:24:07.437 <INFO> Human Player You adding card: 'K ♦' to hand
+13:24:07.437 <INFO> AI Player 0 adding card: 'J ♠' to hand
+13:24:07.437 <INFO> AI Player 1 adding card: '5 ♥' to hand
+13:24:07.437 <INFO> AI Player 2 adding card: '3 ♦' to hand
+13:24:07.437 <INFO> Human Player You adding card: '2 ♣' to hand
+13:24:07.437 <INFO> AI Player 0 adding card: 'A ♦' to hand
+13:24:07.437 <INFO> AI Player 1 adding card: '6 ♠' to hand
+13:24:07.437 <INFO> AI Player 2 adding card: 'K ♠' to hand
+13:24:07.437 <INFO> Human Player You adding card: '9 ♠' to hand
+13:24:07.437 <INFO> AI Player 0 adding card: '8 ♦' to hand
+13:24:07.437 <INFO> AI Player 1 adding card: '9 ♦' to hand
+13:24:07.437 <INFO> AI Player 2 making decision for initial throw...
+13:24:07.437 <INFO> [initial throw] Ordered hand: 4 ♥, 8 ♥, 10 ♥, J ♥, 3 ♦, 8 ♣, J ♣, Q ♣, 5 ♠, 7 ♠, 8 ♠, Q ♠, K ♠; Memory: 
+13:24:07.437 <INFO> [initial throw] Registered possible decision 'LowHeart' on '8 ♥' with \
+individual card weight '7' and memory benefit '1'\
+13:24:07.437 <INFO> [initial throw] Registered possible decision 'TryTake' on '8 ♣' with \
+individual card weight '8' and memory benefit '-1'\
+13:24:07.437 <INFO> [initial throw] Registered possible decision 'LowHeart' on 'J ♥' with \
+individual card weight '3' and memory benefit '1'\
+13:24:07.437 <INFO> [initial throw] Registered possible decision 'LowHeart' on '4 ♥' with \
+individual card weight '11' and memory benefit '1'\
+13:24:07.437 <INFO> [initial throw] Registered possible decision 'TryTake' on 'Q ♣' with \
+individual card weight '13' and memory benefit '-1'\
+13:24:07.437 <INFO> [initial throw] Registered possible decision 'TryTake' on 'Q ♠' with \
+individual card weight '13' and memory benefit '-1'\
+13:24:07.437 <INFO> [initial throw] Registered possible decision 'TryTake' on '8 ♠' with \
+individual card weight '8' and memory benefit '-1'\
+13:24:07.437 <INFO> [initial throw] Registered possible decision 'LowHeart' on '10 ♥' with \
+individual card weight '5' and memory benefit '1'\
+13:24:07.437 <INFO> [initial throw] Registered possible decision 'TryTake' on '5 ♠' with \
+individual card weight '5' and memory benefit '-1'\
+13:24:07.437 <INFO> [initial throw] Registered possible decision 'TryTake' on 'J ♣' with \
+individual card weight '12' and memory benefit '-1'\
+13:24:07.437 <INFO> [initial throw] Registered possible decision 'TryTake' on '7 ♠' with \
+individual card weight '7' and memory benefit '-1'\
+13:24:07.437 <INFO> [initial throw] Registered possible decision 'TryTake' on '3 ♦' with \
+individual card weight '3' and memory benefit '-1'\
+13:24:07.437 <INFO> [initial throw] Registered possible decision 'TryTake' on 'K ♠' with \
+individual card weight '14' and memory benefit '-1'\
+13:24:07.437 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '3 ♦' with \
+utility '13'\
+13:24:07.437 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '5 ♠' with \
+utility '10'\
+13:24:07.437 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '8 ♣' with \
+utility '11'\
+13:24:07.437 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy], GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:24:07.437 <INFO> [initial throw] Try-take available, throwing: 'K ♠'
+13:24:07.437 <INFO> AI Player 2 throwing initial card: 'K ♠'
+13:24:11.844 <INFO> Human Player You throwing card: '9 ♠'
+13:24:13.359 <INFO> AI Player 0 making decision...
+13:24:13.359 <INFO> [later throw, same suit] Hand: 6 ♥, K ♥, A ♠, 2 ♦, 9 ♥, 3 ♣, A ♣, 10 ♠, Q ♦, 6 ♣, J ♠, A ♦, 8 ♦; \
+throwable: 10 ♠, J ♠; \
+take weight: 14\
+13:24:13.359 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'J ♠'
+13:24:13.359 <INFO> AI Player 0 throwing card: 'J ♠'
+13:24:14.866 <INFO> AI Player 1 making decision...
+13:24:14.866 <INFO> [later throw, same suit] Hand: J ♦, 4 ♦, Q ♥, 6 ♦, 10 ♣, 5 ♦, 7 ♦, 4 ♠, 9 ♣, 2 ♥, 5 ♥, 6 ♠, 9 ♦; \
+throwable: 4 ♠; \
+take weight: 14\
+13:24:14.866 <INFO> [later throw, same suit] Can only throw one: '4 ♠'
+13:24:14.866 <INFO> AI Player 1 throwing card: '4 ♠'
+13:24:14.866 <INFO> AI Player 2 taking trick: 'K ♠, 9 ♠, J ♠, 4 ♠'
+13:24:14.866 <INFO> AI Player 2 remembering card: 'K ♠'
+13:24:14.866 <INFO> AI Player 2 remembering card: '9 ♠'
+13:24:14.866 <INFO> AI Player 2 remembering card: 'J ♠'
+13:24:18.377 <INFO> AI Player 2 making decision for initial throw...
+13:24:18.377 <INFO> [initial throw] Ordered hand: 4 ♥, 8 ♥, 10 ♥, J ♥, 3 ♦, 8 ♣, J ♣, Q ♣, 5 ♠, 7 ♠, 8 ♠, Q ♠; Memory: K ♠, 9 ♠, J ♠
+13:24:18.377 <INFO> [initial throw] Registered possible decision 'LowHeart' on '8 ♥' with \
+individual card weight '7' and memory benefit '1'\
+13:24:18.377 <INFO> [initial throw] Registered possible decision 'TryTake' on '8 ♣' with \
+individual card weight '8' and memory benefit '-1'\
+13:24:18.377 <INFO> [initial throw] Registered possible decision 'LowHeart' on 'J ♥' with \
+individual card weight '3' and memory benefit '1'\
+13:24:18.377 <INFO> [initial throw] Registered possible decision 'LowHeart' on '4 ♥' with \
+individual card weight '11' and memory benefit '1'\
+13:24:18.377 <INFO> [initial throw] Registered possible decision 'TryTake' on 'Q ♣' with \
+individual card weight '13' and memory benefit '-1'\
+13:24:18.377 <INFO> [initial throw] Registered possible decision 'TryTake' on 'Q ♠' with \
+individual card weight '13' and memory benefit '-1'\
+13:24:18.377 <INFO> [initial throw] Registered possible decision 'TryTake' on '8 ♠' with \
+individual card weight '8' and memory benefit '-1'\
+13:24:18.377 <INFO> [initial throw] Registered possible decision 'LowHeart' on '10 ♥' with \
+individual card weight '5' and memory benefit '1'\
+13:24:18.377 <INFO> [initial throw] Registered possible decision 'TryTake' on '5 ♠' with \
+individual card weight '5' and memory benefit '-1'\
+13:24:18.377 <INFO> [initial throw] Registered possible decision 'TryTake' on 'J ♣' with \
+individual card weight '12' and memory benefit '-1'\
+13:24:18.377 <INFO> [initial throw] Registered possible decision 'TryTake' on '7 ♠' with \
+individual card weight '7' and memory benefit '-1'\
+13:24:18.377 <INFO> [initial throw] Registered possible decision 'TryTake' on '3 ♦' with \
+individual card weight '3' and memory benefit '-1'\
+13:24:18.377 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '3 ♦' with \
+utility '13'\
+13:24:18.377 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '5 ♠' with \
+utility '11'\
+13:24:18.377 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '8 ♣' with \
+utility '11'\
+13:24:18.377 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:24:18.377 <INFO> [initial throw] Only Try-Others-Take available, throwing: '3 ♦'
+13:24:18.377 <INFO> AI Player 2 throwing initial card: '3 ♦'
+13:24:22.039 <INFO> Human Player You throwing card: 'K ♦'
+13:24:23.548 <INFO> AI Player 0 making decision...
+13:24:23.548 <INFO> [later throw, same suit] Hand: 6 ♥, K ♥, A ♠, 2 ♦, 9 ♥, 3 ♣, A ♣, 10 ♠, Q ♦, 6 ♣, A ♦, 8 ♦; \
+throwable: 2 ♦, 8 ♦, Q ♦, A ♦; \
+take weight: 14\
+13:24:23.548 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'A ♦'
+13:24:23.548 <INFO> AI Player 0 throwing card: 'A ♦'
+13:24:25.065 <INFO> AI Player 1 making decision...
+13:24:25.065 <INFO> [later throw, same suit] Hand: J ♦, 4 ♦, Q ♥, 6 ♦, 10 ♣, 5 ♦, 7 ♦, 9 ♣, 2 ♥, 5 ♥, 6 ♠, 9 ♦; \
+throwable: 4 ♦, 5 ♦, 6 ♦, 7 ♦, 9 ♦, J ♦; \
+take weight: 15\
+13:24:25.065 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'J ♦'
+13:24:25.065 <INFO> AI Player 1 throwing card: 'J ♦'
+13:24:25.065 <INFO> AI Player 0 taking trick: '3 ♦, K ♦, A ♦, J ♦'
+13:24:25.065 <INFO> AI Player 0 remembering card: '3 ♦'
+13:24:25.065 <INFO> AI Player 0 remembering card: 'K ♦'
+13:24:25.065 <INFO> AI Player 0 remembering card: 'A ♦'
+13:24:25.065 <INFO> AI Player 0 remembering card: 'J ♦'
+13:24:28.572 <INFO> AI Player 0 making decision for initial throw...
+13:24:28.573 <INFO> [initial throw] Ordered hand: 6 ♥, 9 ♥, K ♥, 2 ♦, 8 ♦, Q ♦, 3 ♣, 6 ♣, A ♣, 10 ♠, A ♠; Memory: 3 ♦, K ♦, A ♦, J ♦
+13:24:28.573 <INFO> [initial throw] Registered possible decision 'LowHeart' on '6 ♥' with \
+individual card weight '9' and memory benefit '1'\
+13:24:28.573 <INFO> [initial throw] Registered possible decision 'LowHeart' on 'K ♥' with \
+individual card weight '1' and memory benefit '1'\
+13:24:28.573 <INFO> [initial throw] Registered possible decision 'TryTake' on 'A ♠' with \
+individual card weight '15' and memory benefit '-1'\
+13:24:28.573 <INFO> [initial throw] Registered possible decision 'TryTake' on '2 ♦' with \
+individual card weight '2' and memory benefit '-1'\
+13:24:28.573 <INFO> [initial throw] Registered possible decision 'LowHeart' on '9 ♥' with \
+individual card weight '6' and memory benefit '1'\
+13:24:28.573 <INFO> [initial throw] Registered possible decision 'TryTake' on '3 ♣' with \
+individual card weight '3' and memory benefit '-1'\
+13:24:28.573 <INFO> [initial throw] Registered possible decision 'TryTake' on 'A ♣' with \
+individual card weight '15' and memory benefit '-1'\
+13:24:28.573 <INFO> [initial throw] Registered possible decision 'TryTake' on '10 ♠' with \
+individual card weight '10' and memory benefit '-1'\
+13:24:28.573 <INFO> [initial throw] Registered possible decision 'TryTake' on 'Q ♦' with \
+individual card weight '13' and memory benefit '-1'\
+13:24:28.573 <INFO> [initial throw] Registered possible decision 'TryTake' on '6 ♣' with \
+individual card weight '6' and memory benefit '-1'\
+13:24:28.573 <INFO> [initial throw] Registered possible decision 'TryTake' on '8 ♦' with \
+individual card weight '8' and memory benefit '-1'\
+13:24:28.573 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '2 ♦' with \
+utility '11'\
+13:24:28.573 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '10 ♠' with \
+utility '13'\
+13:24:28.573 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '3 ♣' with \
+utility '11'\
+13:24:28.573 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy], GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:24:28.573 <INFO> [initial throw] Try-take available, throwing: 'A ♠'
+13:24:28.573 <INFO> AI Player 0 throwing initial card: 'A ♠'
+13:24:30.087 <INFO> AI Player 1 making decision...
+13:24:30.087 <INFO> AI Player 1 throwing card: '6 ♠'
+13:24:31.592 <INFO> AI Player 2 making decision...
+13:24:31.592 <INFO> [later throw, same suit] Hand: 8 ♥, 8 ♣, J ♥, 4 ♥, Q ♣, Q ♠, 8 ♠, 10 ♥, 5 ♠, J ♣, 7 ♠; \
+throwable: 5 ♠, 7 ♠, 8 ♠; \
+take weight: 15\
+13:24:31.592 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '8 ♠'
+13:24:31.592 <INFO> AI Player 2 throwing card: '8 ♠'
+13:24:35.282 <INFO> Human Player You throwing card: '3 ♠'
+13:24:35.282 <INFO> AI Player 0 taking trick: 'A ♠, 6 ♠, 8 ♠, 3 ♠'
+13:24:35.282 <INFO> AI Player 0 remembering card: '6 ♠'
+13:24:35.282 <INFO> AI Player 0 remembering card: '8 ♠'
+13:24:35.282 <INFO> AI Player 0 remembering card: '3 ♠'
+13:24:38.793 <INFO> AI Player 0 making decision for initial throw...
+13:24:38.793 <INFO> [initial throw] Ordered hand: 6 ♥, 9 ♥, K ♥, 2 ♦, 8 ♦, Q ♦, 3 ♣, 6 ♣, A ♣, 10 ♠; Memory: 3 ♦, K ♦, A ♦, J ♦, 6 ♠, 8 ♠, 3 ♠
+13:24:38.793 <INFO> [initial throw] Registered possible decision 'LowHeart' on '6 ♥' with \
+individual card weight '9' and memory benefit '1'\
+13:24:38.793 <INFO> [initial throw] Registered possible decision 'LowHeart' on 'K ♥' with \
+individual card weight '1' and memory benefit '1'\
+13:24:38.793 <INFO> [initial throw] Registered possible decision 'TryTake' on '2 ♦' with \
+individual card weight '2' and memory benefit '-1'\
+13:24:38.793 <INFO> [initial throw] Registered possible decision 'LowHeart' on '9 ♥' with \
+individual card weight '6' and memory benefit '1'\
+13:24:38.793 <INFO> [initial throw] Registered possible decision 'TryTake' on '3 ♣' with \
+individual card weight '3' and memory benefit '-1'\
+13:24:38.793 <INFO> [initial throw] Registered possible decision 'TryTake' on 'A ♣' with \
+individual card weight '15' and memory benefit '-1'\
+13:24:38.793 <INFO> [initial throw] Registered possible decision 'TryTake' on '10 ♠' with \
+individual card weight '10' and memory benefit '-1'\
+13:24:38.793 <INFO> [initial throw] Registered possible decision 'TryTake' on 'Q ♦' with \
+individual card weight '13' and memory benefit '-1'\
+13:24:38.793 <INFO> [initial throw] Registered possible decision 'TryTake' on '6 ♣' with \
+individual card weight '6' and memory benefit '-1'\
+13:24:38.793 <INFO> [initial throw] Registered possible decision 'TryTake' on '8 ♦' with \
+individual card weight '8' and memory benefit '-1'\
+13:24:38.793 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '2 ♦' with \
+utility '11'\
+13:24:38.793 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '3 ♣' with \
+utility '11'\
+13:24:38.793 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:24:38.793 <INFO> [initial throw] Try-take available, throwing: 'A ♣'
+13:24:38.793 <INFO> AI Player 0 throwing initial card: 'A ♣'
+13:24:40.300 <INFO> AI Player 1 making decision...
+13:24:40.300 <INFO> [later throw, same suit] Hand: 4 ♦, Q ♥, 6 ♦, 10 ♣, 5 ♦, 7 ♦, 9 ♣, 2 ♥, 5 ♥, 9 ♦; \
+throwable: 9 ♣; \
+take weight: 15\
+13:24:40.300 <INFO> [later throw, same suit] Can only throw one: '9 ♣'
+13:24:40.300 <INFO> AI Player 1 throwing card: '9 ♣'
+13:24:41.815 <INFO> AI Player 2 making decision...
+13:24:41.815 <INFO> [later throw, same suit] Hand: 8 ♥, 8 ♣, J ♥, 4 ♥, Q ♣, Q ♠, 10 ♥, 5 ♠, J ♣, 7 ♠; \
+throwable: 8 ♣, J ♣, Q ♣; \
+take weight: 15\
+13:24:41.815 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'Q ♣'
+13:24:41.815 <INFO> AI Player 2 throwing card: 'Q ♣'
+13:24:45.745 <INFO> Human Player You throwing card: 'K ♣'
+13:24:45.745 <INFO> AI Player 0 taking trick: 'A ♣, 9 ♣, Q ♣, K ♣'
+13:24:45.745 <INFO> AI Player 0 remembering card: '9 ♣'
+13:24:45.745 <INFO> AI Player 0 remembering card: 'Q ♣'
+13:24:45.745 <INFO> AI Player 0 remembering card: 'K ♣'
+13:24:49.260 <INFO> AI Player 0 making decision for initial throw...
+13:24:49.260 <INFO> [initial throw] Ordered hand: 6 ♥, 9 ♥, K ♥, 2 ♦, 8 ♦, Q ♦, 3 ♣, 6 ♣, 10 ♠; Memory: 3 ♦, K ♦, A ♦, J ♦, 6 ♠, 8 ♠, 3 ♠, 9 ♣, Q ♣, K ♣
+13:24:49.260 <INFO> [initial throw] Registered possible decision 'LowHeart' on '6 ♥' with \
+individual card weight '9' and memory benefit '1'\
+13:24:49.260 <INFO> [initial throw] Registered possible decision 'LowHeart' on 'K ♥' with \
+individual card weight '1' and memory benefit '1'\
+13:24:49.260 <INFO> [initial throw] Registered possible decision 'TryTake' on '2 ♦' with \
+individual card weight '2' and memory benefit '-1'\
+13:24:49.260 <INFO> [initial throw] Registered possible decision 'LowHeart' on '9 ♥' with \
+individual card weight '6' and memory benefit '1'\
+13:24:49.260 <INFO> [initial throw] Registered possible decision 'TryTake' on '3 ♣' with \
+individual card weight '3' and memory benefit '-1'\
+13:24:49.260 <INFO> [initial throw] Registered possible decision 'TryTake' on '10 ♠' with \
+individual card weight '10' and memory benefit '-1'\
+13:24:49.260 <INFO> [initial throw] Registered possible decision 'TryTake' on 'Q ♦' with \
+individual card weight '13' and memory benefit '-1'\
+13:24:49.260 <INFO> [initial throw] Registered possible decision 'TryTake' on '6 ♣' with \
+individual card weight '6' and memory benefit '-1'\
+13:24:49.260 <INFO> [initial throw] Registered possible decision 'TryTake' on '8 ♦' with \
+individual card weight '8' and memory benefit '-1'\
+13:24:49.260 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '2 ♦' with \
+utility '11'\
+13:24:49.260 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '3 ♣' with \
+utility '12'\
+13:24:49.260 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy], GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:24:49.260 <INFO> [initial throw] Try-take available, throwing: 'Q ♦'
+13:24:49.260 <INFO> AI Player 0 throwing initial card: 'Q ♦'
+13:24:50.771 <INFO> AI Player 1 making decision...
+13:24:50.771 <INFO> [later throw, same suit] Hand: 4 ♦, Q ♥, 6 ♦, 10 ♣, 5 ♦, 7 ♦, 2 ♥, 5 ♥, 9 ♦; \
+throwable: 4 ♦, 5 ♦, 6 ♦, 7 ♦, 9 ♦; \
+take weight: 13\
+13:24:50.771 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '9 ♦'
+13:24:50.771 <INFO> AI Player 1 throwing card: '9 ♦'
+13:24:52.284 <INFO> AI Player 2 making decision...
+13:24:52.284 <INFO> [later throw, other suit] Ordered hand: 4 ♥, 8 ♥, 10 ♥, J ♥, 8 ♣, J ♣, 5 ♠, 7 ♠, Q ♠
+13:24:52.284 <INFO> [later throw, other suit] Have hearts, throwing: J ♥
+13:24:52.284 <INFO> AI Player 2 throwing card: 'J ♥'
+13:24:55.729 <INFO> Human Player You throwing card: '10 ♦'
+13:24:55.729 <INFO> AI Player 0 taking trick: 'Q ♦, 9 ♦, J ♥, 10 ♦'
+13:24:55.729 <INFO> AI Player 0 remembering card: 'Q ♦'
+13:24:55.729 <INFO> AI Player 0 remembering card: '9 ♦'
+13:24:55.729 <INFO> AI Player 0 remembering card: 'J ♥'
+13:24:55.729 <INFO> AI Player 0 remembering card: '10 ♦'
+13:24:59.233 <INFO> AI Player 0 making decision for initial throw...
+13:24:59.233 <INFO> [initial throw] Ordered hand: 6 ♥, 9 ♥, K ♥, 2 ♦, 8 ♦, 3 ♣, 6 ♣, 10 ♠; Memory: 3 ♦, K ♦, A ♦, J ♦, 6 ♠, 8 ♠, 3 ♠, 9 ♣, Q ♣, K ♣, Q ♦, 9 ♦, J ♥, 10 ♦
+13:24:59.233 <INFO> [initial throw] Registered possible decision 'LowHeart' on '6 ♥' with \
+individual card weight '9' and memory benefit '1'\
+13:24:59.233 <INFO> [initial throw] Registered possible decision 'LowHeart' on 'K ♥' with \
+individual card weight '1' and memory benefit '1'\
+13:24:59.233 <INFO> [initial throw] Registered possible decision 'TryTake' on '2 ♦' with \
+individual card weight '2' and memory benefit '-1'\
+13:24:59.233 <INFO> [initial throw] Registered possible decision 'LowHeart' on '9 ♥' with \
+individual card weight '6' and memory benefit '1'\
+13:24:59.233 <INFO> [initial throw] Registered possible decision 'TryTake' on '3 ♣' with \
+individual card weight '3' and memory benefit '-1'\
+13:24:59.233 <INFO> [initial throw] Registered possible decision 'TryTake' on '10 ♠' with \
+individual card weight '10' and memory benefit '-1'\
+13:24:59.233 <INFO> [initial throw] Registered possible decision 'TryTake' on '6 ♣' with \
+individual card weight '6' and memory benefit '-1'\
+13:24:59.233 <INFO> [initial throw] Registered possible decision 'TryTake' on '8 ♦' with \
+individual card weight '8' and memory benefit '-1'\
+13:24:59.233 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '2 ♦' with \
+utility '12'\
+13:24:59.233 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '3 ♣' with \
+utility '12'\
+13:24:59.233 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy], GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:24:59.233 <INFO> [initial throw] Only Try-Others-Take available, throwing: '2 ♦'
+13:24:59.233 <INFO> AI Player 0 throwing initial card: '2 ♦'
+13:25:00.735 <INFO> AI Player 1 making decision...
+13:25:00.735 <INFO> [later throw, same suit] Hand: 4 ♦, Q ♥, 6 ♦, 10 ♣, 5 ♦, 7 ♦, 2 ♥, 5 ♥; \
+throwable: 4 ♦, 5 ♦, 6 ♦, 7 ♦; \
+take weight: 2\
+13:25:00.735 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '7 ♦'
+13:25:00.735 <INFO> AI Player 1 throwing card: '7 ♦'
+13:25:02.240 <INFO> AI Player 2 making decision...
+13:25:02.240 <INFO> [later throw, other suit] Ordered hand: 4 ♥, 8 ♥, 10 ♥, 8 ♣, J ♣, 5 ♠, 7 ♠, Q ♠
+13:25:02.240 <INFO> [later throw, other suit] Have hearts, throwing: 10 ♥
+13:25:02.240 <INFO> AI Player 2 throwing card: '10 ♥'
+13:25:10.333 <INFO> Human Player You throwing card: 'A ♥'
+13:25:10.333 <INFO> AI Player 1 taking trick: '2 ♦, 7 ♦, 10 ♥, A ♥'
+13:25:10.333 <INFO> AI Player 1 remembering card: '2 ♦'
+13:25:10.333 <INFO> AI Player 1 remembering card: '7 ♦'
+13:25:10.333 <INFO> AI Player 1 remembering card: '10 ♥'
+13:25:10.333 <INFO> AI Player 1 remembering card: 'A ♥'
+13:25:13.837 <INFO> AI Player 1 making decision for initial throw...
+13:25:13.837 <INFO> [initial throw] Ordered hand: 2 ♥, 5 ♥, Q ♥, 4 ♦, 5 ♦, 6 ♦, 10 ♣; Memory: 2 ♦, 7 ♦, 10 ♥, A ♥
+13:25:13.837 <INFO> [initial throw] Registered possible decision 'TryTake' on '4 ♦' with \
+individual card weight '4' and memory benefit '-1'\
+13:25:13.837 <INFO> [initial throw] Registered possible decision 'LowHeart' on 'Q ♥' with \
+individual card weight '2' and memory benefit '1'\
+13:25:13.837 <INFO> [initial throw] Registered possible decision 'TryTake' on '6 ♦' with \
+individual card weight '6' and memory benefit '-1'\
+13:25:13.837 <INFO> [initial throw] Registered possible decision 'TryTake' on '10 ♣' with \
+individual card weight '10' and memory benefit '-1'\
+13:25:13.837 <INFO> [initial throw] Registered possible decision 'TryTake' on '5 ♦' with \
+individual card weight '5' and memory benefit '-1'\
+13:25:13.837 <INFO> [initial throw] Registered possible decision 'LowHeart' on '2 ♥' with \
+individual card weight '13' and memory benefit '1'\
+13:25:13.837 <INFO> [initial throw] Registered possible decision 'LowHeart' on '5 ♥' with \
+individual card weight '10' and memory benefit '1'\
+13:25:13.837 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '4 ♦' with \
+utility '11'\
+13:25:13.837 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:25:13.837 <INFO> [initial throw] No Try-take exists; Low Heart available, throwing: '2 ♥'
+13:25:13.837 <INFO> AI Player 1 throwing initial card: '2 ♥'
+13:25:15.339 <INFO> AI Player 2 making decision...
+13:25:15.339 <INFO> [later throw, same suit] Hand: 8 ♥, 8 ♣, 4 ♥, Q ♠, 5 ♠, J ♣, 7 ♠; \
+throwable: 4 ♥, 8 ♥; \
+take weight: 2\
+13:25:15.339 <INFO> [later throw, same suit] Suit is Hearts, throwing highest possible, but lower: '4 ♥'
+13:25:15.339 <INFO> AI Player 2 throwing card: '4 ♥'
+13:25:19.634 <INFO> Human Player You throwing card: '3 ♥'
+13:25:21.144 <INFO> AI Player 0 making decision...
+13:25:21.144 <INFO> [later throw, same suit] Hand: 6 ♥, K ♥, 9 ♥, 3 ♣, 10 ♠, 6 ♣, 8 ♦; \
+throwable: 6 ♥, 9 ♥, K ♥; \
+take weight: 4\
+13:25:21.145 <INFO> [later throw, same suit] Suit is Hearts, throwing highest possible, but lower: '6 ♥'
+13:25:21.145 <INFO> AI Player 0 throwing card: '6 ♥'
+13:25:21.145 <INFO> AI Player 0 taking trick: '2 ♥, 4 ♥, 3 ♥, 6 ♥'
+13:25:21.145 <INFO> AI Player 0 remembering card: '2 ♥'
+13:25:21.145 <INFO> AI Player 0 remembering card: '4 ♥'
+13:25:21.145 <INFO> AI Player 0 remembering card: '3 ♥'
+13:25:21.145 <INFO> AI Player 0 remembering card: '6 ♥'
+13:25:24.655 <INFO> AI Player 0 making decision for initial throw...
+13:25:24.655 <INFO> [initial throw] Ordered hand: 9 ♥, K ♥, 8 ♦, 3 ♣, 6 ♣, 10 ♠; Memory: 3 ♦, K ♦, A ♦, J ♦, 6 ♠, 8 ♠, 3 ♠, 9 ♣, Q ♣, K ♣, Q ♦, 9 ♦, J ♥, 10 ♦, 2 ♥, 4 ♥, 3 ♥, 6 ♥
+13:25:24.655 <INFO> [initial throw] Registered possible decision 'LowHeart' on 'K ♥' with \
+individual card weight '1' and memory benefit '4'\
+13:25:24.655 <INFO> [initial throw] Registered possible decision 'LowHeart' on '9 ♥' with \
+individual card weight '6' and memory benefit '4'\
+13:25:24.655 <INFO> [initial throw] Registered possible decision 'TryTake' on '3 ♣' with \
+individual card weight '3' and memory benefit '-1'\
+13:25:24.655 <INFO> [initial throw] Registered possible decision 'TryTake' on '10 ♠' with \
+individual card weight '10' and memory benefit '-1'\
+13:25:24.655 <INFO> [initial throw] Registered possible decision 'TryTake' on '6 ♣' with \
+individual card weight '6' and memory benefit '-1'\
+13:25:24.655 <INFO> [initial throw] Registered possible decision 'TryTake' on '8 ♦' with \
+individual card weight '8' and memory benefit '-1'\
+13:25:24.655 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '8 ♦' with \
+utility '13'\
+13:25:24.655 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '3 ♣' with \
+utility '12'\
+13:25:24.655 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:25:24.655 <INFO> [initial throw] Only Try-Others-Take available, throwing: '8 ♦'
+13:25:24.655 <INFO> AI Player 0 throwing initial card: '8 ♦'
+13:25:26.157 <INFO> AI Player 1 making decision...
+13:25:26.157 <INFO> [later throw, same suit] Hand: 4 ♦, Q ♥, 6 ♦, 10 ♣, 5 ♦, 5 ♥; \
+throwable: 4 ♦, 5 ♦, 6 ♦; \
+take weight: 8\
+13:25:26.157 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '6 ♦'
+13:25:26.157 <INFO> AI Player 1 throwing card: '6 ♦'
+13:25:27.661 <INFO> AI Player 2 making decision...
+13:25:27.662 <INFO> [later throw, other suit] Ordered hand: 8 ♥, 8 ♣, J ♣, 5 ♠, 7 ♠, Q ♠
+13:25:27.662 <INFO> [later throw, other suit] Have hearts, throwing: 8 ♥
+13:25:27.662 <INFO> AI Player 2 throwing card: '8 ♥'
+13:25:32.993 <INFO> Human Player You throwing card: '7 ♥'
+13:25:32.993 <INFO> AI Player 0 taking trick: '8 ♦, 6 ♦, 8 ♥, 7 ♥'
+13:25:32.993 <INFO> AI Player 0 remembering card: '8 ♦'
+13:25:32.993 <INFO> AI Player 0 remembering card: '6 ♦'
+13:25:32.993 <INFO> AI Player 0 remembering card: '8 ♥'
+13:25:32.993 <INFO> AI Player 0 remembering card: '7 ♥'
+13:25:36.504 <INFO> AI Player 0 making decision for initial throw...
+13:25:36.504 <INFO> [initial throw] Ordered hand: 9 ♥, K ♥, 3 ♣, 6 ♣, 10 ♠; Memory: 3 ♦, K ♦, A ♦, J ♦, 6 ♠, 8 ♠, 3 ♠, 9 ♣, Q ♣, K ♣, Q ♦, 9 ♦, J ♥, 10 ♦, 2 ♥, 4 ♥, 3 ♥, 6 ♥, 8 ♦, 6 ♦, 8 ♥, 7 ♥
+13:25:36.504 <INFO> [initial throw] Registered possible decision 'LowHeart' on 'K ♥' with \
+individual card weight '1' and memory benefit '4'\
+13:25:36.504 <INFO> [initial throw] Registered possible decision 'LowHeart' on '9 ♥' with \
+individual card weight '6' and memory benefit '4'\
+13:25:36.504 <INFO> [initial throw] Registered possible decision 'TryTake' on '3 ♣' with \
+individual card weight '3' and memory benefit '-1'\
+13:25:36.504 <INFO> [initial throw] Registered possible decision 'TryTake' on '10 ♠' with \
+individual card weight '10' and memory benefit '-1'\
+13:25:36.504 <INFO> [initial throw] Registered possible decision 'TryTake' on '6 ♣' with \
+individual card weight '6' and memory benefit '-1'\
+13:25:36.504 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '3 ♣' with \
+utility '12'\
+13:25:36.504 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:25:36.504 <INFO> [initial throw] Only Try-Others-Take available, throwing: '3 ♣'
+13:25:36.504 <INFO> AI Player 0 throwing initial card: '3 ♣'
+13:25:38.008 <INFO> AI Player 1 making decision...
+13:25:38.008 <INFO> AI Player 1 throwing card: '10 ♣'
+13:25:39.515 <INFO> AI Player 2 making decision...
+13:25:39.515 <INFO> [later throw, same suit] Hand: 8 ♣, Q ♠, 5 ♠, J ♣, 7 ♠; \
+throwable: 8 ♣, J ♣; \
+take weight: 10\
+13:25:39.515 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'J ♣'
+13:25:39.515 <INFO> AI Player 2 throwing card: 'J ♣'
+13:25:45.076 <INFO> Human Player You throwing card: '7 ♣'
+13:25:45.076 <INFO> AI Player 2 taking trick: '3 ♣, 10 ♣, J ♣, 7 ♣'
+13:25:45.076 <INFO> AI Player 2 remembering card: '3 ♣'
+13:25:45.076 <INFO> AI Player 2 remembering card: '10 ♣'
+13:25:45.076 <INFO> AI Player 2 remembering card: 'J ♣'
+13:25:45.076 <INFO> AI Player 2 remembering card: '7 ♣'
+13:25:48.587 <INFO> AI Player 2 making decision for initial throw...
+13:25:48.587 <INFO> [initial throw] Ordered hand: 8 ♣, 5 ♠, 7 ♠, Q ♠; Memory: K ♠, 9 ♠, J ♠, 3 ♣, 10 ♣, J ♣, 7 ♣
+13:25:48.587 <INFO> [initial throw] Registered possible decision 'TryTake' on '8 ♣' with \
+individual card weight '8' and memory benefit '-1'\
+13:25:48.587 <INFO> [initial throw] Registered possible decision 'TryTake' on 'Q ♠' with \
+individual card weight '13' and memory benefit '-1'\
+13:25:48.587 <INFO> [initial throw] Registered possible decision 'TryTake' on '5 ♠' with \
+individual card weight '5' and memory benefit '-1'\
+13:25:48.587 <INFO> [initial throw] Registered possible decision 'TryTake' on '7 ♠' with \
+individual card weight '7' and memory benefit '-1'\
+13:25:48.587 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '5 ♠' with \
+utility '12'\
+13:25:48.587 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '8 ♣' with \
+utility '13'\
+13:25:48.587 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:25:48.587 <INFO> [initial throw] Only Try-Others-Take available, throwing: '8 ♣'
+13:25:48.587 <INFO> AI Player 2 throwing initial card: '8 ♣'
+13:25:55.580 <INFO> Human Player You throwing card: '5 ♣'
+13:25:57.093 <INFO> AI Player 0 making decision...
+13:25:57.093 <INFO> AI Player 0 throwing card: '6 ♣'
+13:25:58.608 <INFO> AI Player 1 making decision...
+13:25:58.608 <INFO> [later throw, other suit] Ordered hand: 5 ♥, Q ♥, 4 ♦, 5 ♦
+13:25:58.608 <INFO> [later throw, other suit] Have hearts, throwing: Q ♥
+13:25:58.608 <INFO> AI Player 1 throwing card: 'Q ♥'
+13:25:58.608 <INFO> AI Player 2 taking trick: '8 ♣, 5 ♣, 6 ♣, Q ♥'
+13:25:58.608 <INFO> AI Player 2 remembering card: '5 ♣'
+13:25:58.608 <INFO> AI Player 2 remembering card: '6 ♣'
+13:25:58.608 <INFO> AI Player 2 remembering card: 'Q ♥'
+13:26:02.120 <INFO> AI Player 2 making decision for initial throw...
+13:26:02.120 <INFO> [initial throw] Ordered hand: 5 ♠, 7 ♠, Q ♠; Memory: K ♠, 9 ♠, J ♠, 3 ♣, 10 ♣, J ♣, 7 ♣, 5 ♣, 6 ♣, Q ♥
+13:26:02.120 <INFO> [initial throw] Registered possible decision 'TryTake' on 'Q ♠' with \
+individual card weight '13' and memory benefit '-1'\
+13:26:02.120 <INFO> [initial throw] Registered possible decision 'TryTake' on '5 ♠' with \
+individual card weight '5' and memory benefit '-1'\
+13:26:02.120 <INFO> [initial throw] Registered possible decision 'TryTake' on '7 ♠' with \
+individual card weight '7' and memory benefit '-1'\
+13:26:02.120 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '5 ♠' with \
+utility '12'\
+13:26:02.120 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy], GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:26:02.120 <INFO> [initial throw] Try-take available, throwing: 'Q ♠'
+13:26:02.120 <INFO> AI Player 2 throwing initial card: 'Q ♠'
+13:26:05.332 <INFO> Human Player You throwing card: '2 ♠'
+13:26:06.835 <INFO> AI Player 0 making decision...
+13:26:06.835 <INFO> AI Player 0 throwing card: '10 ♠'
+13:26:08.338 <INFO> AI Player 1 making decision...
+13:26:08.338 <INFO> [later throw, other suit] Ordered hand: 5 ♥, 4 ♦, 5 ♦
+13:26:08.338 <INFO> [later throw, other suit] Have hearts, throwing: 5 ♥
+13:26:08.338 <INFO> AI Player 1 throwing card: '5 ♥'
+13:26:08.338 <INFO> AI Player 2 taking trick: 'Q ♠, 2 ♠, 10 ♠, 5 ♥'
+13:26:08.338 <INFO> AI Player 2 remembering card: 'Q ♠'
+13:26:08.338 <INFO> AI Player 2 remembering card: '2 ♠'
+13:26:08.338 <INFO> AI Player 2 remembering card: '10 ♠'
+13:26:08.338 <INFO> AI Player 2 remembering card: '5 ♥'
+13:26:11.853 <INFO> AI Player 2 making decision for initial throw...
+13:26:11.853 <INFO> [initial throw] Ordered hand: 5 ♠, 7 ♠; Memory: K ♠, 9 ♠, J ♠, 3 ♣, 10 ♣, J ♣, 7 ♣, 5 ♣, 6 ♣, Q ♥, Q ♠, 2 ♠, 10 ♠, 5 ♥
+13:26:11.853 <INFO> [initial throw] Registered possible decision 'TryTake' on '5 ♠' with \
+individual card weight '5' and memory benefit '-1'\
+13:26:11.853 <INFO> [initial throw] Registered possible decision 'TryTake' on '7 ♠' with \
+individual card weight '7' and memory benefit '-1'\
+13:26:11.853 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '5 ♠' with \
+utility '13'\
+13:26:11.853 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:26:11.853 <INFO> [initial throw] Only Try-Others-Take available, throwing: '5 ♠'
+13:26:11.853 <INFO> AI Player 2 throwing initial card: '5 ♠'
+13:26:16.580 <INFO> Human Player You throwing card: '4 ♣'
+13:26:18.089 <INFO> AI Player 0 making decision...
+13:26:18.089 <INFO> [later throw, other suit] Ordered hand: 9 ♥, K ♥
+13:26:18.089 <INFO> [later throw, other suit] Have hearts, throwing: 9 ♥
+13:26:18.089 <INFO> AI Player 0 throwing card: '9 ♥'
+13:26:19.602 <INFO> AI Player 1 making decision...
+13:26:19.602 <INFO> [later throw, other suit] Ordered hand: 4 ♦, 5 ♦
+13:26:19.602 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '4 ♦' with \
+utility 4'\
+13:26:19.602 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '5 ♦' with \
+utility 5'\
+13:26:19.602 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:26:19.602 <INFO> AI Player 1 throwing card: '5 ♦'
+13:26:19.602 <INFO> AI Player 2 taking trick: '5 ♠, 4 ♣, 9 ♥, 5 ♦'
+13:26:19.603 <INFO> AI Player 2 remembering card: '9 ♥'
+13:26:23.105 <INFO> AI Player 2 making decision for initial throw...
+13:26:23.105 <INFO> [initial throw] Ordered hand: 7 ♠; Memory: K ♠, 9 ♠, J ♠, 3 ♣, 10 ♣, J ♣, 7 ♣, 5 ♣, 6 ♣, Q ♥, Q ♠, 2 ♠, 10 ♠, 5 ♥, 9 ♥
+13:26:23.105 <INFO> [initial throw] Registered possible decision 'TryTake' on '7 ♠' with \
+individual card weight '7' and memory benefit '-1'\
+13:26:23.105 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:26:23.105 <INFO> [initial throw] Try-take available, throwing: '7 ♠'
+13:26:23.105 <INFO> AI Player 2 throwing initial card: '7 ♠'
+13:26:25.697 <INFO> Human Player You throwing card: '2 ♣'
+13:26:27.201 <INFO> AI Player 0 making decision...
+13:26:27.201 <INFO> [later throw, other suit] Ordered hand: K ♥
+13:26:27.201 <INFO> [later throw, other suit] Have multiple suits, threshold is: 0.22
+13:26:27.201 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on 'K ♥' with \
+utility 14'\
+13:26:27.201 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:26:27.201 <INFO> AI Player 0 throwing card: 'K ♥'
+13:26:28.705 <INFO> AI Player 1 making decision...
+13:26:28.705 <INFO> [later throw, other suit] Ordered hand: 4 ♦
+13:26:28.705 <INFO> [later throw, other suit] Have multiple suits, threshold is: 0.22
+13:26:28.705 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '4 ♦' with \
+utility 4'\
+13:26:28.705 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:26:28.705 <INFO> AI Player 1 throwing card: '4 ♦'
+13:26:28.705 <INFO> AI Player 2 taking trick: '7 ♠, 2 ♣, K ♥, 4 ♦'
+13:26:28.705 <INFO> AI Player 2 remembering card: 'K ♥'
+13:26:28.705 <INFO> AI Player 2 remembering card: '4 ♦'
+13:26:32.209 <INFO> AI Player 2 returning taken cards: 'K ♠, 9 ♠, J ♠, 4 ♠, 3 ♣, 10 ♣, J ♣, 7 ♣, 8 ♣, 5 ♣, 6 ♣, Q ♥, Q ♠, 2 ♠, 10 ♠, 5 ♥, 5 ♠, 4 ♣, 9 ♥, 5 ♦, 7 ♠, 2 ♣, K ♥, 4 ♦'
+13:26:32.209 <INFO> Human Player You returning taken cards: ''
+13:26:32.209 <INFO> AI Player 0 returning taken cards: '3 ♦, K ♦, A ♦, J ♦, A ♠, 6 ♠, 8 ♠, 3 ♠, A ♣, 9 ♣, Q ♣, K ♣, Q ♦, 9 ♦, J ♥, 10 ♦, 2 ♥, 4 ♥, 3 ♥, 6 ♥, 8 ♦, 6 ♦, 8 ♥, 7 ♥'
+13:26:32.209 <INFO> AI Player 1 returning taken cards: '2 ♦, 7 ♦, 10 ♥, A ♥'
+13:26:44.101 <INFO> AI Player 2 adding card: '3 ♥' to hand
+13:26:44.101 <INFO> Human Player You adding card: 'A ♣' to hand
+13:26:44.101 <INFO> AI Player 0 adding card: '2 ♠' to hand
+13:26:44.101 <INFO> AI Player 1 adding card: '4 ♣' to hand
+13:26:44.101 <INFO> AI Player 2 adding card: 'K ♣' to hand
+13:26:44.101 <INFO> Human Player You adding card: '7 ♠' to hand
+13:26:44.101 <INFO> AI Player 0 adding card: 'K ♥' to hand
+13:26:44.101 <INFO> AI Player 1 adding card: '6 ♠' to hand
+13:26:44.101 <INFO> AI Player 2 adding card: 'J ♠' to hand
+13:26:44.101 <INFO> Human Player You adding card: 'A ♥' to hand
+13:26:44.101 <INFO> AI Player 0 adding card: '10 ♦' to hand
+13:26:44.101 <INFO> AI Player 1 adding card: '7 ♦' to hand
+13:26:44.101 <INFO> AI Player 2 adding card: '6 ♣' to hand
+13:26:44.101 <INFO> Human Player You adding card: '3 ♦' to hand
+13:26:44.101 <INFO> AI Player 0 adding card: '7 ♥' to hand
+13:26:44.101 <INFO> AI Player 1 adding card: '4 ♥' to hand
+13:26:44.101 <INFO> AI Player 2 adding card: 'K ♠' to hand
+13:26:44.101 <INFO> Human Player You adding card: '4 ♦' to hand
+13:26:44.101 <INFO> AI Player 0 adding card: 'J ♦' to hand
+13:26:44.101 <INFO> AI Player 1 adding card: '9 ♥' to hand
+13:26:44.101 <INFO> AI Player 2 adding card: '5 ♦' to hand
+13:26:44.101 <INFO> Human Player You adding card: 'Q ♦' to hand
+13:26:44.101 <INFO> AI Player 0 adding card: '2 ♣' to hand
+13:26:44.101 <INFO> AI Player 1 adding card: 'J ♥' to hand
+13:26:44.101 <INFO> AI Player 2 adding card: '8 ♦' to hand
+13:26:44.101 <INFO> Human Player You adding card: '10 ♥' to hand
+13:26:44.101 <INFO> AI Player 0 adding card: '9 ♠' to hand
+13:26:44.101 <INFO> AI Player 1 adding card: '6 ♥' to hand
+13:26:44.101 <INFO> AI Player 2 adding card: '10 ♣' to hand
+13:26:44.101 <INFO> Human Player You adding card: '8 ♣' to hand
+13:26:44.101 <INFO> AI Player 0 adding card: '7 ♣' to hand
+13:26:44.101 <INFO> AI Player 1 adding card: '3 ♠' to hand
+13:26:44.101 <INFO> AI Player 2 adding card: '5 ♥' to hand
+13:26:44.101 <INFO> Human Player You adding card: '8 ♠' to hand
+13:26:44.101 <INFO> AI Player 0 adding card: '2 ♦' to hand
+13:26:44.101 <INFO> AI Player 1 adding card: '4 ♠' to hand
+13:26:44.101 <INFO> AI Player 2 adding card: '8 ♥' to hand
+13:26:44.101 <INFO> Human Player You adding card: '5 ♠' to hand
+13:26:44.101 <INFO> AI Player 0 adding card: 'A ♠' to hand
+13:26:44.101 <INFO> AI Player 1 adding card: '5 ♣' to hand
+13:26:44.101 <INFO> AI Player 2 adding card: '9 ♣' to hand
+13:26:44.101 <INFO> Human Player You adding card: 'J ♣' to hand
+13:26:44.101 <INFO> AI Player 0 adding card: 'Q ♣' to hand
+13:26:44.101 <INFO> AI Player 1 adding card: '9 ♦' to hand
+13:26:44.101 <INFO> AI Player 2 adding card: '10 ♠' to hand
+13:26:44.101 <INFO> Human Player You adding card: 'K ♦' to hand
+13:26:44.101 <INFO> AI Player 0 adding card: 'Q ♥' to hand
+13:26:44.101 <INFO> AI Player 1 adding card: '6 ♦' to hand
+13:26:44.101 <INFO> AI Player 2 adding card: '2 ♥' to hand
+13:26:44.101 <INFO> Human Player You adding card: '3 ♣' to hand
+13:26:44.101 <INFO> AI Player 0 adding card: 'A ♦' to hand
+13:26:44.101 <INFO> AI Player 1 adding card: 'Q ♠' to hand
+13:26:44.101 <INFO> AI Player 2 making decision for initial throw...
+13:26:44.101 <INFO> [initial throw] Ordered hand: 2 ♥, 3 ♥, 5 ♥, 8 ♥, 5 ♦, 8 ♦, 6 ♣, 9 ♣, 10 ♣, K ♣, 10 ♠, J ♠, K ♠; Memory: 
+13:26:44.101 <INFO> [initial throw] Registered possible decision 'LowHeart' on '3 ♥' with \
+individual card weight '12' and memory benefit '1'\
+13:26:44.101 <INFO> [initial throw] Registered possible decision 'TryTake' on 'K ♣' with \
+individual card weight '14' and memory benefit '-1'\
+13:26:44.101 <INFO> [initial throw] Registered possible decision 'TryTake' on 'J ♠' with \
+individual card weight '12' and memory benefit '-1'\
+13:26:44.101 <INFO> [initial throw] Registered possible decision 'TryTake' on '6 ♣' with \
+individual card weight '6' and memory benefit '-1'\
+13:26:44.101 <INFO> [initial throw] Registered possible decision 'TryTake' on 'K ♠' with \
+individual card weight '14' and memory benefit '-1'\
+13:26:44.101 <INFO> [initial throw] Registered possible decision 'TryTake' on '5 ♦' with \
+individual card weight '5' and memory benefit '-1'\
+13:26:44.101 <INFO> [initial throw] Registered possible decision 'TryTake' on '8 ♦' with \
+individual card weight '8' and memory benefit '-1'\
+13:26:44.101 <INFO> [initial throw] Registered possible decision 'TryTake' on '10 ♣' with \
+individual card weight '10' and memory benefit '-1'\
+13:26:44.101 <INFO> [initial throw] Registered possible decision 'LowHeart' on '5 ♥' with \
+individual card weight '10' and memory benefit '1'\
+13:26:44.101 <INFO> [initial throw] Registered possible decision 'LowHeart' on '8 ♥' with \
+individual card weight '7' and memory benefit '1'\
+13:26:44.101 <INFO> [initial throw] Registered possible decision 'TryTake' on '9 ♣' with \
+individual card weight '9' and memory benefit '-1'\
+13:26:44.101 <INFO> [initial throw] Registered possible decision 'TryTake' on '10 ♠' with \
+individual card weight '10' and memory benefit '-1'\
+13:26:44.101 <INFO> [initial throw] Registered possible decision 'LowHeart' on '2 ♥' with \
+individual card weight '13' and memory benefit '1'\
+13:26:44.101 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '5 ♦' with \
+utility '12'\
+13:26:44.101 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '10 ♠' with \
+utility '12'\
+13:26:44.101 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '6 ♣' with \
+utility '10'\
+13:26:44.101 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:26:44.101 <INFO> [initial throw] No Try-take exists; Low Heart available, throwing: '2 ♥'
+13:26:44.101 <INFO> AI Player 2 throwing initial card: '2 ♥'
+13:26:52.819 <INFO> Human Player You throwing card: '10 ♥'
+13:26:54.321 <INFO> AI Player 0 making decision...
+13:26:54.321 <INFO> [later throw, same suit] Hand: 2 ♠, K ♥, 10 ♦, 7 ♥, J ♦, 2 ♣, 9 ♠, 7 ♣, 2 ♦, A ♠, Q ♣, Q ♥, A ♦; \
+throwable: 7 ♥, Q ♥, K ♥; \
+take weight: 10\
+13:26:54.321 <INFO> [later throw, same suit] Suit is Hearts, throwing highest possible, but lower: '7 ♥'
+13:26:54.321 <INFO> AI Player 0 throwing card: '7 ♥'
+13:26:55.826 <INFO> AI Player 1 making decision...
+13:26:55.826 <INFO> [later throw, same suit] Hand: 4 ♣, 6 ♠, 7 ♦, 4 ♥, 9 ♥, J ♥, 6 ♥, 3 ♠, 4 ♠, 5 ♣, 9 ♦, 6 ♦, Q ♠; \
+throwable: 4 ♥, 6 ♥, 9 ♥, J ♥; \
+take weight: 10\
+13:26:55.826 <INFO> [later throw, same suit] Suit is Hearts, throwing highest possible, but lower: '9 ♥'
+13:26:55.826 <INFO> AI Player 1 throwing card: '9 ♥'
+13:26:55.826 <INFO> Human Player You taking trick: '2 ♥, 10 ♥, 7 ♥, 9 ♥'
+13:27:14.903 <INFO> Human Player You throwing initial card: 'A ♣'
+13:27:16.411 <INFO> AI Player 0 making decision...
+13:27:16.411 <INFO> [later throw, same suit] Hand: 2 ♠, K ♥, 10 ♦, J ♦, 2 ♣, 9 ♠, 7 ♣, 2 ♦, A ♠, Q ♣, Q ♥, A ♦; \
+throwable: 2 ♣, 7 ♣, Q ♣; \
+take weight: 15\
+13:27:16.411 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'Q ♣'
+13:27:16.411 <INFO> AI Player 0 throwing card: 'Q ♣'
+13:27:17.916 <INFO> AI Player 1 making decision...
+13:27:17.916 <INFO> [later throw, same suit] Hand: 4 ♣, 6 ♠, 7 ♦, 4 ♥, J ♥, 6 ♥, 3 ♠, 4 ♠, 5 ♣, 9 ♦, 6 ♦, Q ♠; \
+throwable: 4 ♣, 5 ♣; \
+take weight: 15\
+13:27:17.916 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '5 ♣'
+13:27:17.916 <INFO> AI Player 1 throwing card: '5 ♣'
+13:27:19.432 <INFO> AI Player 2 making decision...
+13:27:19.432 <INFO> [later throw, same suit] Hand: 3 ♥, K ♣, J ♠, 6 ♣, K ♠, 5 ♦, 8 ♦, 10 ♣, 5 ♥, 8 ♥, 9 ♣, 10 ♠; \
+throwable: 6 ♣, 9 ♣, 10 ♣, K ♣; \
+take weight: 15\
+13:27:19.432 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'K ♣'
+13:27:19.432 <INFO> AI Player 2 throwing card: 'K ♣'
+13:27:19.432 <INFO> Human Player You taking trick: 'A ♣, Q ♣, 5 ♣, K ♣'
+13:27:25.449 <INFO> Human Player You throwing initial card: 'J ♣'
+13:27:26.954 <INFO> AI Player 0 making decision...
+13:27:26.954 <INFO> [later throw, same suit] Hand: 2 ♠, K ♥, 10 ♦, J ♦, 2 ♣, 9 ♠, 7 ♣, 2 ♦, A ♠, Q ♥, A ♦; \
+throwable: 2 ♣, 7 ♣; \
+take weight: 12\
+13:27:26.954 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '7 ♣'
+13:27:26.954 <INFO> AI Player 0 throwing card: '7 ♣'
+13:27:28.455 <INFO> AI Player 1 making decision...
+13:27:28.455 <INFO> AI Player 1 throwing card: '4 ♣'
+13:27:29.959 <INFO> AI Player 2 making decision...
+13:27:29.959 <INFO> [later throw, same suit] Hand: 3 ♥, J ♠, 6 ♣, K ♠, 5 ♦, 8 ♦, 10 ♣, 5 ♥, 8 ♥, 9 ♣, 10 ♠; \
+throwable: 6 ♣, 9 ♣, 10 ♣; \
+take weight: 12\
+13:27:29.959 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '10 ♣'
+13:27:29.959 <INFO> AI Player 2 throwing card: '10 ♣'
+13:27:29.959 <INFO> Human Player You taking trick: 'J ♣, 7 ♣, 4 ♣, 10 ♣'
+13:27:38.155 <INFO> Human Player You throwing initial card: 'K ♦'
+13:27:39.669 <INFO> AI Player 0 making decision...
+13:27:39.669 <INFO> [later throw, same suit] Hand: 2 ♠, K ♥, 10 ♦, J ♦, 2 ♣, 9 ♠, 2 ♦, A ♠, Q ♥, A ♦; \
+throwable: 2 ♦, 10 ♦, J ♦, A ♦; \
+take weight: 14\
+13:27:39.669 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'A ♦'
+13:27:39.669 <INFO> AI Player 0 throwing card: 'A ♦'
+13:27:41.177 <INFO> AI Player 1 making decision...
+13:27:41.177 <INFO> [later throw, same suit] Hand: 6 ♠, 7 ♦, 4 ♥, J ♥, 6 ♥, 3 ♠, 4 ♠, 9 ♦, 6 ♦, Q ♠; \
+throwable: 6 ♦, 7 ♦, 9 ♦; \
+take weight: 15\
+13:27:41.177 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '9 ♦'
+13:27:41.177 <INFO> AI Player 1 throwing card: '9 ♦'
+13:27:42.693 <INFO> AI Player 2 making decision...
+13:27:42.693 <INFO> [later throw, same suit] Hand: 3 ♥, J ♠, 6 ♣, K ♠, 5 ♦, 8 ♦, 5 ♥, 8 ♥, 9 ♣, 10 ♠; \
+throwable: 5 ♦, 8 ♦; \
+take weight: 15\
+13:27:42.693 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '8 ♦'
+13:27:42.693 <INFO> AI Player 2 throwing card: '8 ♦'
+13:27:42.693 <INFO> AI Player 0 taking trick: 'K ♦, A ♦, 9 ♦, 8 ♦'
+13:27:42.693 <INFO> AI Player 0 remembering card: 'K ♦'
+13:27:42.693 <INFO> AI Player 0 remembering card: 'A ♦'
+13:27:46.202 <INFO> AI Player 0 making decision for initial throw...
+13:27:46.202 <INFO> [initial throw] Ordered hand: Q ♥, K ♥, 2 ♦, 10 ♦, J ♦, 2 ♣, 2 ♠, 9 ♠, A ♠; Memory: K ♦, A ♦
+13:27:46.202 <INFO> [initial throw] Registered possible decision 'TryTake' on '2 ♠' with \
+individual card weight '2' and memory benefit '-1'\
+13:27:46.202 <INFO> [initial throw] Registered possible decision 'LowHeart' on 'K ♥' with \
+individual card weight '1' and memory benefit '1'\
+13:27:46.202 <INFO> [initial throw] Registered possible decision 'TryTake' on '10 ♦' with \
+individual card weight '10' and memory benefit '0'\
+13:27:46.202 <INFO> [initial throw] Registered possible decision 'TryTake' on 'J ♦' with \
+individual card weight '12' and memory benefit '0'\
+13:27:46.202 <INFO> [initial throw] Registered possible decision 'TryTake' on '2 ♣' with \
+individual card weight '2' and memory benefit '-1'\
+13:27:46.202 <INFO> [initial throw] Registered possible decision 'TryTake' on '9 ♠' with \
+individual card weight '9' and memory benefit '-1'\
+13:27:46.202 <INFO> [initial throw] Registered possible decision 'TryTake' on '2 ♦' with \
+individual card weight '2' and memory benefit '0'\
+13:27:46.202 <INFO> [initial throw] Registered possible decision 'TryTake' on 'A ♠' with \
+individual card weight '15' and memory benefit '-1'\
+13:27:46.202 <INFO> [initial throw] Registered possible decision 'LowHeart' on 'Q ♥' with \
+individual card weight '2' and memory benefit '1'\
+13:27:46.202 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '2 ♦' with \
+utility '11'\
+13:27:46.202 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '2 ♠' with \
+utility '12'\
+13:27:46.202 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '2 ♣' with \
+utility '13'\
+13:27:46.202 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:27:46.202 <INFO> [initial throw] Try-take available, throwing: 'A ♠'
+13:27:46.202 <INFO> AI Player 0 throwing initial card: 'A ♠'
+13:27:47.706 <INFO> AI Player 1 making decision...
+13:27:47.706 <INFO> [later throw, same suit] Hand: 6 ♠, 7 ♦, 4 ♥, J ♥, 6 ♥, 3 ♠, 4 ♠, 6 ♦, Q ♠; \
+throwable: 3 ♠, 4 ♠, 6 ♠; \
+take weight: 15\
+13:27:47.706 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '6 ♠'
+13:27:47.706 <INFO> AI Player 1 throwing card: '6 ♠'
+13:27:49.212 <INFO> AI Player 2 making decision...
+13:27:49.212 <INFO> [later throw, same suit] Hand: 3 ♥, J ♠, 6 ♣, K ♠, 5 ♦, 5 ♥, 8 ♥, 9 ♣, 10 ♠; \
+throwable: 10 ♠, J ♠; \
+take weight: 15\
+13:27:49.212 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'J ♠'
+13:27:49.212 <INFO> AI Player 2 throwing card: 'J ♠'
+13:27:56.962 <INFO> Human Player You throwing card: '8 ♠'
+13:27:56.962 <INFO> AI Player 0 taking trick: 'A ♠, 6 ♠, J ♠, 8 ♠'
+13:27:56.962 <INFO> AI Player 0 remembering card: 'A ♠'
+13:27:56.962 <INFO> AI Player 0 remembering card: '6 ♠'
+13:27:56.962 <INFO> AI Player 0 remembering card: 'J ♠'
+13:27:56.962 <INFO> AI Player 0 remembering card: '8 ♠'
+13:28:00.463 <INFO> AI Player 0 making decision for initial throw...
+13:28:00.463 <INFO> [initial throw] Ordered hand: Q ♥, K ♥, 2 ♦, 10 ♦, J ♦, 2 ♣, 2 ♠, 9 ♠; Memory: K ♦, A ♦, A ♠, 6 ♠, J ♠, 8 ♠
+13:28:00.463 <INFO> [initial throw] Registered possible decision 'TryTake' on '2 ♠' with \
+individual card weight '2' and memory benefit '-1'\
+13:28:00.463 <INFO> [initial throw] Registered possible decision 'LowHeart' on 'K ♥' with \
+individual card weight '1' and memory benefit '1'\
+13:28:00.463 <INFO> [initial throw] Registered possible decision 'TryTake' on '10 ♦' with \
+individual card weight '10' and memory benefit '0'\
+13:28:00.463 <INFO> [initial throw] Registered possible decision 'TryTake' on 'J ♦' with \
+individual card weight '12' and memory benefit '0'\
+13:28:00.463 <INFO> [initial throw] Registered possible decision 'TryTake' on '2 ♣' with \
+individual card weight '2' and memory benefit '-1'\
+13:28:00.463 <INFO> [initial throw] Registered possible decision 'TryTake' on '9 ♠' with \
+individual card weight '9' and memory benefit '-1'\
+13:28:00.463 <INFO> [initial throw] Registered possible decision 'TryTake' on '2 ♦' with \
+individual card weight '2' and memory benefit '0'\
+13:28:00.463 <INFO> [initial throw] Registered possible decision 'LowHeart' on 'Q ♥' with \
+individual card weight '2' and memory benefit '1'\
+13:28:00.463 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '2 ♦' with \
+utility '11'\
+13:28:00.463 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '2 ♠' with \
+utility '13'\
+13:28:00.463 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '2 ♣' with \
+utility '13'\
+13:28:00.463 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy], GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:28:00.463 <INFO> [initial throw] Only Try-Others-Take available, throwing: '2 ♠'
+13:28:00.463 <INFO> AI Player 0 throwing initial card: '2 ♠'
+13:28:01.973 <INFO> AI Player 1 making decision...
+13:28:01.973 <INFO> [later throw, same suit] Hand: 7 ♦, 4 ♥, J ♥, 6 ♥, 3 ♠, 4 ♠, 6 ♦, Q ♠; \
+throwable: 3 ♠, 4 ♠; \
+take weight: 2\
+13:28:01.973 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '4 ♠'
+13:28:01.973 <INFO> AI Player 1 throwing card: '4 ♠'
+13:28:03.486 <INFO> AI Player 2 making decision...
+13:28:03.486 <INFO> [later throw, same suit] Hand: 3 ♥, 6 ♣, K ♠, 5 ♦, 5 ♥, 8 ♥, 9 ♣, 10 ♠; \
+throwable: 10 ♠; \
+take weight: 4\
+13:28:03.486 <INFO> [later throw, same suit] Can only throw one: '10 ♠'
+13:28:03.486 <INFO> AI Player 2 throwing card: '10 ♠'
+13:28:08.002 <INFO> Human Player You throwing card: '7 ♠'
+13:28:08.002 <INFO> AI Player 2 taking trick: '2 ♠, 4 ♠, 10 ♠, 7 ♠'
+13:28:08.002 <INFO> AI Player 2 remembering card: '2 ♠'
+13:28:08.002 <INFO> AI Player 2 remembering card: '10 ♠'
+13:28:08.002 <INFO> AI Player 2 remembering card: '7 ♠'
+13:28:11.510 <INFO> AI Player 2 making decision for initial throw...
+13:28:11.510 <INFO> [initial throw] Ordered hand: 3 ♥, 5 ♥, 8 ♥, 5 ♦, 6 ♣, 9 ♣, K ♠; Memory: 2 ♠, 10 ♠, 7 ♠
+13:28:11.510 <INFO> [initial throw] Registered possible decision 'LowHeart' on '3 ♥' with \
+individual card weight '12' and memory benefit '1'\
+13:28:11.510 <INFO> [initial throw] Registered possible decision 'TryTake' on '6 ♣' with \
+individual card weight '6' and memory benefit '-1'\
+13:28:11.510 <INFO> [initial throw] Registered possible decision 'TryTake' on 'K ♠' with \
+individual card weight '14' and memory benefit '-1'\
+13:28:11.510 <INFO> [initial throw] Registered possible decision 'TryTake' on '5 ♦' with \
+individual card weight '5' and memory benefit '-1'\
+13:28:11.510 <INFO> [initial throw] Registered possible decision 'LowHeart' on '5 ♥' with \
+individual card weight '10' and memory benefit '1'\
+13:28:11.510 <INFO> [initial throw] Registered possible decision 'LowHeart' on '8 ♥' with \
+individual card weight '7' and memory benefit '1'\
+13:28:11.510 <INFO> [initial throw] Registered possible decision 'TryTake' on '9 ♣' with \
+individual card weight '9' and memory benefit '-1'\
+13:28:11.510 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '5 ♦' with \
+utility '13'\
+13:28:11.510 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '6 ♣' with \
+utility '12'\
+13:28:11.510 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy], GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy], GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:28:11.510 <INFO> [initial throw] Try-take available, throwing: 'K ♠'
+13:28:11.510 <INFO> AI Player 2 throwing initial card: 'K ♠'
+13:28:14.942 <INFO> Human Player You throwing card: '5 ♠'
+13:28:16.450 <INFO> AI Player 0 making decision...
+13:28:16.450 <INFO> AI Player 0 throwing card: '9 ♠'
+13:28:17.955 <INFO> AI Player 1 making decision...
+13:28:17.955 <INFO> [later throw, same suit] Hand: 7 ♦, 4 ♥, J ♥, 6 ♥, 3 ♠, 6 ♦, Q ♠; \
+throwable: 3 ♠; \
+take weight: 14\
+13:28:17.955 <INFO> [later throw, same suit] Can only throw one: '3 ♠'
+13:28:17.955 <INFO> AI Player 1 throwing card: '3 ♠'
+13:28:17.955 <INFO> AI Player 2 taking trick: 'K ♠, 5 ♠, 9 ♠, 3 ♠'
+13:28:17.955 <INFO> AI Player 2 remembering card: 'K ♠'
+13:28:17.955 <INFO> AI Player 2 remembering card: '5 ♠'
+13:28:17.955 <INFO> AI Player 2 remembering card: '9 ♠'
+13:28:17.955 <INFO> AI Player 2 remembering card: '3 ♠'
+13:28:21.466 <INFO> AI Player 2 making decision for initial throw...
+13:28:21.466 <INFO> [initial throw] Ordered hand: 3 ♥, 5 ♥, 8 ♥, 5 ♦, 6 ♣, 9 ♣; Memory: 2 ♠, 10 ♠, 7 ♠, K ♠, 5 ♠, 9 ♠, 3 ♠
+13:28:21.466 <INFO> [initial throw] Registered possible decision 'LowHeart' on '3 ♥' with \
+individual card weight '12' and memory benefit '1'\
+13:28:21.466 <INFO> [initial throw] Registered possible decision 'TryTake' on '6 ♣' with \
+individual card weight '6' and memory benefit '-1'\
+13:28:21.466 <INFO> [initial throw] Registered possible decision 'TryTake' on '5 ♦' with \
+individual card weight '5' and memory benefit '-1'\
+13:28:21.466 <INFO> [initial throw] Registered possible decision 'LowHeart' on '5 ♥' with \
+individual card weight '10' and memory benefit '1'\
+13:28:21.466 <INFO> [initial throw] Registered possible decision 'LowHeart' on '8 ♥' with \
+individual card weight '7' and memory benefit '1'\
+13:28:21.466 <INFO> [initial throw] Registered possible decision 'TryTake' on '9 ♣' with \
+individual card weight '9' and memory benefit '-1'\
+13:28:21.466 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '5 ♦' with \
+utility '13'\
+13:28:21.466 <INFO> [initial throw]  Registered possible decision 'TryOthersTake' on '6 ♣' with \
+utility '13'\
+13:28:21.466 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy], GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy], GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:28:21.466 <INFO> [initial throw] No Try-take exists; Low Heart available, throwing: '3 ♥'
+13:28:21.466 <INFO> AI Player 2 throwing initial card: '3 ♥'
+13:28:34.042 <INFO> Human Player You throwing card: 'A ♥'
+13:28:35.550 <INFO> AI Player 0 making decision...
+13:28:35.550 <INFO> [later throw, same suit] Hand: K ♥, 10 ♦, J ♦, 2 ♣, 2 ♦, Q ♥; \
+throwable: Q ♥, K ♥; \
+take weight: 15\
+13:28:35.550 <INFO> [later throw, same suit] Suit is Hearts, throwing highest possible, but lower: 'K ♥'
+13:28:35.550 <INFO> AI Player 0 throwing card: 'K ♥'
+13:28:37.055 <INFO> AI Player 1 making decision...
+13:28:37.055 <INFO> [later throw, same suit] Hand: 7 ♦, 4 ♥, J ♥, 6 ♥, 6 ♦, Q ♠; \
+throwable: 4 ♥, 6 ♥, J ♥; \
+take weight: 15\
+13:28:37.055 <INFO> [later throw, same suit] Suit is Hearts, throwing highest possible, but lower: 'J ♥'
+13:28:37.055 <INFO> AI Player 1 throwing card: 'J ♥'
+13:28:37.055 <INFO> Human Player You taking trick: '3 ♥, A ♥, K ♥, J ♥'
+13:28:48.993 <INFO> Human Player You throwing initial card: '3 ♣'
+13:28:50.505 <INFO> AI Player 0 making decision...
+13:28:50.505 <INFO> AI Player 0 throwing card: '2 ♣'
+13:28:52.011 <INFO> AI Player 1 making decision...
+13:28:52.011 <INFO> [later throw, other suit] Ordered hand: 4 ♥, 6 ♥, 6 ♦, 7 ♦, Q ♠
+13:28:52.011 <INFO> [later throw, other suit] Have hearts, throwing: 6 ♥
+13:28:52.011 <INFO> AI Player 1 throwing card: '6 ♥'
+13:28:53.524 <INFO> AI Player 2 making decision...
+13:28:53.524 <INFO> [later throw, same suit] Hand: 6 ♣, 5 ♦, 5 ♥, 8 ♥, 9 ♣; \
+throwable: 6 ♣; \
+take weight: 3\
+13:28:53.524 <INFO> [later throw, same suit] Can only throw one: '6 ♣'
+13:28:53.524 <INFO> AI Player 2 throwing card: '6 ♣'
+13:28:53.524 <INFO> AI Player 2 taking trick: '3 ♣, 2 ♣, 6 ♥, 6 ♣'
+13:28:53.524 <INFO> AI Player 2 remembering card: '2 ♣'
+13:28:53.524 <INFO> AI Player 2 remembering card: '6 ♥'
+13:28:53.524 <INFO> AI Player 2 remembering card: '6 ♣'
+13:28:57.031 <INFO> AI Player 2 making decision for initial throw...
+13:28:57.031 <INFO> [initial throw] Ordered hand: 5 ♥, 8 ♥, 5 ♦, 9 ♣; Memory: 2 ♠, 10 ♠, 7 ♠, K ♠, 5 ♠, 9 ♠, 3 ♠, 2 ♣, 6 ♥, 6 ♣
+13:28:57.031 <INFO> [initial throw] Registered possible decision 'TryTake' on '5 ♦' with \
+individual card weight '5' and memory benefit '-1'\
+13:28:57.031 <INFO> [initial throw] Registered possible decision 'LowHeart' on '5 ♥' with \
+individual card weight '10' and memory benefit '1'\
+13:28:57.031 <INFO> [initial throw] Registered possible decision 'LowHeart' on '8 ♥' with \
+individual card weight '7' and memory benefit '1'\
+13:28:57.031 <INFO> [initial throw] Registered possible decision 'TryTake' on '9 ♣' with \
+individual card weight '9' and memory benefit '-1'\
+13:28:57.031 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '5 ♦' with \
+utility '13'\
+13:28:57.031 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:28:57.031 <INFO> [initial throw] Only Try-Others-Take available, throwing: '5 ♦'
+13:28:57.031 <INFO> AI Player 2 throwing initial card: '5 ♦'
+13:29:02.298 <INFO> Human Player You throwing card: '4 ♦'
+13:29:03.803 <INFO> AI Player 0 making decision...
+13:29:03.803 <INFO> [later throw, same suit] Hand: 10 ♦, J ♦, 2 ♦, Q ♥; \
+throwable: 2 ♦, 10 ♦; \
+take weight: 5\
+13:29:03.803 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '10 ♦'
+13:29:03.803 <INFO> AI Player 0 throwing card: '10 ♦'
+13:29:05.306 <INFO> AI Player 1 making decision...
+13:29:05.306 <INFO> [later throw, same suit] Hand: 7 ♦, 4 ♥, 6 ♦, Q ♠; \
+throwable: 6 ♦, 7 ♦; \
+take weight: 10\
+13:29:05.306 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '7 ♦'
+13:29:05.306 <INFO> AI Player 1 throwing card: '7 ♦'
+13:29:05.306 <INFO> AI Player 0 taking trick: '5 ♦, 4 ♦, 10 ♦, 7 ♦'
+13:29:05.306 <INFO> AI Player 0 remembering card: '5 ♦'
+13:29:05.306 <INFO> AI Player 0 remembering card: '4 ♦'
+13:29:05.306 <INFO> AI Player 0 remembering card: '10 ♦'
+13:29:05.306 <INFO> AI Player 0 remembering card: '7 ♦'
+13:29:08.819 <INFO> AI Player 0 making decision for initial throw...
+13:29:08.819 <INFO> [initial throw] Ordered hand: Q ♥, 2 ♦, J ♦; Memory: K ♦, A ♦, A ♠, 6 ♠, J ♠, 8 ♠, 5 ♦, 4 ♦, 10 ♦, 7 ♦
+13:29:08.819 <INFO> [initial throw] Registered possible decision 'TryTake' on 'J ♦' with \
+individual card weight '12' and memory benefit '-1'\
+13:29:08.819 <INFO> [initial throw] Registered possible decision 'TryTake' on '2 ♦' with \
+individual card weight '2' and memory benefit '-1'\
+13:29:08.819 <INFO> [initial throw] Registered possible decision 'LowHeart' on 'Q ♥' with \
+individual card weight '2' and memory benefit '1'\
+13:29:08.819 <INFO> [initial throw] Registered possible decision 'TryOthersTake' on '2 ♦' with \
+utility '13'\
+13:29:08.819 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:29:08.819 <INFO> [initial throw] Only Try-Others-Take available, throwing: '2 ♦'
+13:29:08.819 <INFO> AI Player 0 throwing initial card: '2 ♦'
+13:29:10.335 <INFO> AI Player 1 making decision...
+13:29:10.335 <INFO> AI Player 1 throwing card: '6 ♦'
+13:29:11.849 <INFO> AI Player 2 making decision...
+13:29:11.849 <INFO> [later throw, other suit] Ordered hand: 5 ♥, 8 ♥, 9 ♣
+13:29:11.849 <INFO> [later throw, other suit] Have hearts, throwing: 8 ♥
+13:29:11.849 <INFO> AI Player 2 throwing card: '8 ♥'
+13:29:15.057 <INFO> Human Player You throwing card: '3 ♦'
+13:29:15.057 <INFO> AI Player 1 taking trick: '2 ♦, 6 ♦, 8 ♥, 3 ♦'
+13:29:15.057 <INFO> AI Player 1 remembering card: '2 ♦'
+13:29:15.057 <INFO> AI Player 1 remembering card: '6 ♦'
+13:29:15.057 <INFO> AI Player 1 remembering card: '8 ♥'
+13:29:15.057 <INFO> AI Player 1 remembering card: '3 ♦'
+13:29:18.562 <INFO> AI Player 1 making decision for initial throw...
+13:29:18.562 <INFO> [initial throw] Ordered hand: 4 ♥, Q ♠; Memory: 2 ♦, 6 ♦, 8 ♥, 3 ♦
+13:29:18.562 <INFO> [initial throw] Registered possible decision 'LowHeart' on '4 ♥' with \
+individual card weight '11' and memory benefit '1'\
+13:29:18.562 <INFO> [initial throw] Registered possible decision 'TryTake' on 'Q ♠' with \
+individual card weight '13' and memory benefit '-1'\
+13:29:18.562 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy], GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:29:18.562 <INFO> [initial throw] Try-take available, throwing: 'Q ♠'
+13:29:18.562 <INFO> AI Player 1 throwing initial card: 'Q ♠'
+13:29:20.063 <INFO> AI Player 2 making decision...
+13:29:20.063 <INFO> [later throw, other suit] Ordered hand: 5 ♥, 9 ♣
+13:29:20.063 <INFO> [later throw, other suit] Have hearts, throwing: 5 ♥
+13:29:20.063 <INFO> AI Player 2 throwing card: '5 ♥'
+13:29:22.869 <INFO> Human Player You throwing card: 'Q ♦'
+13:29:24.373 <INFO> AI Player 0 making decision...
+13:29:24.373 <INFO> [later throw, other suit] Ordered hand: Q ♥, J ♦
+13:29:24.373 <INFO> [later throw, other suit] Have hearts, throwing: Q ♥
+13:29:24.373 <INFO> AI Player 0 throwing card: 'Q ♥'
+13:29:24.373 <INFO> AI Player 1 taking trick: 'Q ♠, 5 ♥, Q ♦, Q ♥'
+13:29:24.373 <INFO> AI Player 1 remembering card: 'Q ♠'
+13:29:24.373 <INFO> AI Player 1 remembering card: '5 ♥'
+13:29:24.373 <INFO> AI Player 1 remembering card: 'Q ♦'
+13:29:24.373 <INFO> AI Player 1 remembering card: 'Q ♥'
+13:29:27.889 <INFO> AI Player 1 making decision for initial throw...
+13:29:27.889 <INFO> [initial throw] Ordered hand: 4 ♥; Memory: 2 ♦, 6 ♦, 8 ♥, 3 ♦, Q ♠, 5 ♥, Q ♦, Q ♥
+13:29:27.889 <INFO> [initial throw] Registered possible decision 'LowHeart' on '4 ♥' with \
+individual card weight '11' and memory benefit '1'\
+13:29:27.889 <INFO> [initial throw] Optimal decisions are: 'GameOfHearts.ArtificialPlayer.Models.Decision`1[GameOfHearts.ArtificialPlayer.Enums.InitialThrowStrategy]'
+13:29:27.889 <INFO> [initial throw] No Try-take exists; Low Heart available, throwing: '4 ♥'
+13:29:27.889 <INFO> AI Player 1 throwing initial card: '4 ♥'
+13:29:29.401 <INFO> AI Player 2 making decision...
+13:29:29.401 <INFO> [later throw, other suit] Ordered hand: 9 ♣
+13:29:29.401 <INFO> [later throw, other suit] Have multiple suits, threshold is: 0.22
+13:29:29.401 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on '9 ♣' with \
+utility 9'\
+13:29:29.401 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:29:29.401 <INFO> AI Player 2 throwing card: '9 ♣'
+13:29:31.687 <INFO> Human Player You throwing card: '8 ♣'
+13:29:33.202 <INFO> AI Player 0 making decision...
+13:29:33.202 <INFO> [later throw, other suit] Ordered hand: J ♦
+13:29:33.202 <INFO> [later throw, other suit] Have multiple suits, threshold is: 0.22
+13:29:33.202 <INFO> [later throw, other suit] Registered possible decision 'EliminateHighCards' on 'J ♦' with \
+utility 12'\
+13:29:33.202 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:29:33.202 <INFO> AI Player 0 throwing card: 'J ♦'
+13:29:33.202 <INFO> AI Player 1 taking trick: '4 ♥, 9 ♣, 8 ♣, J ♦'
+13:29:33.202 <INFO> AI Player 1 remembering card: '4 ♥'
+13:29:36.708 <INFO> AI Player 1 returning taken cards: '2 ♦, 6 ♦, 8 ♥, 3 ♦, Q ♠, 5 ♥, Q ♦, Q ♥, 4 ♥, 9 ♣, 8 ♣, J ♦'
+13:29:36.708 <INFO> AI Player 2 returning taken cards: '2 ♠, 4 ♠, 10 ♠, 7 ♠, K ♠, 5 ♠, 9 ♠, 3 ♠, 3 ♣, 2 ♣, 6 ♥, 6 ♣'
+13:29:36.708 <INFO> Human Player You returning taken cards: '2 ♥, 10 ♥, 7 ♥, 9 ♥, A ♣, Q ♣, 5 ♣, K ♣, J ♣, 7 ♣, 4 ♣, 10 ♣, 3 ♥, A ♥, K ♥, J ♥'
+13:29:36.708 <INFO> AI Player 0 returning taken cards: 'K ♦, A ♦, 9 ♦, 8 ♦, A ♠, 6 ♠, J ♠, 8 ♠, 5 ♦, 4 ♦, 10 ♦, 7 ♦'

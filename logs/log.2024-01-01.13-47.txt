@@ -1,0 +1,1838 @@
+13:40:16.321 <INFO> Starting game with target score '51'
+13:40:16.356 <INFO> AI Player 0 adding card: '4 ♥' to hand
+13:40:16.356 <INFO> AI Player 1 adding card: 'A ♥' to hand
+13:40:16.356 <INFO> AI Player 2 adding card: '7 ♣' to hand
+13:40:16.356 <INFO> Human Player You adding card: '8 ♣' to hand
+13:40:16.365 <INFO> AI Player 0 adding card: '2 ♥' to hand
+13:40:16.365 <INFO> AI Player 1 adding card: 'Q ♦' to hand
+13:40:16.365 <INFO> AI Player 2 adding card: '8 ♦' to hand
+13:40:16.365 <INFO> Human Player You adding card: '7 ♦' to hand
+13:40:16.365 <INFO> AI Player 0 adding card: '3 ♠' to hand
+13:40:16.365 <INFO> AI Player 1 adding card: '5 ♦' to hand
+13:40:16.365 <INFO> AI Player 2 adding card: '10 ♥' to hand
+13:40:16.365 <INFO> Human Player You adding card: '9 ♣' to hand
+13:40:16.366 <INFO> AI Player 0 adding card: 'Q ♣' to hand
+13:40:16.366 <INFO> AI Player 1 adding card: '7 ♥' to hand
+13:40:16.366 <INFO> AI Player 2 adding card: '4 ♦' to hand
+13:40:16.366 <INFO> Human Player You adding card: 'K ♦' to hand
+13:40:16.366 <INFO> AI Player 0 adding card: '8 ♥' to hand
+13:40:16.366 <INFO> AI Player 1 adding card: '6 ♥' to hand
+13:40:16.366 <INFO> AI Player 2 adding card: '9 ♥' to hand
+13:40:16.366 <INFO> Human Player You adding card: '3 ♥' to hand
+13:40:16.366 <INFO> AI Player 0 adding card: 'A ♠' to hand
+13:40:16.366 <INFO> AI Player 1 adding card: '5 ♥' to hand
+13:40:16.366 <INFO> AI Player 2 adding card: '8 ♠' to hand
+13:40:16.366 <INFO> Human Player You adding card: '5 ♠' to hand
+13:40:16.366 <INFO> AI Player 0 adding card: 'K ♥' to hand
+13:40:16.366 <INFO> AI Player 1 adding card: '3 ♦' to hand
+13:40:16.366 <INFO> AI Player 2 adding card: 'Q ♠' to hand
+13:40:16.366 <INFO> Human Player You adding card: 'J ♣' to hand
+13:40:16.366 <INFO> AI Player 0 adding card: '4 ♠' to hand
+13:40:16.366 <INFO> AI Player 1 adding card: '10 ♠' to hand
+13:40:16.366 <INFO> AI Player 2 adding card: 'K ♣' to hand
+13:40:16.366 <INFO> Human Player You adding card: '9 ♠' to hand
+13:40:16.366 <INFO> AI Player 0 adding card: '4 ♣' to hand
+13:40:16.366 <INFO> AI Player 1 adding card: '5 ♣' to hand
+13:40:16.366 <INFO> AI Player 2 adding card: 'J ♠' to hand
+13:40:16.366 <INFO> Human Player You adding card: 'A ♣' to hand
+13:40:16.366 <INFO> AI Player 0 adding card: 'A ♦' to hand
+13:40:16.366 <INFO> AI Player 1 adding card: '7 ♠' to hand
+13:40:16.366 <INFO> AI Player 2 adding card: '2 ♣' to hand
+13:40:16.366 <INFO> Human Player You adding card: 'J ♦' to hand
+13:40:16.366 <INFO> AI Player 0 adding card: 'K ♠' to hand
+13:40:16.366 <INFO> AI Player 1 adding card: '10 ♣' to hand
+13:40:16.366 <INFO> AI Player 2 adding card: '2 ♠' to hand
+13:40:16.366 <INFO> Human Player You adding card: '6 ♣' to hand
+13:40:16.366 <INFO> AI Player 0 adding card: '6 ♦' to hand
+13:40:16.366 <INFO> AI Player 1 adding card: 'J ♥' to hand
+13:40:16.366 <INFO> AI Player 2 adding card: '10 ♦' to hand
+13:40:16.366 <INFO> Human Player You adding card: '2 ♦' to hand
+13:40:16.366 <INFO> AI Player 0 adding card: '9 ♦' to hand
+13:40:16.366 <INFO> AI Player 1 adding card: '6 ♠' to hand
+13:40:16.366 <INFO> AI Player 2 adding card: '3 ♣' to hand
+13:40:16.366 <INFO> Human Player You adding card: 'Q ♥' to hand
+13:40:16.366 <INFO> AI Player 0 making decision for initial throw...
+13:40:16.372 <INFO> [initial throw] Ordered hand: 2 ♥, 4 ♥, 8 ♥, K ♥, 6 ♦, 9 ♦, A ♦, 4 ♣, Q ♣, 3 ♠, 4 ♠, K ♠, A ♠; Memory: 
+13:40:16.381 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '4 ♥' with 
+                individual card weight '11' and memory benefit '1'
+                
+13:40:16.381 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '2 ♥' with 
+                individual card weight '13' and memory benefit '1'
+                
+13:40:16.383 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '3 ♠' with 
+                individual card weight '3' and memory benefit '-1'
+                
+13:40:16.383 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'Q ♣' with 
+                individual card weight '13' and memory benefit '-1'
+                
+13:40:16.383 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '8 ♥' with 
+                individual card weight '7' and memory benefit '1'
+                
+13:40:16.383 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'A ♠' with 
+                individual card weight '15' and memory benefit '-1'
+                
+13:40:16.383 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on 'K ♥' with 
+                individual card weight '1' and memory benefit '1'
+                
+13:40:16.383 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♠' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:40:16.383 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♣' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:40:16.383 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'A ♦' with 
+                individual card weight '15' and memory benefit '-1'
+                
+13:40:16.383 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'K ♠' with 
+                individual card weight '14' and memory benefit '-1'
+                
+13:40:16.383 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '6 ♦' with 
+                individual card weight '6' and memory benefit '-1'
+                
+13:40:16.383 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '9 ♦' with 
+                individual card weight '9' and memory benefit '-1'
+                
+13:40:16.397 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '6 ♦' with 
+                utility '11'
+                
+13:40:16.397 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '3 ♠' with 
+                utility '11'
+                
+13:40:16.397 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '4 ♣' with 
+                utility '12'
+                
+13:40:16.398 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'LowHeart' on Card '2 ♥, Decision with Strategy: 'TryTake' on Card 'A ♠, Decision with Strategy: 'TryTake' on Card 'A ♦'
+13:40:16.398 <INFO> [initial throw] Try-take available, throwing: 'A ♠'
+13:40:16.398 <INFO> AI Player 0 throwing initial card: 'A ♠'
+13:40:17.919 <INFO> AI Player 1 making decision...
+13:40:17.921 <INFO> 
+            [later throw, same suit] Hand: A ♥, Q ♦, 5 ♦, 7 ♥, 6 ♥, 5 ♥, 3 ♦, 10 ♠, 5 ♣, 7 ♠, 10 ♣, J ♥, 6 ♠; 
+            throwable: 6 ♠, 7 ♠; 
+            take weight: 15
+            
+13:40:17.921 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '7 ♠'
+13:40:17.921 <INFO> AI Player 1 throwing card: '7 ♠'
+13:40:19.422 <INFO> AI Player 2 making decision...
+13:40:19.422 <INFO> 
+            [later throw, same suit] Hand: 7 ♣, 8 ♦, 10 ♥, 4 ♦, 9 ♥, 8 ♠, Q ♠, K ♣, J ♠, 2 ♣, 2 ♠, 10 ♦, 3 ♣; 
+            throwable: 2 ♠, 8 ♠, J ♠; 
+            take weight: 15
+            
+13:40:19.422 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'J ♠'
+13:40:19.422 <INFO> AI Player 2 throwing card: 'J ♠'
+13:40:26.360 <INFO> Human Player You throwing card: '9 ♠'
+13:40:26.362 <INFO> AI Player 0 taking trick: 'A ♠, 7 ♠, J ♠, 9 ♠'
+13:40:26.362 <INFO> AI Player 0 remembering card: 'A ♠'
+13:40:26.362 <INFO> AI Player 0 remembering card: '7 ♠'
+13:40:26.362 <INFO> AI Player 0 remembering card: 'J ♠'
+13:40:26.362 <INFO> AI Player 0 remembering card: '9 ♠'
+13:40:29.879 <INFO> AI Player 0 making decision for initial throw...
+13:40:29.879 <INFO> [initial throw] Ordered hand: 2 ♥, 4 ♥, 8 ♥, K ♥, 6 ♦, 9 ♦, A ♦, 4 ♣, Q ♣, 3 ♠, 4 ♠, K ♠; Memory: A ♠, 7 ♠, J ♠, 9 ♠
+13:40:29.880 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '4 ♥' with 
+                individual card weight '11' and memory benefit '1'
+                
+13:40:29.880 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '2 ♥' with 
+                individual card weight '13' and memory benefit '1'
+                
+13:40:29.880 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '3 ♠' with 
+                individual card weight '3' and memory benefit '-1'
+                
+13:40:29.880 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'Q ♣' with 
+                individual card weight '13' and memory benefit '-1'
+                
+13:40:29.880 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '8 ♥' with 
+                individual card weight '7' and memory benefit '1'
+                
+13:40:29.880 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on 'K ♥' with 
+                individual card weight '1' and memory benefit '1'
+                
+13:40:29.880 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♠' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:40:29.880 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♣' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:40:29.880 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'A ♦' with 
+                individual card weight '15' and memory benefit '-1'
+                
+13:40:29.880 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'K ♠' with 
+                individual card weight '14' and memory benefit '-1'
+                
+13:40:29.880 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '6 ♦' with 
+                individual card weight '6' and memory benefit '-1'
+                
+13:40:29.880 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '9 ♦' with 
+                individual card weight '9' and memory benefit '-1'
+                
+13:40:29.880 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '6 ♦' with 
+                utility '11'
+                
+13:40:29.880 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '3 ♠' with 
+                utility '12'
+                
+13:40:29.880 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '4 ♣' with 
+                utility '12'
+                
+13:40:29.880 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'LowHeart' on Card '2 ♥, Decision with Strategy: 'TryTake' on Card 'A ♦'
+13:40:29.880 <INFO> [initial throw] Try-take available, throwing: 'A ♦'
+13:40:29.880 <INFO> AI Player 0 throwing initial card: 'A ♦'
+13:40:31.385 <INFO> AI Player 1 making decision...
+13:40:31.385 <INFO> 
+            [later throw, same suit] Hand: A ♥, Q ♦, 5 ♦, 7 ♥, 6 ♥, 5 ♥, 3 ♦, 10 ♠, 5 ♣, 10 ♣, J ♥, 6 ♠; 
+            throwable: 3 ♦, 5 ♦, Q ♦; 
+            take weight: 15
+            
+13:40:31.385 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'Q ♦'
+13:40:31.385 <INFO> AI Player 1 throwing card: 'Q ♦'
+13:40:32.900 <INFO> AI Player 2 making decision...
+13:40:32.901 <INFO> 
+            [later throw, same suit] Hand: 7 ♣, 8 ♦, 10 ♥, 4 ♦, 9 ♥, 8 ♠, Q ♠, K ♣, 2 ♣, 2 ♠, 10 ♦, 3 ♣; 
+            throwable: 4 ♦, 8 ♦, 10 ♦; 
+            take weight: 15
+            
+13:40:32.901 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '10 ♦'
+13:40:32.901 <INFO> AI Player 2 throwing card: '10 ♦'
+13:40:35.961 <INFO> Human Player You throwing card: 'K ♦'
+13:40:35.961 <INFO> AI Player 0 taking trick: 'A ♦, Q ♦, 10 ♦, K ♦'
+13:40:35.961 <INFO> AI Player 0 remembering card: 'A ♦'
+13:40:35.961 <INFO> AI Player 0 remembering card: '10 ♦'
+13:40:35.961 <INFO> AI Player 0 remembering card: 'K ♦'
+13:40:39.473 <INFO> AI Player 0 making decision for initial throw...
+13:40:39.473 <INFO> [initial throw] Ordered hand: 2 ♥, 4 ♥, 8 ♥, K ♥, 6 ♦, 9 ♦, 4 ♣, Q ♣, 3 ♠, 4 ♠, K ♠; Memory: A ♠, 7 ♠, J ♠, 9 ♠, A ♦, 10 ♦, K ♦
+13:40:39.473 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '4 ♥' with 
+                individual card weight '11' and memory benefit '1'
+                
+13:40:39.473 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '2 ♥' with 
+                individual card weight '13' and memory benefit '1'
+                
+13:40:39.473 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '3 ♠' with 
+                individual card weight '3' and memory benefit '-1'
+                
+13:40:39.473 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'Q ♣' with 
+                individual card weight '13' and memory benefit '-1'
+                
+13:40:39.473 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '8 ♥' with 
+                individual card weight '7' and memory benefit '1'
+                
+13:40:39.473 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on 'K ♥' with 
+                individual card weight '1' and memory benefit '1'
+                
+13:40:39.473 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♠' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:40:39.473 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♣' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:40:39.473 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'K ♠' with 
+                individual card weight '14' and memory benefit '-1'
+                
+13:40:39.473 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '6 ♦' with 
+                individual card weight '6' and memory benefit '-1'
+                
+13:40:39.473 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '9 ♦' with 
+                individual card weight '9' and memory benefit '-1'
+                
+13:40:39.473 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '6 ♦' with 
+                utility '12'
+                
+13:40:39.473 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '3 ♠' with 
+                utility '12'
+                
+13:40:39.473 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '4 ♣' with 
+                utility '12'
+                
+13:40:39.473 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'LowHeart' on Card '2 ♥'
+13:40:39.474 <INFO> [initial throw] No Try-take exists; Low Heart available, throwing: '2 ♥'
+13:40:39.474 <INFO> AI Player 0 throwing initial card: '2 ♥'
+13:40:40.976 <INFO> AI Player 1 making decision...
+13:40:40.976 <INFO> 
+            [later throw, same suit] Hand: A ♥, 5 ♦, 7 ♥, 6 ♥, 5 ♥, 3 ♦, 10 ♠, 5 ♣, 10 ♣, J ♥, 6 ♠; 
+            throwable: 5 ♥, 6 ♥, 7 ♥, J ♥, A ♥; 
+            take weight: 2
+            
+13:40:40.976 <INFO> [later throw, same suit] Suit is Hearts, throwing highest possible, but lower: '5 ♥'
+13:40:40.976 <INFO> AI Player 1 throwing card: '5 ♥'
+13:40:42.479 <INFO> AI Player 2 making decision...
+13:40:42.479 <INFO> 
+            [later throw, same suit] Hand: 7 ♣, 8 ♦, 10 ♥, 4 ♦, 9 ♥, 8 ♠, Q ♠, K ♣, 2 ♣, 2 ♠, 3 ♣; 
+            throwable: 9 ♥, 10 ♥; 
+            take weight: 5
+            
+13:40:42.479 <INFO> [later throw, same suit] Suit is Hearts, throwing highest possible, but lower: '9 ♥'
+13:40:42.479 <INFO> AI Player 2 throwing card: '9 ♥'
+13:40:47.193 <INFO> Human Player You throwing card: '3 ♥'
+13:40:47.193 <INFO> AI Player 2 taking trick: '2 ♥, 5 ♥, 9 ♥, 3 ♥'
+13:40:47.193 <INFO> AI Player 2 remembering card: '2 ♥'
+13:40:47.193 <INFO> AI Player 2 remembering card: '5 ♥'
+13:40:47.193 <INFO> AI Player 2 remembering card: '9 ♥'
+13:40:47.193 <INFO> AI Player 2 remembering card: '3 ♥'
+13:40:50.699 <INFO> AI Player 2 making decision for initial throw...
+13:40:50.699 <INFO> [initial throw] Ordered hand: 10 ♥, 4 ♦, 8 ♦, 2 ♣, 3 ♣, 7 ♣, K ♣, 2 ♠, 8 ♠, Q ♠; Memory: 2 ♥, 5 ♥, 9 ♥, 3 ♥
+13:40:50.699 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '7 ♣' with 
+                individual card weight '7' and memory benefit '-1'
+                
+13:40:50.699 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '8 ♦' with 
+                individual card weight '8' and memory benefit '-1'
+                
+13:40:50.699 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '10 ♥' with 
+                individual card weight '5' and memory benefit '3'
+                
+13:40:50.699 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♦' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:40:50.699 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '8 ♠' with 
+                individual card weight '8' and memory benefit '-1'
+                
+13:40:50.699 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'Q ♠' with 
+                individual card weight '13' and memory benefit '-1'
+                
+13:40:50.699 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'K ♣' with 
+                individual card weight '14' and memory benefit '-1'
+                
+13:40:50.699 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '2 ♣' with 
+                individual card weight '2' and memory benefit '-1'
+                
+13:40:50.699 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '2 ♠' with 
+                individual card weight '2' and memory benefit '-1'
+                
+13:40:50.700 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '3 ♣' with 
+                individual card weight '3' and memory benefit '-1'
+                
+13:40:50.700 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '4 ♦' with 
+                utility '12'
+                
+13:40:50.700 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '2 ♠' with 
+                utility '12'
+                
+13:40:50.700 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '2 ♣' with 
+                utility '10'
+                
+13:40:50.700 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'TryTake' on Card 'K ♣'
+13:40:50.700 <INFO> [initial throw] Try-take available, throwing: 'K ♣'
+13:40:50.700 <INFO> AI Player 2 throwing initial card: 'K ♣'
+13:40:54.820 <INFO> Human Player You throwing card: 'A ♣'
+13:40:56.330 <INFO> AI Player 0 making decision...
+13:40:56.330 <INFO> 
+            [later throw, same suit] Hand: 4 ♥, 3 ♠, Q ♣, 8 ♥, K ♥, 4 ♠, 4 ♣, K ♠, 6 ♦, 9 ♦; 
+            throwable: 4 ♣, Q ♣; 
+            take weight: 15
+            
+13:40:56.330 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'Q ♣'
+13:40:56.330 <INFO> AI Player 0 throwing card: 'Q ♣'
+13:40:57.845 <INFO> AI Player 1 making decision...
+13:40:57.845 <INFO> 
+            [later throw, same suit] Hand: A ♥, 5 ♦, 7 ♥, 6 ♥, 3 ♦, 10 ♠, 5 ♣, 10 ♣, J ♥, 6 ♠; 
+            throwable: 5 ♣, 10 ♣; 
+            take weight: 15
+            
+13:40:57.845 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '10 ♣'
+13:40:57.845 <INFO> AI Player 1 throwing card: '10 ♣'
+13:40:57.845 <INFO> Human Player You taking trick: 'K ♣, A ♣, Q ♣, 10 ♣'
+13:41:05.990 <INFO> Human Player You throwing initial card: '5 ♠'
+13:41:07.498 <INFO> AI Player 0 making decision...
+13:41:07.498 <INFO> 
+            [later throw, same suit] Hand: 4 ♥, 3 ♠, 8 ♥, K ♥, 4 ♠, 4 ♣, K ♠, 6 ♦, 9 ♦; 
+            throwable: 3 ♠, 4 ♠; 
+            take weight: 5
+            
+13:41:07.498 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '4 ♠'
+13:41:07.498 <INFO> AI Player 0 throwing card: '4 ♠'
+13:41:09.002 <INFO> AI Player 1 making decision...
+13:41:09.003 <INFO> 
+            [later throw, same suit] Hand: A ♥, 5 ♦, 7 ♥, 6 ♥, 3 ♦, 10 ♠, 5 ♣, J ♥, 6 ♠; 
+            throwable: 6 ♠; 
+            take weight: 5
+            
+13:41:09.003 <INFO> [later throw, same suit] Can only throw one: '6 ♠'
+13:41:09.003 <INFO> AI Player 1 throwing card: '6 ♠'
+13:41:10.515 <INFO> AI Player 2 making decision...
+13:41:10.515 <INFO> 
+            [later throw, same suit] Hand: 7 ♣, 8 ♦, 10 ♥, 4 ♦, 8 ♠, Q ♠, 2 ♣, 2 ♠, 3 ♣; 
+            throwable: 2 ♠, 8 ♠; 
+            take weight: 6
+            
+13:41:10.515 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '8 ♠'
+13:41:10.515 <INFO> AI Player 2 throwing card: '8 ♠'
+13:41:10.515 <INFO> AI Player 2 taking trick: '5 ♠, 4 ♠, 6 ♠, 8 ♠'
+13:41:10.515 <INFO> AI Player 2 remembering card: '5 ♠'
+13:41:10.515 <INFO> AI Player 2 remembering card: '4 ♠'
+13:41:10.515 <INFO> AI Player 2 remembering card: '8 ♠'
+13:41:14.028 <INFO> AI Player 2 making decision for initial throw...
+13:41:14.028 <INFO> [initial throw] Ordered hand: 10 ♥, 4 ♦, 8 ♦, 2 ♣, 3 ♣, 7 ♣, 2 ♠, Q ♠; Memory: 2 ♥, 5 ♥, 9 ♥, 3 ♥, 5 ♠, 4 ♠, 8 ♠
+13:41:14.028 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '7 ♣' with 
+                individual card weight '7' and memory benefit '-1'
+                
+13:41:14.028 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '8 ♦' with 
+                individual card weight '8' and memory benefit '-1'
+                
+13:41:14.028 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '10 ♥' with 
+                individual card weight '5' and memory benefit '3'
+                
+13:41:14.029 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♦' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:41:14.029 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'Q ♠' with 
+                individual card weight '13' and memory benefit '-1'
+                
+13:41:14.029 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '2 ♣' with 
+                individual card weight '2' and memory benefit '-1'
+                
+13:41:14.029 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '2 ♠' with 
+                individual card weight '2' and memory benefit '-1'
+                
+13:41:14.029 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '3 ♣' with 
+                individual card weight '3' and memory benefit '-1'
+                
+13:41:14.029 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '4 ♦' with 
+                utility '12'
+                
+13:41:14.029 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '2 ♠' with 
+                utility '13'
+                
+13:41:14.029 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '2 ♣' with 
+                utility '11'
+                
+13:41:14.029 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'TryOthersTake' on Card '2 ♠'
+13:41:14.029 <INFO> [initial throw] Only Try-Others-Take available, throwing: '2 ♠'
+13:41:14.029 <INFO> AI Player 2 throwing initial card: '2 ♠'
+13:41:21.361 <INFO> Human Player You throwing card: 'Q ♥'
+13:41:22.876 <INFO> AI Player 0 making decision...
+13:41:22.876 <INFO> 
+            [later throw, same suit] Hand: 4 ♥, 3 ♠, 8 ♥, K ♥, 4 ♣, K ♠, 6 ♦, 9 ♦; 
+            throwable: 3 ♠; 
+            take weight: 2
+            
+13:41:22.876 <INFO> [later throw, same suit] Can only throw one: '3 ♠'
+13:41:22.876 <INFO> AI Player 0 throwing card: '3 ♠'
+13:41:24.380 <INFO> AI Player 1 making decision...
+13:41:24.381 <INFO> AI Player 1 throwing card: '10 ♠'
+13:41:24.381 <INFO> AI Player 1 taking trick: '2 ♠, Q ♥, 3 ♠, 10 ♠'
+13:41:24.381 <INFO> AI Player 1 remembering card: '2 ♠'
+13:41:24.381 <INFO> AI Player 1 remembering card: 'Q ♥'
+13:41:24.381 <INFO> AI Player 1 remembering card: '3 ♠'
+13:41:24.381 <INFO> AI Player 1 remembering card: '10 ♠'
+13:41:27.886 <INFO> AI Player 1 making decision for initial throw...
+13:41:27.886 <INFO> [initial throw] Ordered hand: 6 ♥, 7 ♥, J ♥, A ♥, 3 ♦, 5 ♦, 5 ♣; Memory: 2 ♠, Q ♥, 3 ♠, 10 ♠
+13:41:27.886 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on 'A ♥' with 
+                individual card weight '0' and memory benefit '1'
+                
+13:41:27.886 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '5 ♦' with 
+                individual card weight '5' and memory benefit '-1'
+                
+13:41:27.886 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '7 ♥' with 
+                individual card weight '8' and memory benefit '1'
+                
+13:41:27.886 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '6 ♥' with 
+                individual card weight '9' and memory benefit '1'
+                
+13:41:27.886 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '3 ♦' with 
+                individual card weight '3' and memory benefit '-1'
+                
+13:41:27.886 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '5 ♣' with 
+                individual card weight '5' and memory benefit '-1'
+                
+13:41:27.886 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on 'J ♥' with 
+                individual card weight '3' and memory benefit '1'
+                
+13:41:27.886 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '3 ♦' with 
+                utility '12'
+                
+13:41:27.886 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'TryOthersTake' on Card '3 ♦'
+13:41:27.886 <INFO> [initial throw] Only Try-Others-Take available, throwing: '3 ♦'
+13:41:27.886 <INFO> AI Player 1 throwing initial card: '3 ♦'
+13:41:29.390 <INFO> AI Player 2 making decision...
+13:41:29.390 <INFO> 
+            [later throw, same suit] Hand: 7 ♣, 8 ♦, 10 ♥, 4 ♦, Q ♠, 2 ♣, 3 ♣; 
+            throwable: 4 ♦, 8 ♦; 
+            take weight: 3
+            
+13:41:29.390 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '8 ♦'
+13:41:29.390 <INFO> AI Player 2 throwing card: '8 ♦'
+13:41:35.583 <INFO> Human Player You throwing card: 'J ♦'
+13:41:37.086 <INFO> AI Player 0 making decision...
+13:41:37.086 <INFO> 
+            [later throw, same suit] Hand: 4 ♥, 8 ♥, K ♥, 4 ♣, K ♠, 6 ♦, 9 ♦; 
+            throwable: 6 ♦, 9 ♦; 
+            take weight: 12
+            
+13:41:37.086 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '9 ♦'
+13:41:37.086 <INFO> AI Player 0 throwing card: '9 ♦'
+13:41:37.086 <INFO> Human Player You taking trick: '3 ♦, 8 ♦, J ♦, 9 ♦'
+13:41:43.373 <INFO> Human Player You throwing initial card: '2 ♦'
+13:41:44.875 <INFO> AI Player 0 making decision...
+13:41:44.875 <INFO> AI Player 0 throwing card: '6 ♦'
+13:41:46.388 <INFO> AI Player 1 making decision...
+13:41:46.388 <INFO> AI Player 1 throwing card: '5 ♦'
+13:41:47.895 <INFO> AI Player 2 making decision...
+13:41:47.895 <INFO> AI Player 2 throwing card: '4 ♦'
+13:41:47.895 <INFO> AI Player 0 taking trick: '2 ♦, 6 ♦, 5 ♦, 4 ♦'
+13:41:47.895 <INFO> AI Player 0 remembering card: '2 ♦'
+13:41:47.895 <INFO> AI Player 0 remembering card: '6 ♦'
+13:41:47.895 <INFO> AI Player 0 remembering card: '5 ♦'
+13:41:47.895 <INFO> AI Player 0 remembering card: '4 ♦'
+13:41:51.398 <INFO> AI Player 0 making decision for initial throw...
+13:41:51.398 <INFO> [initial throw] Ordered hand: 4 ♥, 8 ♥, K ♥, 4 ♣, K ♠; Memory: A ♠, 7 ♠, J ♠, 9 ♠, A ♦, 10 ♦, K ♦, 2 ♦, 6 ♦, 5 ♦, 4 ♦
+13:41:51.398 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '4 ♥' with 
+                individual card weight '11' and memory benefit '1'
+                
+13:41:51.398 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '8 ♥' with 
+                individual card weight '7' and memory benefit '1'
+                
+13:41:51.398 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on 'K ♥' with 
+                individual card weight '1' and memory benefit '1'
+                
+13:41:51.398 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♣' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:41:51.398 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'K ♠' with 
+                individual card weight '14' and memory benefit '-1'
+                
+13:41:51.398 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '4 ♣' with 
+                utility '13'
+                
+13:41:51.398 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'TryTake' on Card 'K ♠, Decision with Strategy: 'TryOthersTake' on Card '4 ♣'
+13:41:51.398 <INFO> [initial throw] Try-take available, throwing: 'K ♠'
+13:41:51.398 <INFO> AI Player 0 throwing initial card: 'K ♠'
+13:41:52.912 <INFO> AI Player 1 making decision...
+13:41:52.913 <INFO> [later throw, other suit] Ordered hand: 6 ♥, 7 ♥, J ♥, A ♥, 5 ♣
+13:41:52.914 <INFO> [later throw, other suit] Have hearts, throwing: A ♥
+13:41:52.914 <INFO> AI Player 1 throwing card: 'A ♥'
+13:41:54.427 <INFO> AI Player 2 making decision...
+13:41:54.427 <INFO> AI Player 2 throwing card: 'Q ♠'
+13:41:58.430 <INFO> Human Player You throwing card: '7 ♦'
+13:41:58.430 <INFO> AI Player 0 taking trick: 'K ♠, A ♥, Q ♠, 7 ♦'
+13:41:58.430 <INFO> AI Player 0 remembering card: 'K ♠'
+13:41:58.430 <INFO> AI Player 0 remembering card: 'A ♥'
+13:41:58.430 <INFO> AI Player 0 remembering card: 'Q ♠'
+13:41:58.430 <INFO> AI Player 0 remembering card: '7 ♦'
+13:42:01.944 <INFO> AI Player 0 making decision for initial throw...
+13:42:01.944 <INFO> [initial throw] Ordered hand: 4 ♥, 8 ♥, K ♥, 4 ♣; Memory: A ♠, 7 ♠, J ♠, 9 ♠, A ♦, 10 ♦, K ♦, 2 ♦, 6 ♦, 5 ♦, 4 ♦, K ♠, A ♥, Q ♠, 7 ♦
+13:42:01.944 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '4 ♥' with 
+                individual card weight '11' and memory benefit '1'
+                
+13:42:01.944 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '8 ♥' with 
+                individual card weight '7' and memory benefit '1'
+                
+13:42:01.944 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on 'K ♥' with 
+                individual card weight '1' and memory benefit '1'
+                
+13:42:01.944 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♣' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:42:01.944 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'LowHeart' on Card '4 ♥'
+13:42:01.944 <INFO> [initial throw] No Try-take exists; Low Heart available, throwing: '4 ♥'
+13:42:01.944 <INFO> AI Player 0 throwing initial card: '4 ♥'
+13:42:03.452 <INFO> AI Player 1 making decision...
+13:42:03.452 <INFO> 
+            [later throw, same suit] Hand: 7 ♥, 6 ♥, 5 ♣, J ♥; 
+            throwable: 6 ♥, 7 ♥, J ♥; 
+            take weight: 4
+            
+13:42:03.452 <INFO> [later throw, same suit] Suit is Hearts, throwing highest possible, but lower: '6 ♥'
+13:42:03.452 <INFO> AI Player 1 throwing card: '6 ♥'
+13:42:04.954 <INFO> AI Player 2 making decision...
+13:42:04.954 <INFO> AI Player 2 throwing card: '10 ♥'
+13:42:07.567 <INFO> Human Player You throwing card: 'J ♣'
+13:42:07.567 <INFO> AI Player 2 taking trick: '4 ♥, 6 ♥, 10 ♥, J ♣'
+13:42:07.567 <INFO> AI Player 2 remembering card: '4 ♥'
+13:42:07.567 <INFO> AI Player 2 remembering card: '6 ♥'
+13:42:07.567 <INFO> AI Player 2 remembering card: '10 ♥'
+13:42:07.567 <INFO> AI Player 2 remembering card: 'J ♣'
+13:42:11.076 <INFO> AI Player 2 making decision for initial throw...
+13:42:11.077 <INFO> [initial throw] Ordered hand: 2 ♣, 3 ♣, 7 ♣; Memory: 2 ♥, 5 ♥, 9 ♥, 3 ♥, 5 ♠, 4 ♠, 8 ♠, 4 ♥, 6 ♥, 10 ♥, J ♣
+13:42:11.077 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '7 ♣' with 
+                individual card weight '7' and memory benefit '-1'
+                
+13:42:11.077 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '2 ♣' with 
+                individual card weight '2' and memory benefit '-1'
+                
+13:42:11.077 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '3 ♣' with 
+                individual card weight '3' and memory benefit '-1'
+                
+13:42:11.077 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '2 ♣' with 
+                utility '12'
+                
+13:42:11.077 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'TryOthersTake' on Card '2 ♣'
+13:42:11.077 <INFO> [initial throw] Only Try-Others-Take available, throwing: '2 ♣'
+13:42:11.077 <INFO> AI Player 2 throwing initial card: '2 ♣'
+13:42:14.358 <INFO> Human Player You throwing card: '9 ♣'
+13:42:15.862 <INFO> AI Player 0 making decision...
+13:42:15.862 <INFO> AI Player 0 throwing card: '4 ♣'
+13:42:17.367 <INFO> AI Player 1 making decision...
+13:42:17.367 <INFO> AI Player 1 throwing card: '5 ♣'
+13:42:17.367 <INFO> Human Player You taking trick: '2 ♣, 9 ♣, 4 ♣, 5 ♣'
+13:42:25.421 <INFO> Human Player You throwing initial card: '6 ♣'
+13:42:26.929 <INFO> AI Player 0 making decision...
+13:42:26.929 <INFO> [later throw, other suit] Ordered hand: 8 ♥, K ♥
+13:42:26.929 <INFO> [later throw, other suit] Have hearts, throwing: 8 ♥
+13:42:26.929 <INFO> AI Player 0 throwing card: '8 ♥'
+13:42:28.440 <INFO> AI Player 1 making decision...
+13:42:28.440 <INFO> [later throw, other suit] Ordered hand: 7 ♥, J ♥
+13:42:28.440 <INFO> [later throw, other suit] Have hearts, throwing: 7 ♥
+13:42:28.440 <INFO> AI Player 1 throwing card: '7 ♥'
+13:42:29.957 <INFO> AI Player 2 making decision...
+13:42:29.957 <INFO> 
+            [later throw, same suit] Hand: 7 ♣, 3 ♣; 
+            throwable: 3 ♣; 
+            take weight: 6
+            
+13:42:29.957 <INFO> [later throw, same suit] Can only throw one: '3 ♣'
+13:42:29.957 <INFO> AI Player 2 throwing card: '3 ♣'
+13:42:29.957 <INFO> Human Player You taking trick: '6 ♣, 8 ♥, 7 ♥, 3 ♣'
+13:42:34.255 <INFO> Human Player You throwing initial card: '8 ♣'
+13:42:35.757 <INFO> AI Player 0 making decision...
+13:42:35.757 <INFO> [later throw, other suit] Ordered hand: K ♥
+13:42:35.760 <INFO> [later throw, other suit] Have multiple suits, threshold is: 0.22
+13:42:35.762 <INFO> 
+                [later throw, other suit] Registered possible decision 'EliminateHighCards' on 'K ♥' with 
+                utility 14'
+                
+13:42:35.762 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:42:35.762 <INFO> AI Player 0 throwing card: 'K ♥'
+13:42:37.275 <INFO> AI Player 1 making decision...
+13:42:37.275 <INFO> [later throw, other suit] Ordered hand: J ♥
+13:42:37.275 <INFO> [later throw, other suit] Have multiple suits, threshold is: 0.22
+13:42:37.275 <INFO> 
+                [later throw, other suit] Registered possible decision 'EliminateHighCards' on 'J ♥' with 
+                utility 12'
+                
+13:42:37.275 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:42:37.275 <INFO> AI Player 1 throwing card: 'J ♥'
+13:42:38.777 <INFO> AI Player 2 making decision...
+13:42:38.777 <INFO> AI Player 2 throwing card: '7 ♣'
+13:42:38.777 <INFO> Human Player You taking trick: '8 ♣, K ♥, J ♥, 7 ♣'
+13:42:42.289 <INFO> Human Player You returning taken cards: 'K ♣, A ♣, Q ♣, 10 ♣, 3 ♦, 8 ♦, J ♦, 9 ♦, 2 ♣, 9 ♣, 4 ♣, 5 ♣, 6 ♣, 8 ♥, 7 ♥, 3 ♣, 8 ♣, K ♥, J ♥, 7 ♣'
+13:42:42.290 <INFO> AI Player 0 returning taken cards: 'A ♠, 7 ♠, J ♠, 9 ♠, A ♦, Q ♦, 10 ♦, K ♦, 2 ♦, 6 ♦, 5 ♦, 4 ♦, K ♠, A ♥, Q ♠, 7 ♦'
+13:42:42.290 <INFO> AI Player 1 returning taken cards: '2 ♠, Q ♥, 3 ♠, 10 ♠'
+13:42:42.290 <INFO> AI Player 2 returning taken cards: '2 ♥, 5 ♥, 9 ♥, 3 ♥, 5 ♠, 4 ♠, 6 ♠, 8 ♠, 4 ♥, 6 ♥, 10 ♥, J ♣'
+13:42:42.291 <INFO> Finished round, awaiting input...
+13:42:45.930 <INFO> Human Player You adding card: 'K ♥' to hand
+13:42:45.930 <INFO> AI Player 0 adding card: 'J ♦' to hand
+13:42:45.930 <INFO> AI Player 1 adding card: '10 ♠' to hand
+13:42:45.930 <INFO> AI Player 2 adding card: '9 ♦' to hand
+13:42:45.930 <INFO> Human Player You adding card: '9 ♣' to hand
+13:42:45.930 <INFO> AI Player 0 adding card: 'K ♣' to hand
+13:42:45.930 <INFO> AI Player 1 adding card: '8 ♥' to hand
+13:42:45.930 <INFO> AI Player 2 adding card: '4 ♣' to hand
+13:42:45.930 <INFO> Human Player You adding card: 'J ♥' to hand
+13:42:45.930 <INFO> AI Player 0 adding card: '10 ♥' to hand
+13:42:45.930 <INFO> AI Player 1 adding card: '5 ♦' to hand
+13:42:45.930 <INFO> AI Player 2 adding card: 'K ♠' to hand
+13:42:45.930 <INFO> Human Player You adding card: '7 ♦' to hand
+13:42:45.930 <INFO> AI Player 0 adding card: '9 ♥' to hand
+13:42:45.930 <INFO> AI Player 1 adding card: '5 ♣' to hand
+13:42:45.930 <INFO> AI Player 2 adding card: 'A ♠' to hand
+13:42:45.930 <INFO> Human Player You adding card: '7 ♥' to hand
+13:42:45.930 <INFO> AI Player 0 adding card: '5 ♠' to hand
+13:42:45.930 <INFO> AI Player 1 adding card: '8 ♠' to hand
+13:42:45.930 <INFO> AI Player 2 adding card: '3 ♣' to hand
+13:42:45.930 <INFO> Human Player You adding card: '2 ♦' to hand
+13:42:45.930 <INFO> AI Player 0 adding card: '8 ♦' to hand
+13:42:45.930 <INFO> AI Player 1 adding card: '3 ♥' to hand
+13:42:45.930 <INFO> AI Player 2 adding card: '10 ♦' to hand
+13:42:45.930 <INFO> Human Player You adding card: '2 ♠' to hand
+13:42:45.930 <INFO> AI Player 0 adding card: '3 ♦' to hand
+13:42:45.930 <INFO> AI Player 1 adding card: '6 ♦' to hand
+13:42:45.930 <INFO> AI Player 2 adding card: '10 ♣' to hand
+13:42:45.930 <INFO> Human Player You adding card: '8 ♣' to hand
+13:42:45.930 <INFO> AI Player 0 adding card: 'Q ♣' to hand
+13:42:45.930 <INFO> AI Player 1 adding card: 'Q ♠' to hand
+13:42:45.930 <INFO> AI Player 2 adding card: '7 ♠' to hand
+13:42:45.930 <INFO> Human Player You adding card: '2 ♣' to hand
+13:42:45.930 <INFO> AI Player 0 adding card: '6 ♥' to hand
+13:42:45.930 <INFO> AI Player 1 adding card: 'K ♦' to hand
+13:42:45.930 <INFO> AI Player 2 adding card: '5 ♥' to hand
+13:42:45.930 <INFO> Human Player You adding card: 'Q ♥' to hand
+13:42:45.930 <INFO> AI Player 0 adding card: 'J ♣' to hand
+13:42:45.930 <INFO> AI Player 1 adding card: '6 ♣' to hand
+13:42:45.930 <INFO> AI Player 2 adding card: '6 ♠' to hand
+13:42:45.930 <INFO> Human Player You adding card: 'J ♠' to hand
+13:42:45.930 <INFO> AI Player 0 adding card: 'A ♥' to hand
+13:42:45.930 <INFO> AI Player 1 adding card: '4 ♦' to hand
+13:42:45.930 <INFO> AI Player 2 adding card: '4 ♥' to hand
+13:42:45.930 <INFO> Human Player You adding card: 'A ♦' to hand
+13:42:45.930 <INFO> AI Player 0 adding card: '9 ♠' to hand
+13:42:45.930 <INFO> AI Player 1 adding card: '3 ♠' to hand
+13:42:45.930 <INFO> AI Player 2 adding card: '7 ♣' to hand
+13:42:45.930 <INFO> Human Player You adding card: '4 ♠' to hand
+13:42:45.930 <INFO> AI Player 0 adding card: 'A ♣' to hand
+13:42:45.930 <INFO> AI Player 1 adding card: 'Q ♦' to hand
+13:42:45.930 <INFO> AI Player 2 adding card: '2 ♥' to hand
+13:42:56.445 <INFO> Human Player You throwing initial card: 'A ♦'
+13:42:57.959 <INFO> AI Player 0 making decision...
+13:42:57.959 <INFO> 
+            [later throw, same suit] Hand: J ♦, K ♣, 10 ♥, 9 ♥, 5 ♠, 8 ♦, 3 ♦, Q ♣, 6 ♥, J ♣, A ♥, 9 ♠, A ♣; 
+            throwable: 3 ♦, 8 ♦, J ♦; 
+            take weight: 15
+            
+13:42:57.959 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'J ♦'
+13:42:57.959 <INFO> AI Player 0 throwing card: 'J ♦'
+13:42:59.463 <INFO> AI Player 1 making decision...
+13:42:59.463 <INFO> 
+            [later throw, same suit] Hand: 10 ♠, 8 ♥, 5 ♦, 5 ♣, 8 ♠, 3 ♥, 6 ♦, Q ♠, K ♦, 6 ♣, 4 ♦, 3 ♠, Q ♦; 
+            throwable: 4 ♦, 5 ♦, 6 ♦, Q ♦, K ♦; 
+            take weight: 15
+            
+13:42:59.463 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'K ♦'
+13:42:59.463 <INFO> AI Player 1 throwing card: 'K ♦'
+13:43:00.978 <INFO> AI Player 2 making decision...
+13:43:00.978 <INFO> 
+            [later throw, same suit] Hand: 9 ♦, 4 ♣, K ♠, A ♠, 3 ♣, 10 ♦, 10 ♣, 7 ♠, 5 ♥, 6 ♠, 4 ♥, 7 ♣, 2 ♥; 
+            throwable: 9 ♦, 10 ♦; 
+            take weight: 15
+            
+13:43:00.978 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '10 ♦'
+13:43:00.978 <INFO> AI Player 2 throwing card: '10 ♦'
+13:43:00.978 <INFO> Human Player You taking trick: 'A ♦, J ♦, K ♦, 10 ♦'
+13:43:11.752 <INFO> Human Player You throwing initial card: '7 ♦'
+13:43:13.266 <INFO> AI Player 0 making decision...
+13:43:13.266 <INFO> 
+            [later throw, same suit] Hand: K ♣, 10 ♥, 9 ♥, 5 ♠, 8 ♦, 3 ♦, Q ♣, 6 ♥, J ♣, A ♥, 9 ♠, A ♣; 
+            throwable: 3 ♦, 8 ♦; 
+            take weight: 7
+            
+13:43:13.266 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '8 ♦'
+13:43:13.266 <INFO> AI Player 0 throwing card: '8 ♦'
+13:43:14.768 <INFO> AI Player 1 making decision...
+13:43:14.768 <INFO> 
+            [later throw, same suit] Hand: 10 ♠, 8 ♥, 5 ♦, 5 ♣, 8 ♠, 3 ♥, 6 ♦, Q ♠, 6 ♣, 4 ♦, 3 ♠, Q ♦; 
+            throwable: 4 ♦, 5 ♦, 6 ♦, Q ♦; 
+            take weight: 8
+            
+13:43:14.768 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'Q ♦'
+13:43:14.768 <INFO> AI Player 1 throwing card: 'Q ♦'
+13:43:16.272 <INFO> AI Player 2 making decision...
+13:43:16.272 <INFO> AI Player 2 throwing card: '9 ♦'
+13:43:16.272 <INFO> AI Player 1 taking trick: '7 ♦, 8 ♦, Q ♦, 9 ♦'
+13:43:16.272 <INFO> AI Player 1 remembering card: '7 ♦'
+13:43:16.272 <INFO> AI Player 1 remembering card: '9 ♦'
+13:43:19.784 <INFO> AI Player 1 making decision for initial throw...
+13:43:19.784 <INFO> [initial throw] Ordered hand: 3 ♥, 8 ♥, 4 ♦, 5 ♦, 6 ♦, 5 ♣, 6 ♣, 3 ♠, 8 ♠, 10 ♠, Q ♠; Memory: 7 ♦, 9 ♦
+13:43:19.784 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '10 ♠' with 
+                individual card weight '10' and memory benefit '-1'
+                
+13:43:19.784 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '8 ♥' with 
+                individual card weight '7' and memory benefit '1'
+                
+13:43:19.784 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '5 ♦' with 
+                individual card weight '5' and memory benefit '-1'
+                
+13:43:19.784 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '5 ♣' with 
+                individual card weight '5' and memory benefit '-1'
+                
+13:43:19.784 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '8 ♠' with 
+                individual card weight '8' and memory benefit '-1'
+                
+13:43:19.784 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '3 ♥' with 
+                individual card weight '12' and memory benefit '1'
+                
+13:43:19.784 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '6 ♦' with 
+                individual card weight '6' and memory benefit '-1'
+                
+13:43:19.784 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'Q ♠' with 
+                individual card weight '13' and memory benefit '-1'
+                
+13:43:19.784 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '6 ♣' with 
+                individual card weight '6' and memory benefit '-1'
+                
+13:43:19.784 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♦' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:43:19.784 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '3 ♠' with 
+                individual card weight '3' and memory benefit '-1'
+                
+13:43:19.784 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '4 ♦' with 
+                utility '11'
+                
+13:43:19.784 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '3 ♠' with 
+                utility '11'
+                
+13:43:19.784 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '5 ♣' with 
+                utility '12'
+                
+13:43:19.784 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'LowHeart' on Card '3 ♥'
+13:43:19.784 <INFO> [initial throw] No Try-take exists; Low Heart available, throwing: '3 ♥'
+13:43:19.784 <INFO> AI Player 1 throwing initial card: '3 ♥'
+13:43:21.289 <INFO> AI Player 2 making decision...
+13:43:21.289 <INFO> 
+            [later throw, same suit] Hand: 4 ♣, K ♠, A ♠, 3 ♣, 10 ♣, 7 ♠, 5 ♥, 6 ♠, 4 ♥, 7 ♣, 2 ♥; 
+            throwable: 2 ♥, 4 ♥, 5 ♥; 
+            take weight: 3
+            
+13:43:21.289 <INFO> [later throw, same suit] Suit is Hearts, throwing highest possible, but lower: '2 ♥'
+13:43:21.289 <INFO> AI Player 2 throwing card: '2 ♥'
+13:43:26.243 <INFO> Human Player You throwing card: '7 ♥'
+13:43:27.745 <INFO> AI Player 0 making decision...
+13:43:27.745 <INFO> 
+            [later throw, same suit] Hand: K ♣, 10 ♥, 9 ♥, 5 ♠, 3 ♦, Q ♣, 6 ♥, J ♣, A ♥, 9 ♠, A ♣; 
+            throwable: 6 ♥, 9 ♥, 10 ♥, A ♥; 
+            take weight: 7
+            
+13:43:27.745 <INFO> [later throw, same suit] Suit is Hearts, throwing highest possible, but lower: '6 ♥'
+13:43:27.745 <INFO> AI Player 0 throwing card: '6 ♥'
+13:43:27.745 <INFO> Human Player You taking trick: '3 ♥, 2 ♥, 7 ♥, 6 ♥'
+13:43:34.228 <INFO> Human Player You throwing initial card: '2 ♦'
+13:43:35.729 <INFO> AI Player 0 making decision...
+13:43:35.729 <INFO> AI Player 0 throwing card: '3 ♦'
+13:43:37.243 <INFO> AI Player 1 making decision...
+13:43:37.243 <INFO> 
+            [later throw, same suit] Hand: 10 ♠, 8 ♥, 5 ♦, 5 ♣, 8 ♠, 6 ♦, Q ♠, 6 ♣, 4 ♦, 3 ♠; 
+            throwable: 4 ♦, 5 ♦, 6 ♦; 
+            take weight: 3
+            
+13:43:37.243 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '6 ♦'
+13:43:37.243 <INFO> AI Player 1 throwing card: '6 ♦'
+13:43:38.757 <INFO> AI Player 2 making decision...
+13:43:38.757 <INFO> [later throw, other suit] Ordered hand: 4 ♥, 5 ♥, 3 ♣, 4 ♣, 7 ♣, 10 ♣, 6 ♠, 7 ♠, K ♠, A ♠
+13:43:38.757 <INFO> [later throw, other suit] Have hearts, throwing: 5 ♥
+13:43:38.757 <INFO> AI Player 2 throwing card: '5 ♥'
+13:43:38.757 <INFO> AI Player 1 taking trick: '2 ♦, 3 ♦, 6 ♦, 5 ♥'
+13:43:38.757 <INFO> AI Player 1 remembering card: '2 ♦'
+13:43:38.757 <INFO> AI Player 1 remembering card: '6 ♦'
+13:43:38.757 <INFO> AI Player 1 remembering card: '5 ♥'
+13:43:42.261 <INFO> AI Player 1 making decision for initial throw...
+13:43:42.261 <INFO> [initial throw] Ordered hand: 8 ♥, 4 ♦, 5 ♦, 5 ♣, 6 ♣, 3 ♠, 8 ♠, 10 ♠, Q ♠; Memory: 7 ♦, 9 ♦, 2 ♦, 6 ♦, 5 ♥
+13:43:42.261 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '10 ♠' with 
+                individual card weight '10' and memory benefit '-1'
+                
+13:43:42.261 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '8 ♥' with 
+                individual card weight '7' and memory benefit '1'
+                
+13:43:42.261 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '5 ♦' with 
+                individual card weight '5' and memory benefit '-1'
+                
+13:43:42.261 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '5 ♣' with 
+                individual card weight '5' and memory benefit '-1'
+                
+13:43:42.261 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '8 ♠' with 
+                individual card weight '8' and memory benefit '-1'
+                
+13:43:42.261 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'Q ♠' with 
+                individual card weight '13' and memory benefit '-1'
+                
+13:43:42.261 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '6 ♣' with 
+                individual card weight '6' and memory benefit '-1'
+                
+13:43:42.261 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♦' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:43:42.261 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '3 ♠' with 
+                individual card weight '3' and memory benefit '-1'
+                
+13:43:42.261 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '4 ♦' with 
+                utility '12'
+                
+13:43:42.261 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '3 ♠' with 
+                utility '11'
+                
+13:43:42.261 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '5 ♣' with 
+                utility '12'
+                
+13:43:42.261 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'TryTake' on Card 'Q ♠, Decision with Strategy: 'TryOthersTake' on Card '4 ♦, Decision with Strategy: 'TryOthersTake' on Card '5 ♣'
+13:43:42.261 <INFO> [initial throw] Try-take available, throwing: 'Q ♠'
+13:43:42.261 <INFO> AI Player 1 throwing initial card: 'Q ♠'
+13:43:43.764 <INFO> AI Player 2 making decision...
+13:43:43.764 <INFO> 
+            [later throw, same suit] Hand: 4 ♣, K ♠, A ♠, 3 ♣, 10 ♣, 7 ♠, 6 ♠, 4 ♥, 7 ♣; 
+            throwable: 6 ♠, 7 ♠, K ♠; 
+            take weight: 13
+            
+13:43:43.764 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'K ♠'
+13:43:43.764 <INFO> AI Player 2 throwing card: 'K ♠'
+13:43:48.383 <INFO> Human Player You throwing card: 'J ♠'
+13:43:49.892 <INFO> AI Player 0 making decision...
+13:43:49.893 <INFO> 
+            [later throw, same suit] Hand: K ♣, 10 ♥, 9 ♥, 5 ♠, Q ♣, J ♣, A ♥, 9 ♠, A ♣; 
+            throwable: 5 ♠; 
+            take weight: 14
+            
+13:43:49.893 <INFO> [later throw, same suit] Can only throw one: '5 ♠'
+13:43:49.893 <INFO> AI Player 0 throwing card: '5 ♠'
+13:43:49.893 <INFO> AI Player 2 taking trick: 'Q ♠, K ♠, J ♠, 5 ♠'
+13:43:49.893 <INFO> AI Player 2 remembering card: 'Q ♠'
+13:43:49.893 <INFO> AI Player 2 remembering card: 'K ♠'
+13:43:49.893 <INFO> AI Player 2 remembering card: 'J ♠'
+13:43:49.893 <INFO> AI Player 2 remembering card: '5 ♠'
+13:43:53.403 <INFO> AI Player 2 making decision for initial throw...
+13:43:53.403 <INFO> [initial throw] Ordered hand: 4 ♥, 3 ♣, 4 ♣, 7 ♣, 10 ♣, 6 ♠, 7 ♠, A ♠; Memory: Q ♠, K ♠, J ♠, 5 ♠
+13:43:53.403 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♣' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:43:53.403 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'A ♠' with 
+                individual card weight '15' and memory benefit '-1'
+                
+13:43:53.403 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '3 ♣' with 
+                individual card weight '3' and memory benefit '-1'
+                
+13:43:53.403 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '10 ♣' with 
+                individual card weight '10' and memory benefit '-1'
+                
+13:43:53.403 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '7 ♠' with 
+                individual card weight '7' and memory benefit '-1'
+                
+13:43:53.403 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '6 ♠' with 
+                individual card weight '6' and memory benefit '-1'
+                
+13:43:53.403 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '4 ♥' with 
+                individual card weight '11' and memory benefit '1'
+                
+13:43:53.403 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '7 ♣' with 
+                individual card weight '7' and memory benefit '-1'
+                
+13:43:53.403 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '6 ♠' with 
+                utility '12'
+                
+13:43:53.403 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '3 ♣' with 
+                utility '10'
+                
+13:43:53.403 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'TryTake' on Card 'A ♠'
+13:43:53.403 <INFO> [initial throw] Try-take available, throwing: 'A ♠'
+13:43:53.403 <INFO> AI Player 2 throwing initial card: 'A ♠'
+13:43:56.870 <INFO> Human Player You throwing card: '4 ♠'
+13:43:58.383 <INFO> AI Player 0 making decision...
+13:43:58.383 <INFO> AI Player 0 throwing card: '9 ♠'
+13:43:59.890 <INFO> AI Player 1 making decision...
+13:43:59.890 <INFO> 
+            [later throw, same suit] Hand: 10 ♠, 8 ♥, 5 ♦, 5 ♣, 8 ♠, 6 ♣, 4 ♦, 3 ♠; 
+            throwable: 3 ♠, 8 ♠; 
+            take weight: 15
+            
+13:43:59.890 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '8 ♠'
+13:43:59.890 <INFO> AI Player 1 throwing card: '8 ♠'
+13:43:59.890 <INFO> AI Player 2 taking trick: 'A ♠, 4 ♠, 9 ♠, 8 ♠'
+13:43:59.890 <INFO> AI Player 2 remembering card: 'A ♠'
+13:43:59.890 <INFO> AI Player 2 remembering card: '4 ♠'
+13:43:59.890 <INFO> AI Player 2 remembering card: '9 ♠'
+13:44:03.403 <INFO> AI Player 2 making decision for initial throw...
+13:44:03.403 <INFO> [initial throw] Ordered hand: 4 ♥, 3 ♣, 4 ♣, 7 ♣, 10 ♣, 6 ♠, 7 ♠; Memory: Q ♠, K ♠, J ♠, 5 ♠, A ♠, 4 ♠, 9 ♠
+13:44:03.403 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♣' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:44:03.403 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '3 ♣' with 
+                individual card weight '3' and memory benefit '-1'
+                
+13:44:03.403 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '10 ♣' with 
+                individual card weight '10' and memory benefit '-1'
+                
+13:44:03.404 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '7 ♠' with 
+                individual card weight '7' and memory benefit '-1'
+                
+13:44:03.404 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '6 ♠' with 
+                individual card weight '6' and memory benefit '-1'
+                
+13:44:03.404 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '4 ♥' with 
+                individual card weight '11' and memory benefit '1'
+                
+13:44:03.404 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '7 ♣' with 
+                individual card weight '7' and memory benefit '-1'
+                
+13:44:03.404 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '6 ♠' with 
+                utility '13'
+                
+13:44:03.404 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '3 ♣' with 
+                utility '10'
+                
+13:44:03.404 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'TryOthersTake' on Card '6 ♠'
+13:44:03.404 <INFO> [initial throw] Only Try-Others-Take available, throwing: '6 ♠'
+13:44:03.404 <INFO> AI Player 2 throwing initial card: '6 ♠'
+13:44:06.660 <INFO> Human Player You throwing card: '2 ♠'
+13:44:08.161 <INFO> AI Player 0 making decision...
+13:44:08.162 <INFO> [later throw, other suit] Ordered hand: 9 ♥, 10 ♥, A ♥, J ♣, Q ♣, K ♣, A ♣
+13:44:08.162 <INFO> [later throw, other suit] Have hearts, throwing: A ♥
+13:44:08.162 <INFO> AI Player 0 throwing card: 'A ♥'
+13:44:09.665 <INFO> AI Player 1 making decision...
+13:44:09.665 <INFO> 
+            [later throw, same suit] Hand: 10 ♠, 8 ♥, 5 ♦, 5 ♣, 6 ♣, 4 ♦, 3 ♠; 
+            throwable: 3 ♠; 
+            take weight: 6
+            
+13:44:09.665 <INFO> [later throw, same suit] Can only throw one: '3 ♠'
+13:44:09.665 <INFO> AI Player 1 throwing card: '3 ♠'
+13:44:09.665 <INFO> AI Player 2 taking trick: '6 ♠, 2 ♠, A ♥, 3 ♠'
+13:44:09.665 <INFO> AI Player 2 remembering card: '6 ♠'
+13:44:09.665 <INFO> AI Player 2 remembering card: '2 ♠'
+13:44:09.665 <INFO> AI Player 2 remembering card: 'A ♥'
+13:44:09.665 <INFO> AI Player 2 remembering card: '3 ♠'
+13:44:13.174 <INFO> AI Player 2 making decision for initial throw...
+13:44:13.174 <INFO> [initial throw] Ordered hand: 4 ♥, 3 ♣, 4 ♣, 7 ♣, 10 ♣, 7 ♠; Memory: Q ♠, K ♠, J ♠, 5 ♠, A ♠, 4 ♠, 9 ♠, 6 ♠, 2 ♠, A ♥, 3 ♠
+13:44:13.174 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♣' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:44:13.174 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '3 ♣' with 
+                individual card weight '3' and memory benefit '-1'
+                
+13:44:13.174 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '10 ♣' with 
+                individual card weight '10' and memory benefit '-1'
+                
+13:44:13.174 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '7 ♠' with 
+                individual card weight '7' and memory benefit '-1'
+                
+13:44:13.174 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '4 ♥' with 
+                individual card weight '11' and memory benefit '1'
+                
+13:44:13.174 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '7 ♣' with 
+                individual card weight '7' and memory benefit '-1'
+                
+13:44:13.174 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '3 ♣' with 
+                utility '10'
+                
+13:44:13.174 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'LowHeart' on Card '4 ♥'
+13:44:13.174 <INFO> [initial throw] No Try-take exists; Low Heart available, throwing: '4 ♥'
+13:44:13.174 <INFO> AI Player 2 throwing initial card: '4 ♥'
+13:44:19.934 <INFO> Human Player You throwing card: 'J ♥'
+13:44:21.444 <INFO> AI Player 0 making decision...
+13:44:21.444 <INFO> 
+            [later throw, same suit] Hand: K ♣, 10 ♥, 9 ♥, Q ♣, J ♣, A ♣; 
+            throwable: 9 ♥, 10 ♥; 
+            take weight: 12
+            
+13:44:21.444 <INFO> [later throw, same suit] Suit is Hearts, throwing highest possible, but lower: '10 ♥'
+13:44:21.444 <INFO> AI Player 0 throwing card: '10 ♥'
+13:44:22.949 <INFO> AI Player 1 making decision...
+13:44:22.949 <INFO> AI Player 1 throwing card: '8 ♥'
+13:44:22.949 <INFO> Human Player You taking trick: '4 ♥, J ♥, 10 ♥, 8 ♥'
+13:44:28.873 <INFO> Human Player You throwing initial card: '2 ♣'
+13:44:30.376 <INFO> AI Player 0 making decision...
+13:44:30.377 <INFO> 
+            [later throw, same suit] Hand: K ♣, 9 ♥, Q ♣, J ♣, A ♣; 
+            throwable: J ♣, Q ♣, K ♣; 
+            take weight: 2
+            
+13:44:30.377 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'K ♣'
+13:44:30.377 <INFO> AI Player 0 throwing card: 'K ♣'
+13:44:31.877 <INFO> AI Player 1 making decision...
+13:44:31.877 <INFO> 
+            [later throw, same suit] Hand: 10 ♠, 5 ♦, 5 ♣, 6 ♣, 4 ♦; 
+            throwable: 5 ♣, 6 ♣; 
+            take weight: 14
+            
+13:44:31.877 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '6 ♣'
+13:44:31.877 <INFO> AI Player 1 throwing card: '6 ♣'
+13:44:33.393 <INFO> AI Player 2 making decision...
+13:44:33.393 <INFO> 
+            [later throw, same suit] Hand: 4 ♣, 3 ♣, 10 ♣, 7 ♠, 7 ♣; 
+            throwable: 3 ♣, 4 ♣, 7 ♣, 10 ♣; 
+            take weight: 14
+            
+13:44:33.393 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '10 ♣'
+13:44:33.393 <INFO> AI Player 2 throwing card: '10 ♣'
+13:44:33.393 <INFO> AI Player 0 taking trick: '2 ♣, K ♣, 6 ♣, 10 ♣'
+13:44:33.393 <INFO> AI Player 0 remembering card: '2 ♣'
+13:44:33.393 <INFO> AI Player 0 remembering card: '6 ♣'
+13:44:36.905 <INFO> AI Player 0 making decision for initial throw...
+13:44:36.905 <INFO> [initial throw] Ordered hand: 9 ♥, J ♣, Q ♣, A ♣; Memory: 2 ♣, 6 ♣
+13:44:36.905 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '9 ♥' with 
+                individual card weight '6' and memory benefit '1'
+                
+13:44:36.905 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'Q ♣' with 
+                individual card weight '13' and memory benefit '-1'
+                
+13:44:36.905 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'J ♣' with 
+                individual card weight '12' and memory benefit '-1'
+                
+13:44:36.905 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'A ♣' with 
+                individual card weight '15' and memory benefit '-1'
+                
+13:44:36.905 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on 'J ♣' with 
+                utility '12'
+                
+13:44:36.905 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'TryTake' on Card 'A ♣'
+13:44:36.905 <INFO> [initial throw] Try-take available, throwing: 'A ♣'
+13:44:36.905 <INFO> AI Player 0 throwing initial card: 'A ♣'
+13:44:38.407 <INFO> AI Player 1 making decision...
+13:44:38.407 <INFO> AI Player 1 throwing card: '5 ♣'
+13:44:39.921 <INFO> AI Player 2 making decision...
+13:44:39.921 <INFO> 
+            [later throw, same suit] Hand: 4 ♣, 3 ♣, 7 ♠, 7 ♣; 
+            throwable: 3 ♣, 4 ♣, 7 ♣; 
+            take weight: 15
+            
+13:44:39.921 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '7 ♣'
+13:44:39.921 <INFO> AI Player 2 throwing card: '7 ♣'
+13:44:45.902 <INFO> Human Player You throwing card: '9 ♣'
+13:44:45.902 <INFO> AI Player 0 taking trick: 'A ♣, 5 ♣, 7 ♣, 9 ♣'
+13:44:45.902 <INFO> AI Player 0 remembering card: 'A ♣'
+13:44:45.902 <INFO> AI Player 0 remembering card: '5 ♣'
+13:44:45.902 <INFO> AI Player 0 remembering card: '7 ♣'
+13:44:45.902 <INFO> AI Player 0 remembering card: '9 ♣'
+13:44:49.408 <INFO> AI Player 0 making decision for initial throw...
+13:44:49.408 <INFO> [initial throw] Ordered hand: 9 ♥, J ♣, Q ♣; Memory: 2 ♣, 6 ♣, A ♣, 5 ♣, 7 ♣, 9 ♣
+13:44:49.408 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '9 ♥' with 
+                individual card weight '6' and memory benefit '1'
+                
+13:44:49.408 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'Q ♣' with 
+                individual card weight '13' and memory benefit '-1'
+                
+13:44:49.408 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'J ♣' with 
+                individual card weight '12' and memory benefit '-1'
+                
+13:44:49.408 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on 'J ♣' with 
+                utility '13'
+                
+13:44:49.408 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'TryOthersTake' on Card 'J ♣'
+13:44:49.408 <INFO> [initial throw] Only Try-Others-Take available, throwing: 'J ♣'
+13:44:49.408 <INFO> AI Player 0 throwing initial card: 'J ♣'
+13:44:50.908 <INFO> AI Player 1 making decision...
+13:44:50.908 <INFO> [later throw, other suit] Ordered hand: 4 ♦, 5 ♦, 10 ♠
+13:44:50.909 <INFO> 
+                [later throw, other suit] Registered possible decision 'EliminateHighCards' on '10 ♠' with 
+                utility 10'
+                
+13:44:50.909 <INFO> 
+                [later throw, other suit] Registered possible decision 'EliminateHighCards' on '5 ♦' with 
+                utility 5'
+                
+13:44:50.909 <INFO> 
+                [later throw, other suit] Registered possible decision 'EliminateHighCards' on '4 ♦' with 
+                utility 4'
+                
+13:44:50.909 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:44:50.909 <INFO> AI Player 1 throwing card: '10 ♠'
+13:44:52.423 <INFO> AI Player 2 making decision...
+13:44:52.424 <INFO> 
+            [later throw, same suit] Hand: 4 ♣, 3 ♣, 7 ♠; 
+            throwable: 3 ♣, 4 ♣; 
+            take weight: 12
+            
+13:44:52.424 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '4 ♣'
+13:44:52.424 <INFO> AI Player 2 throwing card: '4 ♣'
+13:44:55.910 <INFO> Human Player You throwing card: '8 ♣'
+13:44:55.910 <INFO> AI Player 0 taking trick: 'J ♣, 10 ♠, 4 ♣, 8 ♣'
+13:44:55.910 <INFO> AI Player 0 remembering card: '4 ♣'
+13:44:59.414 <INFO> AI Player 0 making decision for initial throw...
+13:44:59.414 <INFO> [initial throw] Ordered hand: 9 ♥, Q ♣; Memory: 2 ♣, 6 ♣, A ♣, 5 ♣, 7 ♣, 9 ♣, 4 ♣
+13:44:59.414 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '9 ♥' with 
+                individual card weight '6' and memory benefit '1'
+                
+13:44:59.414 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'Q ♣' with 
+                individual card weight '13' and memory benefit '-1'
+                
+13:44:59.414 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'TryTake' on Card 'Q ♣'
+13:44:59.414 <INFO> [initial throw] Try-take available, throwing: 'Q ♣'
+13:44:59.414 <INFO> AI Player 0 throwing initial card: 'Q ♣'
+13:45:00.916 <INFO> AI Player 1 making decision...
+13:45:00.916 <INFO> [later throw, other suit] Ordered hand: 4 ♦, 5 ♦
+13:45:00.916 <INFO> 
+                [later throw, other suit] Registered possible decision 'EliminateHighCards' on '5 ♦' with 
+                utility 5'
+                
+13:45:00.916 <INFO> 
+                [later throw, other suit] Registered possible decision 'EliminateHighCards' on '4 ♦' with 
+                utility 4'
+                
+13:45:00.916 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:45:00.916 <INFO> AI Player 1 throwing card: '5 ♦'
+13:45:02.420 <INFO> AI Player 2 making decision...
+13:45:02.420 <INFO> AI Player 2 throwing card: '3 ♣'
+13:45:06.851 <INFO> Human Player You throwing card: 'K ♥'
+13:45:06.851 <INFO> AI Player 0 taking trick: 'Q ♣, 5 ♦, 3 ♣, K ♥'
+13:45:06.851 <INFO> AI Player 0 remembering card: 'Q ♣'
+13:45:06.851 <INFO> AI Player 0 remembering card: 'K ♥'
+13:45:10.354 <INFO> AI Player 0 making decision for initial throw...
+13:45:10.354 <INFO> [initial throw] Ordered hand: 9 ♥; Memory: 2 ♣, 6 ♣, A ♣, 5 ♣, 7 ♣, 9 ♣, 4 ♣, Q ♣, K ♥
+13:45:10.354 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '9 ♥' with 
+                individual card weight '6' and memory benefit '1'
+                
+13:45:10.354 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'LowHeart' on Card '9 ♥'
+13:45:10.354 <INFO> [initial throw] No Try-take exists; Low Heart available, throwing: '9 ♥'
+13:45:10.354 <INFO> AI Player 0 throwing initial card: '9 ♥'
+13:45:11.868 <INFO> AI Player 1 making decision...
+13:45:11.868 <INFO> [later throw, other suit] Ordered hand: 4 ♦
+13:45:11.869 <INFO> [later throw, other suit] Have multiple suits, threshold is: 0.22
+13:45:11.869 <INFO> 
+                [later throw, other suit] Registered possible decision 'EliminateHighCards' on '4 ♦' with 
+                utility 4'
+                
+13:45:11.869 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:45:11.869 <INFO> AI Player 1 throwing card: '4 ♦'
+13:45:13.373 <INFO> AI Player 2 making decision...
+13:45:13.373 <INFO> [later throw, other suit] Ordered hand: 7 ♠
+13:45:13.374 <INFO> [later throw, other suit] Have multiple suits, threshold is: 0.22
+13:45:13.374 <INFO> 
+                [later throw, other suit] Registered possible decision 'EliminateHighCards' on '7 ♠' with 
+                utility 7'
+                
+13:45:13.374 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:45:13.374 <INFO> AI Player 2 throwing card: '7 ♠'
+13:45:18.457 <INFO> Human Player You throwing card: 'Q ♥'
+13:45:18.457 <INFO> Human Player You taking trick: '9 ♥, 4 ♦, 7 ♠, Q ♥'
+13:45:21.962 <INFO> Human Player You returning taken cards: 'A ♦, J ♦, K ♦, 10 ♦, 3 ♥, 2 ♥, 7 ♥, 6 ♥, 4 ♥, J ♥, 10 ♥, 8 ♥, 9 ♥, 4 ♦, 7 ♠, Q ♥'
+13:45:21.962 <INFO> AI Player 0 returning taken cards: '2 ♣, K ♣, 6 ♣, 10 ♣, A ♣, 5 ♣, 7 ♣, 9 ♣, J ♣, 10 ♠, 4 ♣, 8 ♣, Q ♣, 5 ♦, 3 ♣, K ♥'
+13:45:21.962 <INFO> AI Player 1 returning taken cards: '7 ♦, 8 ♦, Q ♦, 9 ♦, 2 ♦, 3 ♦, 6 ♦, 5 ♥'
+13:45:21.962 <INFO> AI Player 2 returning taken cards: 'Q ♠, K ♠, J ♠, 5 ♠, A ♠, 4 ♠, 9 ♠, 8 ♠, 6 ♠, 2 ♠, A ♥, 3 ♠'
+13:45:21.962 <INFO> Finished round, awaiting input...
+13:45:35.260 <INFO> Human Player You adding card: 'Q ♥' to hand
+13:45:35.260 <INFO> AI Player 0 adding card: '10 ♥' to hand
+13:45:35.260 <INFO> AI Player 1 adding card: '10 ♣' to hand
+13:45:35.260 <INFO> AI Player 2 adding card: '2 ♣' to hand
+13:45:35.260 <INFO> Human Player You adding card: 'J ♠' to hand
+13:45:35.260 <INFO> AI Player 0 adding card: '5 ♥' to hand
+13:45:35.260 <INFO> AI Player 1 adding card: '6 ♠' to hand
+13:45:35.260 <INFO> AI Player 2 adding card: '7 ♥' to hand
+13:45:35.260 <INFO> Human Player You adding card: 'Q ♦' to hand
+13:45:35.260 <INFO> AI Player 0 adding card: 'K ♠' to hand
+13:45:35.260 <INFO> AI Player 1 adding card: '7 ♠' to hand
+13:45:35.260 <INFO> AI Player 2 adding card: '9 ♣' to hand
+13:45:35.260 <INFO> Human Player You adding card: 'Q ♣' to hand
+13:45:35.260 <INFO> AI Player 0 adding card: '6 ♣' to hand
+13:45:35.260 <INFO> AI Player 1 adding card: '3 ♠' to hand
+13:45:35.260 <INFO> AI Player 2 adding card: '8 ♦' to hand
+13:45:35.260 <INFO> Human Player You adding card: '8 ♣' to hand
+13:45:35.260 <INFO> AI Player 0 adding card: 'A ♥' to hand
+13:45:35.260 <INFO> AI Player 1 adding card: '8 ♥' to hand
+13:45:35.260 <INFO> AI Player 2 adding card: 'A ♦' to hand
+13:45:35.260 <INFO> Human Player You adding card: 'K ♣' to hand
+13:45:35.260 <INFO> AI Player 0 adding card: '9 ♠' to hand
+13:45:35.260 <INFO> AI Player 1 adding card: '3 ♦' to hand
+13:45:35.260 <INFO> AI Player 2 adding card: '3 ♣' to hand
+13:45:35.260 <INFO> Human Player You adding card: 'J ♥' to hand
+13:45:35.260 <INFO> AI Player 0 adding card: '7 ♣' to hand
+13:45:35.260 <INFO> AI Player 1 adding card: '6 ♦' to hand
+13:45:35.260 <INFO> AI Player 2 adding card: '7 ♦' to hand
+13:45:35.260 <INFO> Human Player You adding card: 'J ♦' to hand
+13:45:35.260 <INFO> AI Player 0 adding card: 'A ♠' to hand
+13:45:35.260 <INFO> AI Player 1 adding card: 'Q ♠' to hand
+13:45:35.260 <INFO> AI Player 2 adding card: '9 ♥' to hand
+13:45:35.260 <INFO> Human Player You adding card: '4 ♣' to hand
+13:45:35.260 <INFO> AI Player 0 adding card: 'A ♣' to hand
+13:45:35.260 <INFO> AI Player 1 adding card: 'K ♦' to hand
+13:45:35.260 <INFO> AI Player 2 adding card: '4 ♦' to hand
+13:45:35.260 <INFO> Human Player You adding card: '8 ♠' to hand
+13:45:35.260 <INFO> AI Player 0 adding card: '9 ♦' to hand
+13:45:35.260 <INFO> AI Player 1 adding card: 'K ♥' to hand
+13:45:35.260 <INFO> AI Player 2 adding card: '10 ♦' to hand
+13:45:35.260 <INFO> Human Player You adding card: '5 ♦' to hand
+13:45:35.260 <INFO> AI Player 0 adding card: '10 ♠' to hand
+13:45:35.260 <INFO> AI Player 1 adding card: '3 ♥' to hand
+13:45:35.260 <INFO> AI Player 2 adding card: '5 ♣' to hand
+13:45:35.260 <INFO> Human Player You adding card: '6 ♥' to hand
+13:45:35.260 <INFO> AI Player 0 adding card: 'J ♣' to hand
+13:45:35.260 <INFO> AI Player 1 adding card: '5 ♠' to hand
+13:45:35.260 <INFO> AI Player 2 adding card: '4 ♥' to hand
+13:45:35.260 <INFO> Human Player You adding card: '2 ♠' to hand
+13:45:35.260 <INFO> AI Player 0 adding card: '4 ♠' to hand
+13:45:35.260 <INFO> AI Player 1 adding card: '2 ♥' to hand
+13:45:35.260 <INFO> AI Player 2 adding card: '2 ♦' to hand
+13:45:46.463 <INFO> Human Player You throwing initial card: 'K ♣'
+13:45:47.978 <INFO> AI Player 0 making decision...
+13:45:47.979 <INFO> 
+            [later throw, same suit] Hand: 10 ♥, 5 ♥, K ♠, 6 ♣, A ♥, 9 ♠, 7 ♣, A ♠, A ♣, 9 ♦, 10 ♠, J ♣, 4 ♠; 
+            throwable: 6 ♣, 7 ♣, J ♣, A ♣; 
+            take weight: 14
+            
+13:45:47.979 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'A ♣'
+13:45:47.979 <INFO> AI Player 0 throwing card: 'A ♣'
+13:45:49.491 <INFO> AI Player 1 making decision...
+13:45:49.491 <INFO> AI Player 1 throwing card: '10 ♣'
+13:45:51.007 <INFO> AI Player 2 making decision...
+13:45:51.007 <INFO> 
+            [later throw, same suit] Hand: 2 ♣, 7 ♥, 9 ♣, 8 ♦, A ♦, 3 ♣, 7 ♦, 9 ♥, 4 ♦, 10 ♦, 5 ♣, 4 ♥, 2 ♦; 
+            throwable: 2 ♣, 3 ♣, 5 ♣; 
+            take weight: 15
+            
+13:45:51.007 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '5 ♣'
+13:45:51.007 <INFO> AI Player 2 throwing card: '5 ♣'
+13:45:51.007 <INFO> AI Player 0 taking trick: 'K ♣, A ♣, 10 ♣, 5 ♣'
+13:45:51.007 <INFO> AI Player 0 remembering card: 'K ♣'
+13:45:51.007 <INFO> AI Player 0 remembering card: 'A ♣'
+13:45:51.007 <INFO> AI Player 0 remembering card: '10 ♣'
+13:45:51.007 <INFO> AI Player 0 remembering card: '5 ♣'
+13:45:54.521 <INFO> AI Player 0 making decision for initial throw...
+13:45:54.521 <INFO> [initial throw] Ordered hand: 5 ♥, 10 ♥, A ♥, 9 ♦, 6 ♣, 7 ♣, J ♣, 4 ♠, 9 ♠, 10 ♠, K ♠, A ♠; Memory: K ♣, A ♣, 10 ♣, 5 ♣
+13:45:54.521 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '10 ♥' with 
+                individual card weight '5' and memory benefit '1'
+                
+13:45:54.521 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '5 ♥' with 
+                individual card weight '10' and memory benefit '1'
+                
+13:45:54.521 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'K ♠' with 
+                individual card weight '14' and memory benefit '-1'
+                
+13:45:54.521 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '6 ♣' with 
+                individual card weight '6' and memory benefit '-1'
+                
+13:45:54.521 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on 'A ♥' with 
+                individual card weight '0' and memory benefit '1'
+                
+13:45:54.521 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '9 ♠' with 
+                individual card weight '9' and memory benefit '-1'
+                
+13:45:54.521 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '7 ♣' with 
+                individual card weight '7' and memory benefit '-1'
+                
+13:45:54.521 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'A ♠' with 
+                individual card weight '15' and memory benefit '-1'
+                
+13:45:54.521 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '9 ♦' with 
+                individual card weight '9' and memory benefit '-1'
+                
+13:45:54.521 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '10 ♠' with 
+                individual card weight '10' and memory benefit '-1'
+                
+13:45:54.521 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'J ♣' with 
+                individual card weight '12' and memory benefit '-1'
+                
+13:45:54.521 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♠' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:45:54.521 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '9 ♦' with 
+                utility '13'
+                
+13:45:54.521 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '4 ♠' with 
+                utility '10'
+                
+13:45:54.521 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '6 ♣' with 
+                utility '11'
+                
+13:45:54.521 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'TryTake' on Card 'A ♠'
+13:45:54.521 <INFO> [initial throw] Try-take available, throwing: 'A ♠'
+13:45:54.521 <INFO> AI Player 0 throwing initial card: 'A ♠'
+13:45:56.028 <INFO> AI Player 1 making decision...
+13:45:56.028 <INFO> 
+            [later throw, same suit] Hand: 6 ♠, 7 ♠, 3 ♠, 8 ♥, 3 ♦, 6 ♦, Q ♠, K ♦, K ♥, 3 ♥, 5 ♠, 2 ♥; 
+            throwable: 3 ♠, 5 ♠, 6 ♠, 7 ♠; 
+            take weight: 15
+            
+13:45:56.028 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '7 ♠'
+13:45:56.028 <INFO> AI Player 1 throwing card: '7 ♠'
+13:45:57.530 <INFO> AI Player 2 making decision...
+13:45:57.530 <INFO> [later throw, other suit] Ordered hand: 4 ♥, 7 ♥, 9 ♥, 2 ♦, 4 ♦, 7 ♦, 8 ♦, 10 ♦, A ♦, 2 ♣, 3 ♣, 9 ♣
+13:45:57.530 <INFO> [later throw, other suit] Have hearts, throwing: 9 ♥
+13:45:57.530 <INFO> AI Player 2 throwing card: '9 ♥'
+13:46:00.405 <INFO> Human Player You throwing card: 'J ♠'
+13:46:00.405 <INFO> AI Player 0 taking trick: 'A ♠, 7 ♠, 9 ♥, J ♠'
+13:46:00.405 <INFO> AI Player 0 remembering card: 'A ♠'
+13:46:00.405 <INFO> AI Player 0 remembering card: '9 ♥'
+13:46:03.910 <INFO> AI Player 0 making decision for initial throw...
+13:46:03.910 <INFO> [initial throw] Ordered hand: 5 ♥, 10 ♥, A ♥, 9 ♦, 6 ♣, 7 ♣, J ♣, 4 ♠, 9 ♠, 10 ♠, K ♠; Memory: K ♣, A ♣, 10 ♣, 5 ♣, A ♠, 9 ♥
+13:46:03.910 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '10 ♥' with 
+                individual card weight '5' and memory benefit '1'
+                
+13:46:03.910 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '5 ♥' with 
+                individual card weight '10' and memory benefit '1'
+                
+13:46:03.910 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'K ♠' with 
+                individual card weight '14' and memory benefit '0'
+                
+13:46:03.910 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '6 ♣' with 
+                individual card weight '6' and memory benefit '-1'
+                
+13:46:03.910 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on 'A ♥' with 
+                individual card weight '0' and memory benefit '1'
+                
+13:46:03.910 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '9 ♠' with 
+                individual card weight '9' and memory benefit '0'
+                
+13:46:03.910 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '7 ♣' with 
+                individual card weight '7' and memory benefit '-1'
+                
+13:46:03.910 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '9 ♦' with 
+                individual card weight '9' and memory benefit '-1'
+                
+13:46:03.910 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '10 ♠' with 
+                individual card weight '10' and memory benefit '0'
+                
+13:46:03.910 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'J ♣' with 
+                individual card weight '12' and memory benefit '-1'
+                
+13:46:03.910 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♠' with 
+                individual card weight '4' and memory benefit '0'
+                
+13:46:03.910 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '9 ♦' with 
+                utility '13'
+                
+13:46:03.910 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '4 ♠' with 
+                utility '11'
+                
+13:46:03.910 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '6 ♣' with 
+                utility '11'
+                
+13:46:03.910 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'TryTake' on Card 'K ♠'
+13:46:03.910 <INFO> [initial throw] Try-take available, throwing: 'K ♠'
+13:46:03.910 <INFO> AI Player 0 throwing initial card: 'K ♠'
+13:46:05.422 <INFO> AI Player 1 making decision...
+13:46:05.422 <INFO> 
+            [later throw, same suit] Hand: 6 ♠, 3 ♠, 8 ♥, 3 ♦, 6 ♦, Q ♠, K ♦, K ♥, 3 ♥, 5 ♠, 2 ♥; 
+            throwable: 3 ♠, 5 ♠, 6 ♠; 
+            take weight: 14
+            
+13:46:05.422 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '6 ♠'
+13:46:05.422 <INFO> AI Player 1 throwing card: '6 ♠'
+13:46:06.923 <INFO> AI Player 2 making decision...
+13:46:06.924 <INFO> [later throw, other suit] Ordered hand: 4 ♥, 7 ♥, 2 ♦, 4 ♦, 7 ♦, 8 ♦, 10 ♦, A ♦, 2 ♣, 3 ♣, 9 ♣
+13:46:06.924 <INFO> [later throw, other suit] Have hearts, throwing: 7 ♥
+13:46:06.924 <INFO> AI Player 2 throwing card: '7 ♥'
+13:46:10.294 <INFO> Human Player You throwing card: '8 ♠'
+13:46:10.294 <INFO> AI Player 0 taking trick: 'K ♠, 6 ♠, 7 ♥, 8 ♠'
+13:46:10.294 <INFO> AI Player 0 remembering card: 'K ♠'
+13:46:10.294 <INFO> AI Player 0 remembering card: '6 ♠'
+13:46:10.294 <INFO> AI Player 0 remembering card: '7 ♥'
+13:46:10.294 <INFO> AI Player 0 remembering card: '8 ♠'
+13:46:13.800 <INFO> AI Player 0 making decision for initial throw...
+13:46:13.800 <INFO> [initial throw] Ordered hand: 5 ♥, 10 ♥, A ♥, 9 ♦, 6 ♣, 7 ♣, J ♣, 4 ♠, 9 ♠, 10 ♠; Memory: K ♣, A ♣, 10 ♣, 5 ♣, A ♠, 9 ♥, K ♠, 6 ♠, 7 ♥, 8 ♠
+13:46:13.800 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '10 ♥' with 
+                individual card weight '5' and memory benefit '1'
+                
+13:46:13.800 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '5 ♥' with 
+                individual card weight '10' and memory benefit '1'
+                
+13:46:13.800 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '6 ♣' with 
+                individual card weight '6' and memory benefit '-1'
+                
+13:46:13.800 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on 'A ♥' with 
+                individual card weight '0' and memory benefit '1'
+                
+13:46:13.800 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '9 ♠' with 
+                individual card weight '9' and memory benefit '-1'
+                
+13:46:13.800 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '7 ♣' with 
+                individual card weight '7' and memory benefit '-1'
+                
+13:46:13.800 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '9 ♦' with 
+                individual card weight '9' and memory benefit '-1'
+                
+13:46:13.801 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '10 ♠' with 
+                individual card weight '10' and memory benefit '-1'
+                
+13:46:13.801 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on 'J ♣' with 
+                individual card weight '12' and memory benefit '-1'
+                
+13:46:13.801 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♠' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:46:13.801 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '9 ♦' with 
+                utility '13'
+                
+13:46:13.801 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '4 ♠' with 
+                utility '12'
+                
+13:46:13.801 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '6 ♣' with 
+                utility '11'
+                
+13:46:13.801 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'TryOthersTake' on Card '9 ♦'
+13:46:13.801 <INFO> [initial throw] Only Try-Others-Take available, throwing: '9 ♦'
+13:46:13.801 <INFO> AI Player 0 throwing initial card: '9 ♦'
+13:46:15.311 <INFO> AI Player 1 making decision...
+13:46:15.311 <INFO> 
+            [later throw, same suit] Hand: 3 ♠, 8 ♥, 3 ♦, 6 ♦, Q ♠, K ♦, K ♥, 3 ♥, 5 ♠, 2 ♥; 
+            throwable: 3 ♦, 6 ♦, K ♦; 
+            take weight: 9
+            
+13:46:15.311 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'K ♦'
+13:46:15.311 <INFO> AI Player 1 throwing card: 'K ♦'
+13:46:16.814 <INFO> AI Player 2 making decision...
+13:46:16.814 <INFO> 
+            [later throw, same suit] Hand: 2 ♣, 9 ♣, 8 ♦, A ♦, 3 ♣, 7 ♦, 4 ♦, 10 ♦, 4 ♥, 2 ♦; 
+            throwable: 2 ♦, 4 ♦, 7 ♦, 8 ♦, 10 ♦, A ♦; 
+            take weight: 14
+            
+13:46:16.814 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'A ♦'
+13:46:16.814 <INFO> AI Player 2 throwing card: 'A ♦'
+13:46:19.888 <INFO> Human Player You throwing card: 'Q ♦'
+13:46:19.888 <INFO> AI Player 2 taking trick: '9 ♦, K ♦, A ♦, Q ♦'
+13:46:19.888 <INFO> AI Player 2 remembering card: '9 ♦'
+13:46:19.888 <INFO> AI Player 2 remembering card: 'A ♦'
+13:46:19.888 <INFO> AI Player 2 remembering card: 'Q ♦'
+13:46:23.399 <INFO> AI Player 2 making decision for initial throw...
+13:46:23.399 <INFO> [initial throw] Ordered hand: 4 ♥, 2 ♦, 4 ♦, 7 ♦, 8 ♦, 10 ♦, 2 ♣, 3 ♣, 9 ♣; Memory: 9 ♦, A ♦, Q ♦
+13:46:23.399 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '2 ♣' with 
+                individual card weight '2' and memory benefit '-1'
+                
+13:46:23.399 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '9 ♣' with 
+                individual card weight '9' and memory benefit '-1'
+                
+13:46:23.399 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '8 ♦' with 
+                individual card weight '8' and memory benefit '-1'
+                
+13:46:23.399 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '3 ♣' with 
+                individual card weight '3' and memory benefit '-1'
+                
+13:46:23.399 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '7 ♦' with 
+                individual card weight '7' and memory benefit '-1'
+                
+13:46:23.399 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♦' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:46:23.399 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '10 ♦' with 
+                individual card weight '10' and memory benefit '-1'
+                
+13:46:23.399 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '4 ♥' with 
+                individual card weight '11' and memory benefit '1'
+                
+13:46:23.399 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '2 ♦' with 
+                individual card weight '2' and memory benefit '-1'
+                
+13:46:23.399 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '2 ♦' with 
+                utility '9'
+                
+13:46:23.399 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '2 ♣' with 
+                utility '12'
+                
+13:46:23.399 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'LowHeart' on Card '4 ♥, Decision with Strategy: 'TryOthersTake' on Card '2 ♣'
+13:46:23.399 <INFO> [initial throw] No Try-take exists; Low Heart available, throwing: '4 ♥'
+13:46:23.399 <INFO> AI Player 2 throwing initial card: '4 ♥'
+13:46:28.553 <INFO> Human Player You throwing card: '6 ♥'
+13:46:30.066 <INFO> AI Player 0 making decision...
+13:46:30.066 <INFO> 
+            [later throw, same suit] Hand: 10 ♥, 5 ♥, 6 ♣, A ♥, 9 ♠, 7 ♣, 10 ♠, J ♣, 4 ♠; 
+            throwable: 5 ♥, 10 ♥, A ♥; 
+            take weight: 6
+            
+13:46:30.066 <INFO> [later throw, same suit] Suit is Hearts, throwing highest possible, but lower: '5 ♥'
+13:46:30.066 <INFO> AI Player 0 throwing card: '5 ♥'
+13:46:31.579 <INFO> AI Player 1 making decision...
+13:46:31.579 <INFO> 
+            [later throw, same suit] Hand: 3 ♠, 8 ♥, 3 ♦, 6 ♦, Q ♠, K ♥, 3 ♥, 5 ♠, 2 ♥; 
+            throwable: 2 ♥, 3 ♥, 8 ♥, K ♥; 
+            take weight: 6
+            
+13:46:31.579 <INFO> [later throw, same suit] Suit is Hearts, throwing highest possible, but lower: '3 ♥'
+13:46:31.579 <INFO> AI Player 1 throwing card: '3 ♥'
+13:46:31.579 <INFO> Human Player You taking trick: '4 ♥, 6 ♥, 5 ♥, 3 ♥'
+13:46:38.317 <INFO> Human Player You throwing initial card: 'Q ♣'
+13:46:39.827 <INFO> AI Player 0 making decision...
+13:46:39.827 <INFO> 
+            [later throw, same suit] Hand: 10 ♥, 6 ♣, A ♥, 9 ♠, 7 ♣, 10 ♠, J ♣, 4 ♠; 
+            throwable: 6 ♣, 7 ♣, J ♣; 
+            take weight: 13
+            
+13:46:39.827 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: 'J ♣'
+13:46:39.827 <INFO> AI Player 0 throwing card: 'J ♣'
+13:46:41.340 <INFO> AI Player 1 making decision...
+13:46:41.340 <INFO> [later throw, other suit] Ordered hand: 2 ♥, 8 ♥, K ♥, 3 ♦, 6 ♦, 3 ♠, 5 ♠, Q ♠
+13:46:41.340 <INFO> [later throw, other suit] Have hearts, throwing: K ♥
+13:46:41.340 <INFO> AI Player 1 throwing card: 'K ♥'
+13:46:42.850 <INFO> AI Player 2 making decision...
+13:46:42.850 <INFO> 
+            [later throw, same suit] Hand: 2 ♣, 9 ♣, 8 ♦, 3 ♣, 7 ♦, 4 ♦, 10 ♦, 2 ♦; 
+            throwable: 2 ♣, 3 ♣; 
+            take weight: 13
+            
+13:46:42.850 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '3 ♣'
+13:46:42.850 <INFO> AI Player 2 throwing card: '3 ♣'
+13:46:42.850 <INFO> Human Player You taking trick: 'Q ♣, J ♣, K ♥, 3 ♣'
+13:46:49.212 <INFO> Human Player You throwing initial card: '2 ♠'
+13:46:50.719 <INFO> AI Player 0 making decision...
+13:46:50.719 <INFO> 
+            [later throw, same suit] Hand: 10 ♥, 6 ♣, A ♥, 9 ♠, 7 ♣, 10 ♠, 4 ♠; 
+            throwable: 4 ♠, 9 ♠; 
+            take weight: 2
+            
+13:46:50.719 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '9 ♠'
+13:46:50.719 <INFO> AI Player 0 throwing card: '9 ♠'
+13:46:52.230 <INFO> AI Player 1 making decision...
+13:46:52.230 <INFO> 
+            [later throw, same suit] Hand: 3 ♠, 8 ♥, 3 ♦, 6 ♦, Q ♠, 5 ♠, 2 ♥; 
+            throwable: 3 ♠, 5 ♠; 
+            take weight: 9
+            
+13:46:52.230 <INFO> [later throw, same suit] Only one strategy viable, throwing highest: '5 ♠'
+13:46:52.230 <INFO> AI Player 1 throwing card: '5 ♠'
+13:46:53.742 <INFO> AI Player 2 making decision...
+13:46:53.742 <INFO> [later throw, other suit] Ordered hand: 2 ♦, 4 ♦, 7 ♦, 8 ♦, 10 ♦, 2 ♣, 9 ♣
+13:46:53.742 <INFO> [later throw, other suit] Have multiple suits, threshold is: 0.35
+13:46:53.742 <INFO> [later throw, other suit] Represantion (0.8333333) is greater than threshold or zero, skipping...
+13:46:53.742 <INFO> [later throw, other suit] Represantion (0) is greater than threshold or zero, skipping...
+13:46:53.742 <INFO> 
+                [later throw, other suit] Registered possible decision 'EliminateSuitWithFewCards' on '2 ♣' with 
+                utility 2'
+                
+13:46:53.742 <INFO> [later throw, other suit] Can eliminate suit, filtering optimal and returning
+13:46:53.742 <INFO> AI Player 2 throwing card: '2 ♣'
+13:46:53.742 <INFO> AI Player 0 taking trick: '2 ♠, 9 ♠, 5 ♠, 2 ♣'
+13:46:53.742 <INFO> AI Player 0 remembering card: '2 ♠'
+13:46:53.742 <INFO> AI Player 0 remembering card: '5 ♠'
+13:46:57.251 <INFO> AI Player 0 making decision for initial throw...
+13:46:57.251 <INFO> [initial throw] Ordered hand: 10 ♥, A ♥, 6 ♣, 7 ♣, 4 ♠, 10 ♠; Memory: K ♣, A ♣, 10 ♣, 5 ♣, A ♠, 9 ♥, K ♠, 6 ♠, 7 ♥, 8 ♠, 2 ♠, 5 ♠
+13:46:57.251 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on '10 ♥' with 
+                individual card weight '5' and memory benefit '1'
+                
+13:46:57.251 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '6 ♣' with 
+                individual card weight '6' and memory benefit '-1'
+                
+13:46:57.251 <INFO> 
+                [initial throw] Registered possible decision 'LowHeart' on 'A ♥' with 
+                individual card weight '0' and memory benefit '1'
+                
+13:46:57.251 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '7 ♣' with 
+                individual card weight '7' and memory benefit '-1'
+                
+13:46:57.251 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '10 ♠' with 
+                individual card weight '10' and memory benefit '-1'
+                
+13:46:57.251 <INFO> 
+                [initial throw] Registered possible decision 'TryTake' on '4 ♠' with 
+                individual card weight '4' and memory benefit '-1'
+                
+13:46:57.251 <INFO> 
+                [initial throw] Registered possible decision 'TryOthersTake' on '4 ♠' with 
+                utility '13'
+                
+13:46:57.251 <INFO> 
+                [initial throw]  Registered possible decision 'TryOthersTake' on '6 ♣' with 
+                utility '12'
+                
+13:46:57.251 <INFO> [initial throw] Optimal decisions are: 'Decision with Strategy: 'TryOthersTake' on Card '4 ♠'
+13:46:57.251 <INFO> [initial throw] Only Try-Others-Take available, throwing: '4 ♠'
+13:46:57.251 <INFO> AI Player 0 throwing initial card: '4 ♠'
+13:46:58.752 <INFO> AI Player 1 making decision...
+13:46:58.752 <INFO> 
+            [later throw, same suit] Hand: 3 ♠, 8 ♥, 3 ♦, 6 ♦, Q ♠, 2 ♥; 
+            throwable: 3 ♠; 
+            take weight: 4
+            
+13:46:58.752 <INFO> [later throw, same suit] Can only throw one: '3 ♠'
+13:46:58.752 <INFO> AI Player 1 throwing card: '3 ♠'
+13:47:00.254 <INFO> AI Player 2 making decision...
+13:47:00.254 <INFO> [later throw, other suit] Ordered hand: 2 ♦, 4 ♦, 7 ♦, 8 ♦, 10 ♦, 9 ♣
+13:47:00.254 <INFO> 
+                [later throw, other suit] Registered possible decision 'EliminateHighCards' on '9 ♣' with 
+                utility 9'
+                
+13:47:00.254 <INFO> 
+                [later throw, other suit] Registered possible decision 'EliminateHighCards' on '8 ♦' with 
+                utility 8'
+                
+13:47:00.254 <INFO> 
+                [later throw, other suit] Registered possible decision 'EliminateHighCards' on '7 ♦' with 
+                utility 7'
+                
+13:47:00.254 <INFO> 
+                [later throw, other suit] Registered possible decision 'EliminateHighCards' on '4 ♦' with 
+                utility 4'
+                
+13:47:00.254 <INFO> 
+                [later throw, other suit] Registered possible decision 'EliminateHighCards' on '10 ♦' with 
+                utility 10'
+                
+13:47:00.254 <INFO> 
+                [later throw, other suit] Registered possible decision 'EliminateHighCards' on '2 ♦' with 
+                utility 2'
+                
+13:47:00.254 <INFO> [later throw, other suit] Returning eliminatee high card decision
+13:47:00.254 <INFO> AI Player 2 throwing card: '10 ♦'
+13:47:1.985 <ERROR> Unknown exception of type [System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GameOfHearts.HumanPlayer.Services.InputOutputService.ReadInputAndClearViable() in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.HumanPlayer\Services\InputOutputService.cs:line 101
+   at GameOfHearts.HumanPlayer.ConsolePlayer.ThrowCard(Card initial, ReadOnlySpan`1 trick) in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.HumanPlayer\ConsolePlayer.cs:line 98
+   at GameOfHearts.Game.Services.GameService.RemaningPlayersThrow(Card initial) in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.Game\Services\GameService.cs:line 39
+   at GameOfHearts.Game.Services.GameService.PlayGame() in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.Game\Services\GameService.cs:line 141
+   at GameOfHearts.ConsoleApp.Program.Main(String[] args) in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.ConsoleApp\Program.cs:line 36]: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+Trace:    at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GameOfHearts.HumanPlayer.Services.InputOutputService.ReadInputAndClearViable() in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.HumanPlayer\Services\InputOutputService.cs:line 101
+   at GameOfHearts.HumanPlayer.ConsolePlayer.ThrowCard(Card initial, ReadOnlySpan`1 trick) in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.HumanPlayer\ConsolePlayer.cs:line 98
+   at GameOfHearts.Game.Services.GameService.RemaningPlayersThrow(Card initial) in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.Game\Services\GameService.cs:line 39
+   at GameOfHearts.Game.Services.GameService.PlayGame() in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.Game\Services\GameService.cs:line 141
+   at GameOfHearts.ConsoleApp.Program.Main(String[] args) in C:\Users\Aleksandar\source\repos\GameOfHearts\GameOfHearts.ConsoleApp\Program.cs:line 36
