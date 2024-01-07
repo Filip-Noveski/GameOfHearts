@@ -52,7 +52,7 @@ public sealed class InitialThrowService
             InitialThrowStrategy strategy = InitialThrowStrategy.TryTake;
             Decision<InitialThrowStrategy> decision = new(card, strategy);
             int individualCardWeight = CardService.GetCardWeight(card);
-            Card? optimal = _cardUtilities.GetLowertCardNonBreakingFromAce(
+            Card? optimal = _cardUtilities.GetLowestCardNonBreakingFromAce(
                 memory.FindAll(x => x.Suit == card.Suit));
             // optimal utility should be 14, no cards remembered should subtract 1 as weight(A) = 15
             int memoryBenefit = optimal is null

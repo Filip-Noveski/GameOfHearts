@@ -112,7 +112,7 @@ public sealed class CardsUtilities
     /// </summary>
     /// <param name="cards">The cards to search over.</param>
     /// <returns>The discored result or null.</returns>
-    public Card? GetLowertCardNonBreakingFromAce(List<Card> cards)
+    public Card? GetLowestCardNonBreakingFromAce(List<Card> cards)
     {
         Card? final = null;
         Card[] ordered = cards.OrderByDescending(x => x.Face).ToArray();
